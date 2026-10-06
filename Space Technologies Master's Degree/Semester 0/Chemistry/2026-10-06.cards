@@ -1,0 +1,27 @@
+// @id 01M49AZX6SQFN57TX1W02SNNDK
+q: ==Chemical element== is a substance composed of atoms with the same number of protons in the atomic nucleus.
+
+// @id 01M49AZX6S0Z5SGA1M4T3H1V1J model=basic-example
+q: What is **the law of definite proportions**?
+a: Every chemical compound, regardless of the method of obtaining it, has a constant qualitative and quantitative composition.
+
+// @id 01M49AZX6SY5SZF4CK1SDYXG9C model=basic-example
+q: What is **the law of multiple proportions**?
+a: When two elements react to form more than one compound, a fixed mass of one element will react with masses of the other element in a ratio of small, whole numbers. 
+
+// @id 01M49AZX6SAPFFJHY9N2XDT1HZ model=basic-example
+q: What is **Avogadro's law**?
+a: Under the same conditions of pressure and temperature, the same volumes of different gases contain the same numbers of molecules.
+
+// @id 01M49AZX6STJ1V0JS77M68G1YF
+q: ==Atomic mass== is the mass of a single atom of an element, expressed in atomic mass units (u), and is approximately equal to the sum of its protons and neutrons.
+
+// @id 01M49AZX6S5T61JQ754TCYQ6ND
+q: The ==dalton (symbol: Da) or unified atomic mass unit (symbol: u)== is a unit of mass defined as $$\frac{1}{12}$$ of the mass of an unbound neutral atom of carbon-12 in its nuclear and electronic ground state and at rest.
+e: $$1u = \frac{1}{12} \times mass of \prescript{12}{6}{\mathbf{C}}$$
+
+// @id 01M49AZX6SA4NDCSS8PH187RZ2
+q: The ==mole (symbol mol)== is a unit of measurement for amount of substance.
+
+// @id 01M49AZX6SM8SRAQMXZNYSMPWZ
+q: One mole is an aggregate of exactly ==$$6.02214076 \times 10^23$$== elementary entities which can be atoms, molecules, ions, ion pairs, or other particles.

@@ -1,3 +1,4 @@
 # ankigen deck ids — keep this file so your Anki decks stay stable across rebuilds
 1327953962	Space Technologies Exam::2. Spacecraft & Observations
-1714915550	Space Technologies Master's Degree::Entrance exam::2. Spacecraft & Observations
+1327953962	Technologies Master's Degree::Entrance exam::2. Spacecraft & Observations
+1327953962	Entrance exam::2. Spacecraft & Observations

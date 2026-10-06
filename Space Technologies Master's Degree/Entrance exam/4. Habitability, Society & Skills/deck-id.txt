@@ -1,3 +1,4 @@
 # ankigen deck ids — keep this file so your Anki decks stay stable across rebuilds
 2136007558	Space Technologies Exam::4. Habitability, Society & Skills
-1483796547	Space Technologies Master's Degree::Entrance exam::4. Habitability, Society & Skills
+2136007558	Space Technologies Master's Degree::Entrance exam::4. Habitability, Society & Skills
+2136007558	Entrance exam::4. Habitability, Society & Skills

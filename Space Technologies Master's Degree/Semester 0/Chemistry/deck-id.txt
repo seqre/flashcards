@@ -1,0 +1,2 @@
+# ankigen deck ids — keep this file so your Anki decks stay stable across rebuilds
+2047571059	Semester 0::Chemistry
