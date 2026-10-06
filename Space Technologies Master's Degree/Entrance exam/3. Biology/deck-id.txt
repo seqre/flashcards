@@ -1,2 +1,3 @@
 # ankigen deck ids — keep this file so your Anki decks stay stable across rebuilds
 1097574855	Space Technologies Exam::3. Biology
+1343227284	Space Technologies Master's Degree::Entrance exam::3. Biology

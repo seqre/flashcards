@@ -1,2 +1,3 @@
 # ankigen deck ids — keep this file so your Anki decks stay stable across rebuilds
 2112914538	Space Technologies Exam::Extra
+2077463664	Space Technologies Master's Degree::Entrance exam::Extra

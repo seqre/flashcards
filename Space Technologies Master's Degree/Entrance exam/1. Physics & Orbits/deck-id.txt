@@ -1,2 +1,3 @@
 # ankigen deck ids — keep this file so your Anki decks stay stable across rebuilds
 1616272461	Space Technologies Exam::1. Physics & Orbits
+1112910876	Space Technologies Master's Degree::Entrance exam::1. Physics & Orbits
