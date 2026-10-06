@@ -1,0 +1,154 @@
+// @id 01KVVCHTHCCGW1BFBXG60DNS3K
+q: The ==photovoltaic effect== is a physical phenomenon in which a semiconductor material generates electric energy upon being exposed to light.
+e: The photovoltaic effect is closely related to the photoelectric effect. For both phenomena, light is absorbed, causing excitation of an electron or other charge carrier to a higher-energy state. The main distinction is that the term photoelectric effect is usually used when the electron is ejected out of the material (usually into a vacuum), and photovoltaic effect is used when the excited charge carrier is still contained within the material.
+
+// @id 01KVVCHTHCHWSGZ5ZGEQCKJP6Q
+q: The ==photoelectric effect== is the emission of electrons from a material caused by electromagnetic radiation such as ultraviolet light.
+e: Electrons emitted in this manner are called photoelectrons.
+
+// @id 01KVVCHTHCK55JR4M10SMENCQR
+q: The ==Seebeck effect== is the emergence of electromotive force (EMF) that develops across two points of an electrically conducting material when there is a temperature difference between them.
+
+// @id 01KVVCHTHC8Q9E5W4M27QR56DF model=basic
+q: How do **solar cells** work?
+a: They are composed of two different types of semiconductors (a p-type and an n-type) that are joined together to create a "p-n junction".
+- By joining these two types of semiconductors, an electric field is formed in the region of the junction as electrons move to the positive p-side and holes move to the negative n-side.
+- This field causes negatively charged particles to move in one direction and positively charged particles in the other direction.
+- When light of a suitable wavelength is incident on these cells, energy from the photon is transferred to an electron of the semiconducting material in the p-n junction.
+- This causes the electrons to jump to a higher energy state known as the conduction band. This leaves behind a "hole" in the valence band that the electron jumped up from.
+- Because of the electric field that exists as a result of the p-n junction, electrons and holes move in the opposite direction as expected. Instead of being attracted to the p-side, the freed electron tends to move to the n-side. The hole can also move, but in the opposite direction to the p-side.
+- It is this process which creates a current in the cell.
+
+// @id 01KVVCHTHCJXT1PWYZT86WD2Z8
+q: Why solar cell arrays' efficiency **degrade over time in space**?
+a: It is a result of space radiation, but the degradation rate will depend strongly on the solar cell technology and on the location of the spacecraft. To minimise the harmful effects of space radiation, all solar cells are covered by cover glass, typically just 100 micrometres (0.1 mm) thick.
+e: If a bare cell was exposed to the space environment it would degrade as much within a few days as a protected cell does in 15 years.
+
+// @id 01KVVCHTHCJ0SJD5SWNW601EN8
+q: Modern solar cells are made with ==gallium arsenide (GaAs)–based== semiconductors.
+
+// @id 01KVVCHTHC4ZWE77P2G63AQS4F
+q: ==Multi-junction (MJ)== solar cells are solar cells with multiple p–n junctions made of different semiconductor materials.
+e: Each material's p–n junction will produce electric current in response to different wavelengths of light. The use of multiple semiconducting materials allows the absorbance of a broader range of wavelengths, improving the cell's sunlight to electrical energy conversion efficiency. 
+[image:media/multi-junction-solar-cell.png]
+
+// @id 01KVVCHTHC2B2YCN8HZ4469MVF
+q: The ==orbit inclination== is defined as an angle between the orbital plane and the reference plane.
+e: [image:media/orbit-inclination.png]
+
+// @id 01KVVCHTHCAG3PV13Y5S0J9FAW model=basic
+q: What is **specific power** and why does it matter more than raw wattage when comparing spacecraft power systems?
+a: It is electrical power output per unit mass, measured in W/kg. It matters more than raw watts because every kilogram launched costs delta-v and money (rocket equation), so the real question is how much power you get per kilogram hauled to orbit, not total output.
+
+// @id 01KVVCHTHCFBFHCFEWDZFWZNNF
+q: The ==eclipse time== is the period the satellite does not receive sunlight due to the Earth shadow. This information is paramount for mission design since it directly interferes in the power and thermal subsystems.
+
+// @id 01KVVCHTHCTNEDYXN3BQC8RGGE
+q: ==Orbit Average Power (OAP)== is the average power available to your payload, averaged over an entire orbit. It's not the instantaneous power during operation—it's the sustained power budget accounting for charging, discharging, and operational duty cycles. 
+
+// @id 01KVVCHTHCZ7A9YGM44WXS43Y7
+q: A ==satellite power budget== is a critical engineering analysis used to ensure that the spacecraft can generate, store, and distribute enough energy to support its mission throughout its entire orbital life. It functions as a balance sheet comparing total energy generation against total energy consumption across all mission phases.
+
+// @id 01KVVCHTHC506Z6YTZFKR60WJ7
+q: ==Depth of Discharge (DoD)== refers to the percentage of a battery's total capacity that has already been used (discharged). It tells you how much energy has been consumed from the battery, and it is the opposite of ==State of Charge (SoC)==.
+e: The higher the Depth of Discharge (the deeper you regularly discharge the battery), the shorter the battery's overall lifespan becomes. That's why manufacturers specify a Maximum Recommended DoD (sometimes called usable DoD or warranted DoD). This is the deepest discharge level at which the battery can still achieve its rated cycle life without excessive degradation.
+
+// @id 01KVVCHTHCRWDK2YFA4Z6FDN6V
+q: Light intensity drops with the square of distance, so by Jupiter spacecraft will lose ==~96%== of the sunlight it had at Earth.
+
+// @id 01KVVCHTHCTKWT9JXDP5N137P8 model=basic
+q: What are **thermocouples** in RTG and how do they work?
+a: The principle of a thermocouple involves two plates, each made of a different metal that conducts electricity. Joining these two plates to form a closed electrical circuit while keeping the two junctions at different temperatures produces an electric current. Each of these pairs of junctions forms an individual thermocouple. In an RTG, the radioisotope fuel heats one of these junctions while the other junction remains unheated and is cooled by the space environment or a planetary atmosphere.
+
+// @id 01KVVCHTHCAFHW9DYM6FC2JZZB
+q: In physical science, an ==inverse-square law== is any scientific law stating that the observed "intensity" of a specified physical quantity is inversely proportional to the square of the distance from the source of that physical quantity.
+
+// @id 01KVVCHTHCYF57CDKKJSHVGYVE
+q: The Voyager I is powered by ==three classical RTGs== while the Mars Perseverance rover by ==MMRTG==.
+
+// @id 01KVVCHTHCMKQXTG0Y6WZ6N1F2
+q: What is the **specific strength / strength-to-weight ratio / strength/weight ratio / strength-to-mass ratio**?
+a: It is a material's strength (force per unit area at failure) divided by its density.
+e: Another way to describe specific strength is **breaking length / self support length**: the maximum length of a vertical column of the material (assuming a fixed cross-section) that could suspend its own weight when supported only at the top.
+
+// @id 01KVVCHTHC36N5XHHQMEECCZRC
+q: ==Kirchhoff’s Law of Thermal Radiation== states that for a body in thermal equilibrium, the emissivity (ε) and absorptivity (α) are equal at all wavelengths and temperatures.
+e: **Emissivity** is a measure of how effectively a body emits thermal radiation, while **absorptivity** quantifies how well a body absorbs incoming radiation. 
+
+// @id 01KVVCHTHCG9Y6CD9QEMBKAEK2
+q: A ==thermal strap== is a flexible, thermally conductive link added between a heat source and sink to conductively transfer heat. They are often used between high heat dissipating chips or components and a chassis wall or other radiator surface.
+e: [image:media/thermal-strap.png]
+
+// @id 01KVVCHTHCFW30BDZMKE64PM9H
+q: ==Thermal interface materials== can be inserted between two components to increase the conductive heat transfer between them.
+e: They are often made as a sheet or pad of material sandwiched between surfaces, but there are many different types that vary in material, thickness, thermal conductivity, temperature limits, and vacuum compatibility. 
+
+// @id 01KVVCHTHCWETCZGH1VWTRJBG2
+q: A ==sunshield / sunshade==, is an often-deployed device made up of a material with low solar absorptivity that reduces the amount of incident solar flux impinging on a spacecraft, by blocking the view to the Sun.
+
+// @id 01KVVCHTHCXDNZRS6NG8VFYHRK
+q: ==Thermal louvers== are thermally activated shutters that regulate how much heat the louvered surface can dissipate.
+e: As the louvers open, the average IR emissivity of the surface changes, changing how much heat the surface dissipates.
+[image:media/thermal-louvres.jpg]
+
+// @id 01KVVCHTHCWBMADR7RZNS58PHQ
+q: A traditional ==heat pipe== is a passive device comprised of a metal container (pipe) that holds a liquid under pressure and has a porous wick-like structure within the container.
+e: When heat is applied to one end of the tube, the liquid inside the tube near the hot end vaporizes and moves through the tube to the cooler end, where it condenses back into a liquid. The wick transports the condensed liquid back to the hot end via capillary action.
+
+// @id 01KVVCHTHCAGAFE45J4GK94J4S
+q: A ==phase-change material (PCM)== is a substance which releases/absorbs sufficient energy at phase transition to provide useful heat or cooling. Generally the transition will be from one of the first two fundamental states of matter - solid and liquid - to the other.
+
+// @id 01KVVCHTHCNFWC8TZ0YDB6PMSM
+q: A ==thermal switch== is a device that switches a heat conduction path between either a strong thermal coupling or a weak thermal coupling (thermal isolation) as needed to control the temperature of heat-producing components.
+e: A switch typically connects a heat-producing component and a low-temperature sink, such as a radiator.
+
+// @id 01KVVCHTHC6DBAQCJTGFWQHEPC
+q: ==Space electrical heaters== use an electrical-resistance element in between two sheets of flexible electrically insulating material to produce heat.
+
+// @id 01KVVCHTHCBJVSVJ0K557JDH9J
+q: ==Cryocoolers== are refrigeration devices designed to cool to temperatures of approximately 100K and below.
+e: Cryocoolers are used on instruments or subsystems requiring cryogenic cooling, such as high-precision IR sensors. Instruments such as imaging spectrometers, interferometers, and midwave infrared (MWIR) sensors require cryocoolers to function at extremely low temperatures. The low temperature improves instrument dynamic range and extends the wavelength coverage.
+
+// @id 01KVVCHTHC31RX2PA46DZGMWCE
+q: ==Thermoelectric coolers (TECs)== are miniature solid-state heat pumps that provide localized cooling via the Peltier effect, which is cooling resulting from passing an electric current through a junction formed by two dissimilar metals.
+e: TECs have been used to cool star trackers, IR sensors, and low-noise amplifiers on large spacecraft. Advantages of TECs are that they have no moving parts and are reliable, noiseless, lightweight, and compact. Their use is limited below temperatures of 130 K due to low efficiency and reduced performance at large temperature differences. 
+
+// @id 01KVVCHTHCDGPKQ7YM70SGF2P7
+q: A ==pumped fluid loop (PFL)== consists of a circulating pump that moves a liquid through tubing connected to a heat exchanger and a heat sink.
+e: A heat source is mounted to the heat exchanger, and the pumped fluid carries the heat from the source to a heat sink, typically a radiator; the cooled fluid is returned to the heat source to continue providing cooling.
+
+// @id 01KVVCHTHC7KNDPP6Q18MT488X model=basic
+q: What is ablative armor?
+a: It is an armor which prevents damage through the process of ablation, the removal of material from the surface of an object by vaporization, chipping, or other erosive processes. In contemporary spacecraft, ablative plating is most frequently seen as an ablative heat shield for a vehicle that must enter atmosphere from orbit
+
+// @id 01KVVCHTHCE56G29EC6GEPNCYW
+q: An ablative heat shield consists of a layer of ==plastic resin==, the outer surface of which is heated to a gas, which then carries the heat away by convection.
+
+// @id 01KVVCHTHCSSXC3JVQR503WDP6
+q: The ==Phenolic-Impregnated Carbon Ablator (PICA)== heat shield weighs one-fifth as much as its conventional counterparts and can withstand temperatures up to 5,000 °F. A key to the technology was using a ceramic carbon substrate for structural strength rather than relying on a polymer material to “glue” the material together.
+
+// @id 01KVVCHTHC9Y2E1W5A35M5ZGGB
+q: ==Aerodynamic heating== is the heating of a solid body produced by its high-speed passage through air.
+
+// @id 01KVVCHTHCDZ157J463XTK1FF2
+q: A ==retrorocket (short for retrograde rocket)== is a rocket engine providing thrust opposing the motion of a vehicle, thereby causing it to decelerate.
+
+// @id 01KVVCHTHCGJ15Z03CH0BZPNXK
+q: Objects entering an atmosphere experience atmospheric drag, which puts mechanical stress on the object, and aerodynamic heating — caused mostly by ==compression of the air in front of the object==, but also by drag.
+e: Adiabatic compression occurs when the pressure of a gas is increased by work done on it by its surroundings.
+
+// @id 01KVVCHTHCR3AHFSEM541W3Q5E
+q: The ==Space Shuttle thermal protection system (TPS)== was the barrier that protected the Space Shuttle Orbiter during the extreme 1,650 °C (3,000 °F) heat of atmospheric reentry. A secondary goal was to protect from the heat and cold of space while in orbit.
+
+// @id 01KVVCHTHCJ63T0456JD0AZEDW model=basic
+q: What are the three key characteristics of the Space Shuttle thermal protection system?
+a: Reusable, lightweight, but fragile.
+
+// @id 01KVVCHTHCKS5QPJQTD5ST5TYQ
+q: ==Plutonium-238 (Pu-238)== is the radioisotope most commonly used as RTG fuel, valued for the steady heat released by its radioactive decay.
+e: ~88-year half-life, so it can power decades-long missions (Voyager still runs); a fairly pure alpha emitter, making it easy to shield and relatively safe to handle; high power density. It is *not* fissile — it simply decays, with no chain reaction.
+
+// @id 01KVVCHTHCV87V49FJFRK4MK42
+q: Why does the ratio of **solar absorptivity (α) to IR emissivity (ε)** drive spacecraft thermal control, even though Kirchhoff's law says α = ε?
+a: Because α and ε are evaluated at *different* wavelengths. Incoming sunlight is ~5,800 K radiation (mostly visible/near-IR); the spacecraft re-emits at ~300 K (far-IR). A surface's absorptivity in the solar band and its emissivity in the thermal-IR band can therefore differ a lot.
+e: Kirchhoff's law (α = ε) only holds *at a single wavelength*, so this doesn't violate it. Engineers exploit the gap: a low-α / high-ε coating (white paint, radiators) soaks up little sunlight but sheds heat well → runs cold; a high-α / low-ε surface runs hot. Picking α/ε is how you passively set a surface's equilibrium temperature.

@@ -1,0 +1,121 @@
+// @id 01KV96NNDA5E41AQ6PVDDF70AC model=basic
+q: What is **Low Earth orbit** (LEO)?
+a: Geocentric orbits ranging in altitude from 160 km (100 mi) to 2,000 km (1,200 mi) above mean sea level.
+
+// @id 01KV96NNDAP1BCT9ZXC9H54QYZ
+q: The **Low Earth orbit** (LEO) period ranges from ==90== to ==128== minutes.
+
+// @id 01KV96NNDA25BCPZK56MSW2CM7 model=basic
+q: What is orbiting in LEO?
+a: ISS, Iridium telecom, Earth observation satellites, Hubble Space Telescope, Starlink, etc.
+
+// @id 01KV96NNDAAJWEGE0522RR4BR0 model=basic
+q: What is **Medium Earth orbit** (MEO)?
+a: Geocentric orbits with altitudes at apogee ranging between 2,000 km (1,200 mi) and that of the geosynchronous orbit at 35,786 km (22,236 mi).
+
+// @id 01KV96NNDA0ZPKKJMT7KJ924N6
+q: The **Medium Earth orbit** (MEO) period ranges from around ==2== to ==24== hours.
+
+// @id 01KV96NNDAD32EEC2G8XT4GJ0P model=basic
+q: What is **Geosynchronous orbit** (GSO)?
+a: Geocentric orbit with an altitude of 35,786 km (22,236 mi). The period of the orbit equals one sidereal day, coinciding with the rotation period of the Earth.
+
+// @id 01KV96NNDAMFED46FTWA34AN9D model=basic
+q: What is **semi-synchronous orbit**?
+a: An orbit with a period equal to half the average rotational period of the body being orbited, and in the same direction as that body's rotation.
+
+// @id 01KV96NNDAC4D1X6090BH5QNEN model=basic
+q: What is **Geostationary orbit** (GEO)?
+a: A circular geosynchronous orbit in Earth's equatorial plane with both inclination and eccentricity equal to 0. A satellite in a geostationary orbit remains in the same position in the sky to observers on the surface.
+
+// @id 01KV96NNDAKD3X0A0MWT1M14PE model=basic
+q: What's the difference between **geosynchronous** and **geostationary** orbit?
+a: The synchronization of rotation and orbital period means that, for an observer on Earth's surface, an object in geosynchronous orbit returns to exactly the same position in the sky after a period of one sidereal day. Over the course of a day, the object's position in the sky may remain still or trace out a path, typically in a figure-8 form, whose precise characteristics depend on the orbit's inclination and eccentricity. A satellite in a geostationary orbit remains in the same position in the sky to observers on the surface.
+
+// @id 01KV96NNDANVHAW4442B2Y2YBA model=basic
+q: What is **Geostationary orbit** (GEO) used for?
+a: Mainly communications, meterological, and navigation (GNSS augmentation) satellites so that Earth-based satellite antennas do not have to rotate to track them but can be pointed permanently at the position in the sky where the satellites are located.
+
+// @id 01KV96NNDAQERAC0RJSH6TFEJD
+q: For Earth, a semi-synchronous orbit is considered a ==medium Earth== orbit, with a period of just under ==12== hours. For circular Earth orbits, the altitude is approximately ==20,200 kilometres (12,600 mi)==.
+
+// @id 01KV96NNDA8KV8WAW7C1PYXHKP
+q: The **semi-synchronous orbit** for Earth is used by ==the Global Positioning System (GPS)== constellation.
+e: Other navigation satellite systems use similar medium Earth orbits including GLONASS (with an altitude of 19,100 kilometres, 11,900 mi), Galileo (with an altitude of 23,222 kilometres, 14,429 mi) and BeiDou (with an altitude of 21,528 kilometres, 13,377 mi).
+
+// @id 01KV96NNDAQ44HBG63HDCJWG75 model=basic
+q: Why the **Global Positioning System (GPS)** constellation is in semi-synchronous orbit in MEO?
+a: Semi-synchronous MEO is the Goldilocks zone: continuous global coverage and strong trilateration geometry with only ~30 satellites, plus a repeating daily ground track that's easy to manage. GEO is too high and too equatorial — weak geometry, no poles. LEO is too low — needs hundreds of satellites, brief visibility, drag.
+
+// @id 01KV96NNDAT1TCWA757J8ZGZX0 model=basic
+q: What is **High Earth orbit** (HEO)?
+a: Geocentric orbits with altitudes at apogee higher than that of the geosynchronous orbit. A special case of high Earth orbit is the highly elliptical orbit, where altitude at perigee is less than 2,000 km (1,200 mi).
+
+// @id 01KV96NNDAM69B6EF4T8PA4Q2H model=basic
+q: What is **highly elliptical / highly eccentric orbit** (HEO)?
+a: An orbit of one body about another with high eccentricity, usually referring to one around Earth. 
+
+// @id 01KV96NNDAHVBK32YC9NKWFNM0 model=basic
+q: What is **highly elliptical / highly eccentric orbit** useful for?
+a: HEO is very useful for missions that need to observe Earth or look into space from high altitudes for extended periods. The spacecraft's orbit will allow it to spend long periods far from Earth to observe large-scale processes.
+
+// @id 01KV96NNDAP6DEDAGF5KF43R5B model=basic
+q: What is **Van Allen radiation belt**?
+a: A zone of energetic charged particles, most of which originate from solar wind, that are captured and held around a planet by that planet's magnetosphere.
+[image:Van Allen radiation belts:media/van-allen-radiation-belts.jpg]
+
+// @id 01KV96NNDAXGXGEDMDXEKTH7N6
+q: **Van Allen radiation belts** are located in ==MEO and HEO==.
+
+// @id 01KV96NNDA0FC631YRME1YMJNG model=basic
+q: What is **Kármán line**?
+a: A conventional definition of the edge of space; it is widely but not universally accepted. The international record-keeping body FAI defines it at an altitude of 100 kilometres (54 nautical miles; 62 miles; 328,084 feet) above mean sea level. It establishes a formal boundary between the realms of aeronautics and astronautics.
+
+// @id 01KV96NNDA6S1T3EZ73KAJ3E2P
+q: ==A polar== orbit is one in which a satellite passes above or nearly above both poles of the body being orbited on each revolution. It has an inclination of about 80–90 degrees to the body's equator.
+
+// @id 01KV96NNDAJGA6PBP6VKE92YM8 model=basic
+q: What are **polar orbits** used for?
+a: They are used for Earth-mapping, reconnaissance satellites, as well as for some weather satellites, because they cover whole globe. The Iridium satellite constellation uses a polar orbit to provide telecommunications services. 
+
+// @id 01KV96NNDASBD4YNB61BJN6AQV model=basic
+q: What is **Sun-synchronous / heliosynchronous  orbit** (SSO)?
+a: It is a nearly polar orbit around a planet, in which the satellite passes over any given point of the planet's surface at the same local mean solar time.
+
+// @id 01KV96NNDAH4QYQCEX4Z8AYE5Z model=basic
+q: What is **Molniya orbit**?
+a: A type of satellite orbit designed to provide communications and remote sensing coverage over high latitudes. It is a highly elliptical orbit with an inclination of 63.4 degrees, an argument of perigee of 270 degrees, and an orbital period of about half a sidereal day.
+
+// @id 01KV96NNDAZ1RAH21W2CEABZBW model=basic
+q: What is **Kepler's First Law**?
+a: All planets move in elliptical orbits, with the sun at one focus.
+
+// @id 01KV96NNDAAAG3ZFFBJ5KBT80G
+q: Kepler's First Law is called ==The Law of Orbits==.
+
+// @id 01KV96NNDAGARWEK7B1SR30YZK model=basic
+q: What is **Kepler's Second Law**?
+a: A line that connects a planet to the sun sweeps out equal areas in equal times.
+
+// @id 01KV96NNDAS9RS3QRFBTG5A4T8
+q: Kepler's Second Law is called ==The Law of Areas==.
+
+// @id 01KV96NNDAD5BX3PRHQ99YK6YR model=basic
+q: What is **Kepler's Third Law**?
+a: The ratio of the square of an object's orbital period with the cube of the semi-major axis of its orbit is the same for all objects orbiting the same primary ($T^2 ~ a^3$).
+
+// @id 01KV96NNDA4QECHNYT0S6CAQ6Y
+q: Kepler's Third Law is called ==The Law of Periods==.
+
+// @id 01KV96NNDA5STD4NW91QNNEGQ0 model=basic
+q: What are **Lagrange points**?
+a: They are positions in space where the gravitational forces of a two-body system like the Sun and Earth produce enhanced regions of attraction and repulsion. These can be used by spacecraft as "parking spots" in space to remain in a fixed position with minimal fuel consumption.
+
+// @id 01KVBKW8MTRVZB95SY0CHMH2GT
+q: The **Geosynchronous orbit** (GSO) is at an altitude of ==35,786 km (22,236 mi)==.
+
+// @id 01KVBKW8MTP3WQ2FYFE22Y18WY
+q: The inner **Van Allen radiation belt** extends typically from an altitude of ==0.2 to 2 Earth radii (L values of 1.2 to 3) or 1,000 km (620 mi) to 12,000 km (7,500 mi)== above the Earth.
+
+// @id 01KVBKW8MTKG324BWECT923BB0
+q: The outer **Van Allen radiation belt** beginning at an altitude of ==3 Earth radii and extending to 10 Earth radii — 13,000 to 60,000 kilometres (8,100 to 37,300 mi)== above the Earth's surface.

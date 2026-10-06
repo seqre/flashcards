@@ -1,0 +1,2 @@
+# ankigen deck ids — keep this file so your Anki decks stay stable across rebuilds
+1327953962	Space Technologies Exam::2. Spacecraft & Observations

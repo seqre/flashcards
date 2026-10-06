@@ -1,0 +1,141 @@
+// @id 01KWAFZ87MZY220BS1AJNMED7G
+q: What does **CHNOPS** stand for?
+a: The key six elements making 97-99% of any living thing: carbon, hydrogen, nitrogen, oxygen, phosphorus, and sulfur.
+e: They make up almost 99% of the mass of living cells, including those in the human body.
+[image:media/chnops.svg]
+
+// @id 01KWAFZ87M84GABKNGH4R9BM48 model=basic-example
+q: Why specifically these six **CHNOPS** elements and not others?
+a: They are all light, abundant elements that form strong, stable covalent bonds. Being small and forming multiple bonds lets them build the diverse, stable molecules life needs, and their cosmic abundance means they're available almost anywhere.
+
+// @id 01KWAFZ87MD1JZG2DJX7XYZ4CQ model=basic-example
+q: Why is **carbon** one of the six key life elements?
+a: It forms the backbone of many molecules in living organisms. With a valence of four, one atom of carbon can form a variety of different single or multiple bonds, which allow it to generate great diversity of chemical structures.
+
+// @id 01KWAFZ87MA3A20QEWSVX3XG9Z model=basic-example
+q: Why is **hydrogen** one of the six key life elements?
+a: It forms one single bond. If dropped by a molecule, it can increase the level of acidity. Hydrogen is also a fundamental part of all **hydrocarbon structures**, commonly found in energy-rich molecules.
+
+// @id 01KWAFZ87M5S1G2EZ0ZGFC6MMT model=basic-example
+q: Why is **nitrogen** one of the six key life elements?
+a: It is an essential part of the basic **amine group** in amino acids. As such it is a fundamental component of proteins. It is also found in nucleic acids: the "**nitrogenous bases**" that form the rungs of these ladder-like structures.
+
+// @id 01KWAFZ87MAMG7TCYEGW5BRYJC model=basic-example
+q: Why is **oxygen** one of the six key life elements?
+a: It is a structural component of water and of nearly every biological macromolecule. In its molecular form ($O_2$) it is also the electron acceptor in aerobic cellular respiration.
+
+// @id 01KWAFZ87M3VF5B86BRJHXEE3P model=basic-example
+q: Why is **phosphorus** one of the six key life elements?
+a: In the form of the **acidic phosphate group**, is found in the backbone of DNA, the key genetic molecule of life. Phosphate is also an essential **part of ATP**, a molecule used as energetic currency in living things. **Phospholipids** are the main structural components of all cellular membranes.
+
+// @id 01KWAFZ87MMVEN22EPXBWN9A5W model=basic-example
+q: Why is **sulfur** one of the six key life elements?
+a: It is commonly found in proteins. When two amino acids join their sulfurs together, they form a stable structure known as a disulfide bridge. This is an essential underlying component of the 3-dimensional structure of common molecules in living organisms.
+
+// @id 01KWAFZ87M5CT8WAJV6SP3SKZM
+q: In chemistry, the ==valence (US spelling) or valency (British spelling)== of an atom is a measure of its combining capacity with other atoms when it forms chemical compounds or molecules.
+e: Valence is generally understood to be the number of chemical bonds that each atom of a given chemical element typically forms.
+
+// @id 01KWAFZ87MEQKC8AC0XYWWW4F7
+q: A ==covalent bond== is a chemical bond that involves the sharing of electrons to form electron pairs between atoms.
+e: These electron pairs are known as shared pairs or bonding pairs. The binding arises from the electrostatic attraction of their nuclei for the electrons. It is responsible for holding the atoms together.
+
+// @id 01KWAFZ87M1DRHFVCYT3M7MNAG
+q: Carbon is ==tetravalent== which means it's able to form ==four covalent bonds==, a property stemming from its electronic configuration ($1s^2 2s^2 2p^2$).
+
+// @id 01KWAFZ87MD31Q13MWKTXQBCBY
+q: ==Catenation== is the capacity of carbon to create covalent connections with other carbon atoms. Carbon may form lengthy straight, branched, and cyclic chains as a result of this characteristic. With other carbon atoms, carbon can create single, double, and triple covalent bonds.
+
+// @id 01KWAFZ87M42R1P798CFGC4DJE
+q: ==Carbon-based life== is the concept that carbon is the core element for all known forms of life, and a core component of all complex biological molecules with carbon representing approximately 45–50% of all dry biomass.
+e: In these molecules carbon's four valence electrons and subsequent propensity to form four bonds lends to its function as the "skeleton" of organic molecules.
+
+// @id 01KWAFZ87M71PZ6CWB9HCDY8JD
+q: Why **carbon** and not **silicon** is the base for life?
+a: Carbon forms long, stable chains that readily recombine into countless permutations — the versatility life needs. Silicon is also tetravalent, but strongly prefers $Si–O$ bonds over $Si–Si$ chains. Those $Si–O$ bonds are extremely stable (the basis of rock, silicates, and sand) yet don't break and reform flexibly, so silicon can't build the rearrangeable molecular diversity life depends on.
+e: Silicon's other handicap: its version of $CO_2$ (silica) is a solid, not a gas, so it can't be exhaled and recycled the way carbon is.
+
+// @id 01KWAFZ87MX4NXW46218J08G5V
+q: ==Disulfide bonds (S-S bond)== are strong covalent connections between sulfur atoms from cysteine amino acids that stabilize protein structure, especially in extracellular and hair/skin proteins. They form via oxidation (loss of electrons) and play a critical role in protein folding, drug design, and even food texture.
+e: Disulfide bonds are strong, but reversible, and critical for maintaining a protein’s 3D shape.
+
+// @id 01KWAFZ87MY243K7ZCZP97DHPZ
+q: ==Amino acids== are the molecular building blocks of all proteins.
+e: Every amino acid contains an amino group ($–NH_2$) and a carboxylic acid group ($–COOH$) attached to a central carbon atom — a structure so consistent it defines the entire class.
+
+// @id 01KWAFZ87MAXMCCR59WZAEGWB8
+q: A ==polar molecule== has a partially positive end and a partially negative end. The molecule achieves this by having an uneven distribution of electrons between its atom. That is, electrons gather more closely to one atom than the other, thus making one atom slightly more negative than the other.
+e: [image:media/water-polarity.png]
+
+// @id 01KWAFZ87MSSFMRXDVZAHR5MC8
+q: An ==ionic bond / electrovalent bond==, is a type of chemical bond formed due to the electrostatic attraction between oppositely charged ions in ionic compounds. It occurs between ==a metal and a non-metal==.
+e: Ionic bonds form when the valence (outermost) electrons of one atom are transferred permanently to another atom following the octet rule.
+[image:media/ionic-bonding.gif]
+
+// @id 01KWAFZ87MGBR0P1ZZ8HERWQFX
+q: In ionic bond, the atom that loses electrons becomes a ==positively charged ion, known as a cation==. The atom that gains electrons becomes a ==negatively charged ion, known as an anion==. When the two ions combine via an ionic bond, they form ionic compounds.
+
+// @id 01KWAFZ87MSTFCJFYKFDMZER4A
+q: A ==hydrogen bond== is a type of chemical bond that involves the electrostatic attraction between a hydrogen atom and an atom containing a lone pair of electrons in a substance.
+e: In order for a hydrogen bond to occur, the hydrogen must be bonded to an electronegative atom.
+[image:media/hydrogen-bonding.svg]
+
+// @id 01KWAFZ87MA6FKNT58ZJFZM9X2
+q: Water is called the ==universal solvent== because it can dissolve more substances than any other liquid. It does this because each water molecule has a slightly negative charge near the oxygen atom and a slightly positive area near its two hydrogen atoms.
+e: That uneven charge helps water pull apart ions in salt, mix with many polar molecules, and keep them spread out in a stable mixture.
+[image:media/universal-solvent.png]
+
+// @id 01KWAFZ87MH0BMSN3B2YZV16Q8
+q: Attractive forces between molecules of the **same type** are called ==cohesive forces==.
+
+// @id 01KWAFZ87MMAV6XR74JT2YC0QF
+q: Attractive forces between molecules of **different types** are called ==adhesive forces==.
+
+// @id 01KWAFZ87MVVA3GE0W85XW28V7
+q: Cohesive forces between molecules cause the surface of a liquid to contract to the smallest possible surface area. This general effect is called ==surface tension==.
+
+// @id 01KWAFZ87MAH5H1K5RPV12EG2G
+q: The tendency of a fluid to be raised or suppressed in a narrow tube, or capillary tube, is called ==capillary action==.
+
+// @id 01KWAFZ87MJT0GFC1A70BK0A8R
+q: In thermodynamics, the ==specific heat capacity== (symbol $c$) of a substance is the amount of heat that must be added to one unit of mass of the substance in order to cause an increase of one unit in temperature.
+e: The high specific heat of water has a great deal to do with regulating extremes in the environment.
+
+// @id 01KWAFZ87M85ZAEA0K6JF7105W
+q: In thermodynamics, the ==enthalpy of vaporization / (latent) heat of vaporization / heat of evaporation== (symbol $\Delta H_{vap}$), is the amount of energy that must be added to a liquid substance to transform a quantity of that substance into a gas.
+e: [image:media/heat-of-vaporization.jpg]
+
+// @id 01KWAFZ87M0SGS9M8PQJD9X3JK
+q: Ice floats on water because it is less dense than its liquid form. As water freezes, these molecules become more rigidly organized, forming an ==open, hexagonal lattice== in which each oxygen atom is tetrahedrally coordinated with four neighboring molecules. This structure increases the space between molecules, reducing the density of ice compared to water.
+e: Thanks to that water reservoirs freeze from the top and insulate life below.
+
+// @id 01KWAFZ87M6R4F0V2VWSE2QW5J
+q: The ==hydrophobic effect== is the observed tendency of nonpolar substances to aggregate in an aqueous solution and to be excluded by water.
+e: The hydrophobic effect is responsible for the separation of a mixture of oil and water into its two components. It is also responsible for effects related to biology, including: cell membrane and vesicle formation, protein folding, insertion of membrane proteins into the nonpolar lipid environment and protein-small molecule associations. Hence the hydrophobic effect is essential to life.
+
+// @id 01KWAFZ87M0BKGGGWY870Q8DX5
+q: ==Trace element==, in biology, is any chemical element required by living organisms in minute amounts (that is less than 0.1 percent by volume.
+e: Nutritionally essential trace elements are required parts of an individual’s nutrition. These elements contribute to vital bodily functions, including metabolic function, tissue repair, growth, and development.
+
+// @id 01KWAFZ87MZSHD23T33E7GNJCE
+q: The ==sodium–potassium pump ($Na^+/K^+$ pump)== is an enzyme found in the cell membrane of all animal cells. For every ATP molecule that the pump uses, three sodium ions are exported and two potassium ions are imported.
+e: It has particular significance for excitable cells such as nerve cells, which depend on this pump to respond to stimuli and transmit impulses. It maintains a difference in charge across the cell membrane of the neuron.
+
+// @id 01KWAFZ87MK87RXXCK7E26CASF
+q: ==Calcium ($Ca$)== makes up much of the structure of bones and teeth and allows normal bodily movement by keeping tissue rigid, strong, and flexible.
+e: The small ionized pool of calcium in the circulatory system, extracellular fluid, and various tissues mediates blood vessel contraction and dilation, muscle function, blood clotting, nerve transmission, and hormonal secretion.
+
+// @id 01KWAFZ87M2Z8KF5TYTDVN93NF
+q: A ==cofactor== is a non-protein chemical compound or metallic ion that is required for an enzyme's role as a catalyst. They can be considered "helper molecules" that assist in biochemical transformations.
+e: There are two types of cofactors: inorganic ions (eg., zinc or copper ions, also known as minerals) and organic molecules known as coenzymes. Most coenzymes are vitamins or are derived from vitamins.
+
+// @id 01KWAFZ87M6JZW3PCMN91ZQ5FT
+q: ==Electrolytes== are any of the various ions (such as sodium or chloride) that regulate the electric charge on cells and the flow of water across their membranes.
+
+// @id 01KWAFZ87MA03RA0FNS4FFTYTG
+q: ==Homeostasis== is the ability of a system or living organism to adjust its internal environment to maintain a stable equilibrium; such as the ability of warm-blooded animals to maintain a constant temperature.
+e: Electrolytes play a vital role in maintaining homeostasis within the body. They help regulate myocardial and neurological function, fluid balance, oxygen delivery, acid-base balance, and other biological processes.
+
+// @id 01KWAFZ87MGZ2E18W91X2RVNNJ model=basic-example
+q: How do water's properties connect to the **search for life**?
+a: Liquid water is assumed to be the solvent all known life depends on — its polarity makes it a universal solvent (the medium for biochemistry) and the hydrophobic effect assembles membranes and folds proteins. This is why the **habitable zone** is defined by where liquid water can exist, and why missions "follow the water."

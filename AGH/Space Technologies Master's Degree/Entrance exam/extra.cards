@@ -1,0 +1,27 @@
+topic: Extra
+
+// @id 01KXKDT6GY57DDY682Q3KA8WZP model=basic-example
+q: Why is microgravity useful for materials science, not just a hazard?
+a: Removing gravity removes buoyant convection and sedimentation, so processes normally swamped by gravity-driven flow can be studied cleanly — crystal growth, alloy solidification, fluid physics, and combustion. It's a research environment, not only an obstacle.
+
+// @id 01KXKDT6GY68QJZN1MPBX3HVZ1 model=basic-example
+q: Why can microgravity grow better protein crystals?
+a: With no convection currents or settling, molecules reach the growing crystal slowly and evenly by diffusion alone. That tends to yield larger, more ordered crystals with fewer defects — better for X-ray crystallography and drug design.
+
+// @id 01KXKDT6GYFY3Y3JGWNKMN078V
+q: ==Containerless processing== melts and solidifies a sample while it floats freely (acoustically or electromagnetically levitated), avoiding contamination from container walls — practical in microgravity because the sample doesn't fall.
+
+// @id 01KXKDT6GYRMGNE80B87FDB20N
+q: A Martian solar day (==sol==) is about ==24 h 39 min==, while a Martian year is roughly ==687 Earth days (~1.9 Earth years)==.
+e: The long year is tied to why Mars launch windows recur only about every 26 months (its synodic period).
+
+// @id 01KXKDT6GYSE73Z73SSA55C4KC
+q: Mars has two small moons, ==Phobos and Deimos==, and its surface is red because of ==iron oxide (rust)== in the soil.
+
+// @id 01KXKDT6GYV0TC99G4ZJWF9YHY model=basic-example
+q: What are Mars's polar ice caps made of?
+a: A mix of water ice and frozen CO₂ (dry ice). The CO₂ portion grows and shrinks seasonally as it freezes out of, and sublimates back into, the atmosphere.
+
+// @id 01KXKDT6GY3B6DB0CE6EMK2MBP
+q: The Moon is ==tidally locked== to Earth, so the same near side always faces us; one full day–night cycle takes about ==29.5 Earth days== (a synodic month).
+e: This is why the far side isn't really a "dark side" — it gets just as much sunlight, just not while facing Earth.

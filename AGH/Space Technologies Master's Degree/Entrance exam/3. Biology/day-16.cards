@@ -1,0 +1,100 @@
+// @id 01KWJ6897EB0509M0WMWTDHZ5S
+q: A substance that speeds up a chemical reaction—without being a reactant—is called a ==catalyst==. The one for biochemical reactions that happen in living organisms are called ==enzymes==.
+
+// @id 01KWJ6897E4CXN9TP8J5CQZT5S
+q: The enzyme ==active site== is defined as the specific region of an enzyme where substrate molecules bind, facilitating chemical reactions by lowering activation energy and transforming substrates into products.
+e: The active site consists of amino acid residues that form temporary bonds with the substrate, the binding site, and residues that catalyse a reaction of that substrate, the catalytic site.
+[image:media/active-site.svg]
+
+// @id 01KWJ6897EEHPWCAMGN0NZW5DR
+q: For many years, scientists thought that enzyme-substrate binding took place in a simple =="lock-and-key"== fashion. This model asserted that the enzyme and substrate fit together perfectly in one instantaneous step. However, current research supports a more refined view called ==induced fit==. As the enzyme and substrate come together, their interaction causes a mild shift in the enzyme’s structure that confirms an ideal binding arrangement between the enzyme and the substrate. This dynamic binding maximizes the enzyme’s ability to catalyze its reaction.
+e: [image:media/induced-fit.jpeg]
+
+// @id 01KWJ6897ED5723JVJDBY7EGFB
+q: When an enzyme binds its substrate, it forms an ==enzyme-substrate complex==.
+e:  This complex lowers the activation energy of the reaction and promotes its rapid progression by providing certain ions or chemical groups that actually form covalent bonds with molecules as a necessary step of the reaction process. Enzymes also promote chemical reactions by bringing substrates together in an optimal orientation, lining up the atoms and bonds of one molecule with the atoms and bonds of the other molecule.
+
+// @id 01KWJ6897E0J297JSPP6GYP4TQ
+q: ==Enzyme specificity== is the ability of an enzyme to choose exact substrate from a group of similar chemical molecules.
+e: The specificity is actually a molecular recognition mechanism and it operates through the structural and conformational complementarity between enzyme and substrate. Enzymes show different degrees of specificity towards their substrate.
+
+// @id 01KWJ6897EYK031068S76BTSAP model=basic-example
+q: What are factors affecting enzyme activity?
+a: Temperature, pH, substrate concentration, enzyme concentration, and presence of inhibitors and activators.
+
+// @id 01KWJ6897EBRVHDJC505ZHPVC5 model=basic-example
+q: What are the three enzyme inhibitor types?
+a: - competetive inhibitors
+- non-competetive inhibitors
+- feedback inhibition
+[image:media/competetive-inhibition.png]
+[image:media/non-competetive-inhibition.png]
+[image:media/feedback-inhibition.png]
+
+// @id 01KWJ6897ER75QQ6WWW08X2V1N
+q: The ==central dogma== of molecular biology is a theory stating that genetic information flows only in one direction (with small exceptions), from DNA, to RNA, to protein.
+e: [image:media/central-dogma.jpg]
+
+// @id 01KWJ6897E6KPA117ZDTDDSX07 model=basic-example
+q: What are the steps of gene to protein flow?
+a: Transcription of DNA into RNA and translation of RNA into protein.
+
+// @id 01KWJ6897EQAGPRTG0H04KA39M
+q: ==Transcription== is the process of duplicating a segment of DNA into a complementary RNA for the purpose of gene expression happening in nucleus.
+e: During transcription, a DNA sequence is read by an RNA polymerase, which produces a complementary RNA strand called a primary transcript.
+
+// @id 01KWJ6897EGQZ3PM9GB1VBAJZ0
+q: Some segments of DNA are transcribed into RNA molecules that can encode proteins, called ==messenger RNA (mRNA)==. Other segments of DNA are transcribed into RNA molecules called ==non-coding RNAs (ncRNAs)==. 
+
+// @id 01KWJ6897EDA26871CEXRJDHJB
+q: Transcription uses one of the two exposed DNA strands as a template; this strand is called the ==template strand==.
+
+// @id 01KWJ6897EXBG34KN2087FKZQY
+q: In an mRNA, the instructions for building a polypeptide are RNA nucleotides read in groups of three. These groups of three are called ==codons==.
+e: [image:media/codons.png]
+
+// @id 01KWJ6897E3V3ZXGRK9G90SGN9
+q: ==Transfer RNAs (tRNAs)== are molecular "bridges" that connect mRNA codons to the amino acids they encode.
+e: One end of each tRNA has a sequence of three nucleotides called an anticodon, which can bind to specific mRNA codons. The other end of the tRNA carries the amino acid specified by the codons.
+
+// @id 01KWJ6897EVJ7N6JPM8PZG4V0Q model=basic-example
+q: What are two special codon types?
+a: Start codon (AUG) signalling the start of protein construction and stop codons (UAA, UAG, and UGA) telling the cell when a polypeptide is complete.
+
+// @id 01KWJ6897EBYWPD66HD8CYG839 model=basic-example
+q: How are ribosomes built?
+a: They are made up of protein and RNA (ribosomal RNA, or rRNA). Each ribosome has two subunits, a large one and a small one, which come together around an mRNA.
+
+// @id 01KWJ6897E8RK0G2414Q7E5DB5
+q: ==Gene expression== is the process of turning on a gene to produce RNA and protein. For a cell to function properly, it must produce the right proteins at the right time and in the right amounts.
+e: Both unicellular and multicellular organisms control which genes are expressed, when they are expressed, and how much protein is made.
+[image:media/gene-expression.svg]
+
+// @id 01KWJ6897E9RTMWHF9EESCR65W
+q: In multicellular organisms such as ourselves, gene regulation allows for ==specialization== among different cell types.
+e: A muscle cell and a skin cell contain a copy of the same chromosomes and genes, but they function differently because they express different subsets of those genes.
+
+// @id 01KWJ6897E54E9KHFK49Z3X92W
+q: ==Gene switching== is defined as the reversible on/off switching of gene expression or the switching of expression between two alleles of a gene.
+e: It involves transient changes in gene expression in response to environmental variations at the level of transcription, translation, or post-translation, ultimately pre-adapting cells for new environmental conditions through alterations in gene expression.
+
+// @id 01KWJ6897E44F1D7MVVSZZM9Z1
+q: What is DNA methylation?
+a: DNA methylation is when small chemical groups called methyl groups attach to DNA. When methyl groups form on a gene, the gene is silenced and doesn’t produce any protein.
+e: Methyl groups are highly stable (only between 10-20% on average vary over time) and although they have low reactivity, they still have a significant influence on cellular function.
+
+// @id 01KWJ6897EV44WMC34B47A0TG5
+q: ==Activation energy== is the initial energy hurdle a reaction must clear to proceed. Enzymes speed reactions up by ==lowering== this barrier so more molecules react at body temperature.
+e: The enzyme changes only the size of the hurdle, not how much energy the reaction releases overall.
+
+// @id 01KWJ6897E42KN9CNZ9M89VEMY model=basic-example
+q: Why do high temperature and the wrong pH reduce enzyme activity?
+a: An enzyme's active site depends on its folded protein shape. Heat and pH extremes break the weak bonds holding that shape, **denaturing** it — the active site deforms and the substrate no longer fits.
+
+// @id 01KWJ6897E3V25AFGHMCJZ3MME
+q: ==Translation== is the process of building a polypeptide from an mRNA sequence, carried out by ribosomes.
+e: The ribosome reads mRNA codons and links the amino acids delivered by tRNAs into a chain.
+
+// @id 01KWJ6897ECKANY97Z7P7HFS6M model=basic-example
+q: Why is a gene transcribed into mRNA instead of using the DNA directly?
+a: It keeps the master DNA protected in the nucleus, and one gene can be copied into many mRNAs at once — protection plus amplification.

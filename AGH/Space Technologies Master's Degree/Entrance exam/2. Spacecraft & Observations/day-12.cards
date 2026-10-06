@@ -1,0 +1,124 @@
+// @id 01KW5AQRFSVGP8JBB5MG01APY8
+q: In engineering and systems theory, ==redundancy== is the intentional duplication of critical components or functions of a system with the goal of increasing reliability of the system, usually in the form of a backup or fail-safe, or to improve actual system performance, such as in the case of GNSS receivers, or multi-threaded computer processing. 
+
+// @id 01KW5AQRFSQW0GP956X7V69YV2 model=basic-example
+q: Redundancies can be split into what 3 levels?
+a: Hot (operating in parallel), warm (powered on, but not operating), and cold (powered off requiring action to start).
+
+// @id 01KW5AQRFSCE3YQA1T64HC7XGM
+q: The practice of ==fault tolerant design (FTD)== presumes that the potential causes of failures are identifiable. This identification is performed by means of the existing practices of hardware and software failure modes, effects, and criticality analysis.
+
+// @id 01KW5AQRFS2FM1QS0VCEN00NGA
+q: ==Fault prevention== deals with the objective of increasing reliability by elimination of all faults, which is not feasible in reality.
+e: Therefore, the goal of fault prevention is to reduce the probability of system failure to an acceptably low value.
+
+// @id 01KW5AQRFSZXPN5NCR22NG84R5
+q: The ==fault tolerance== approach expects failures to occur. However, their effects will be automatically counteracted by incorporating either redundancy or other types of compensation.
+
+// @id 01KW5AQRFSR3RV0JJQ6H4GTHQ0
+q: ==Graceful degradation== is the ability of a computer, machine, electronic system or network to maintain limited functionality even when a large portion of it has been destroyed or rendered inoperative. The purpose of it is to prevent catastrophic failure.
+
+// @id 01KW5AQRFSWJYS4DCCRWB9T47V model=basic-example
+q: What happened to Apollo 13 mission?
+a: It was the seventh crewed mission in the Apollo space program and would have been the third Moon landing. The craft was launched from Kennedy Space Center on April 11, 1970, but the landing was aborted after an **oxygen tank in the service module (SM) exploded** two days into the mission, disabling its electrical and life-support system. The crew, supported by backup systems on the Apollo Lunar Module, instead looped around the Moon in a circumlunar trajectory and returned safely to Earth on April 17.
+[image:media/apollo-13.svg]
+
+// @id 01KW5AQRFSCCQ5RWAPD9HPNR23
+q: The ==Corrective Optics Space Telescope Axial Replacement (COSTAR)== is an optical correction instrument designed and built by NASA. It was created to correct the spherical aberration of the Hubble Space Telescope's primary mirror, which incorrectly focused light upon the Faint Object Camera (FOC), Faint Object Spectrograph (FOS), and Goddard High Resolution Spectrograph (GHRS) instruments.
+e: [image:media/costar.jpg]
+
+// @id 01KW5AQRFSQWNX74RQTFR6BSGF
+q: During interplanetary cruise, a minor flight-path control maneuver is typically called a ==Trajectory Correction Maneuver (TCM)==.
+e: Generally, TCMs involve a ΔV magnitude on the order of meters per second, or sometimes tens of meters per second. For a spacecraft that is repeatedly orbiting a planet or other body, a ΔV maneuver is normally referred to as an Orbit Trim Maneuver, OTM. Typically, OTMs vary in magnitude from a few millimeters per second up to several meters per second.
+
+// @id 01KW5AQRFS0T0NQDANMGFB9T17
+q: If the mission plan for an interplanetary flight depends on a large-magnitude ΔV maneuver, for example if a gravity-assist flyby is not available at the desired point, that cardinal maneuver is typically called a ==Deep Space Maneuver (DSM)==.
+
+// @id 01KW5AQRFS7M86KGFXBWPNJDZ1
+q: In telecommunications in space, ==communication blackout== is a total lack of radio communications capability, caused by ionospheric anomalies, e.g., during strong auroral activity or during re-entry of a spacecraft into the Earth's atmosphere.
+e: The communications blackouts that affect spacecraft re-entering the Earth's atmosphere are caused by an envelope of ionized air around the craft, created by the heat from the compression of the atmosphere by the craft. The ionized air interferes with radio signals.
+
+// @id 01KW5AQRFSTYQMF23KH4MKWB1F
+q: In microgravity, weight-bearing bones like the spine and hips don’t need to be as strong to support the human body. Consequently, on average, bones lose between ==1-1.5%== of their density each month during four-to-six-month missions.
+e: This rate of bone loss can make crew members susceptible to fractures and to premature osteoporosis, a disease that weakens bones as people age.
+
+// @id 01KW5AQRFSMH9MP5MF8Y505A0S model=basic-example
+q: What can be done to reduce the bone density loss in space?
+a: Exercise to reduce the deficits in postflight bone density and strengthen muscle force is an essential component of preventing declines in bone tissue. Moreover, NASA studies have found that medications like bisphosphonate could help mitigate some spaceflight-induced bone loss.
+
+// @id 01KW5AQRFSXH9FMQBJSM14AVS1
+q: ==Muscle atrophy== results from the lack of demanding activities (no more walking, stairs stepping, lifting of objects,…) and from the unloading of the postural muscles. Muscle loss of ==10-20%== has been observed on short missions and, if no countermeasures were applied, this could go up to ==50% on== long duration missions.
+
+// @id 01KW5AQRFS9MN22QM5NPZCPADZ
+q: In microgravity, the absence of gravity-driven hydrostatic pressure causes a significant ==cephalad (headward) fluid shift==, where blood and interstitial fluids that typically pool in the lower body on Earth are redistributed toward the head and upper torso.
+
+// @id 01KW5AQRFSYZJ97YNQ5CY33BJY
+q: ==Spaceflight Associated Neuro-Ocular Syndrome (SANS)== is a collection of ocular and neurological changes observed in astronauts, primarily following long-duration spaceflight (typically 30 days or more). It is hypothesized to be a result of increased intracranial pressure (ICP).
+e: The symptoms include: brain structural change, eye changes, cerebrospinal fluid shift, and venous blood shift.
+
+// @id 01KW5AQRFS6WV6XDF1BP0GG29R
+q: ==Cardiovascular deconditioning== in space refers to the physiological changes that occur when the human cardiovascular system adapts to the environment of microgravity. Because the heart no longer has to pump blood against gravity, it undergoes structural and functional remodeling, leading to a reduced capacity to handle gravitational loads upon returning to Earth or landing on another planet.
+
+// @id 01KW5AQRFS0H45SGWBAPZ228AA model=basic-example
+q: What are the effects of isolation in space?
+a: Stress and anxiety, fatigue, sleep problems, irritability, mood swings, sensitivity and emotional distress, neurobehavioral system and performance issues, and more.
+
+// @id 01KW5AQRFS2B51NV2X5WM5CGQQ
+q: The ==overview effect== is a cognitive shift reported by some astronauts while viewing the Earth from space. Researchers have characterized the effect as "a state of awe with self-transcendent qualities, precipitated by a particularly striking visual stimulus".
+e: The most prominent common aspects of personally experiencing the Earth from space are appreciation and perception of beauty, unexpected and even overwhelming emotion, and an increased sense of connection to other people and the Earth as a whole.
+
+// @id 01KW5AQRFSE5P1H4ND814570WW
+q: In astronomy and celestial navigation, an ==ephemeris== is a book with tables that gives the trajectory of naturally occurring astronomical objects and artificial satellites in the sky, i.e., the position (and possibly velocity) over time.
+e: [image:media/ephemeris.jpg]
+
+// @id 01KW5AQRFSYKDJPT2KXW02TT6B
+q: A ==porkchop plot== is a graphical tool used in astrodynamics to visualize the fuel or energy requirements for space missions, especially interplanetary travel. It shows contours of mission parameters, typically launch and arrival dates, with color-coded regions indicating different energy costs.
+e: The plot’s shape often resembles a porkchop, hence the name.
+[image:media/porkchop.gif]
+
+// @id 01KW5AQRFSBMVNE53B2VRFQXZA
+q: ==Synodic period== is the time required for a body within the solar system, such as a planet, the Moon, or an artificial Earth satellite, to return to the same or approximately the same position relative to the Sun as seen by an observer on the Earth. Alternatively, it's the time between conjunctions.
+
+// @id 01KW5AQRFSRNAZQM98ASZQEYE5
+q: The synodic period of Mars is approximately ==780 days (~26 months)==.
+
+// @id 01KW5AQRFS8ZZH0AB5C7X3YS42
+q: ==Space risk assessment== is a sophisticated process that involves identifying, analyzing, and mitigating risks associated with space missions. This process is foundational to managing uncertainties that could derail the objectives of these ventures.
+
+// @id 01KW5AQRFS921AZGZRCPWW26TA
+q: When managing spacecraft's mass, ==basic mass== is current best guess at what something weighs right now.
+
+// @id 01KW5AQRFS2BJ16Q25TW45MSVF
+q: When managing spacecraft's mass, ==mass growth allowance (MGA)== is extra mass expected to gain on top of basic mass as the design matures (untracked cabling, fasteners, design uncertainty, etc.). Bigger when the design is rough, can be zero for off-the-shelf parts.
+
+// @id 01KW5AQRFSHWF773NPBJRTW493
+q: When managing spacecraft's mass, ==predicted mass== is basic mass + MGA. What is actually expected for the finished thing to weigh.
+
+// @id 01KW5AQRFS0RS652FQ9QH3VFER
+q: When managing spacecraft's mass, ==mass margin== is the gap between what's allowed (allowable mass) and what is thought to be needed (predicted mass). Positive is healthy; negative (predicted > allowable) means it's over budget.
+
+// @id 01KW5AQRFSHVJFB869XANV8C01
+q: When managing spacecraft's mass, ==allowable mass== is mission limit minus mass reserve. The mass that actually is available to work with and hand out to subsystems.
+
+// @id 01KW5AQRFSTFDFD3P32P7YSBQ5
+q: When managing spacecraft's mass, ==mass reserve== is small buffer (often ~5%) held back at the top for stuff like measurement error, non-robot/non-SV mass (umbilicals), and contingency. Not supposed to be touched by design.
+
+// @id 01KW5AQRFSH49SNT7Y437CFGYY
+q: When managing spacecraft's mass, ==mission limit== is the hard ceiling. Set by what the rocket can lift. Generally non-negotiable.
+
+// @id 01KW5AQRFSQM3A283ZW1B2D326
+q: The ==cost / mass / time / risk tetrahedron== — improving one usually worsens another (e.g., more redundancy → more mass → more launch cost).
+
+// @id 01KW5AQRFSCY8HAEK3YSDH4QGH
+q: A ==single point of failure (SPOF)== is a component with no backup whose failure alone ends the mission; eliminating them is a core goal of redundant design.
+
+// @id 01KW5AQRFSGZCA82ZB4XZG6D2M model=basic-example
+q: How did Apollo 13's crew solve the CO₂ buildup in the lunar module?
+a: The LM scrubbers couldn't handle three people, and the command module's spare canisters were square — they wouldn't fit the LM's round sockets. Ground engineers improvised an adapter ("the mailbox") from bags, cardboard, tape, and hose, then radioed up the procedure. The textbook case of improvising a fix from only what's aboard.
+
+// @id 01KW5AQRFSDVT7MVFPNAJX8E4P model=basic-example
+q: The cephalad fluid shift drives which two major health problems?
+a: (1) SANS — raised intracranial pressure presses on the eye and optic nerve, causing vision changes. (2) Cardiovascular deconditioning — the body sheds plasma sensing "too much" fluid up top, so blood volume runs low on return, causing orthostatic intolerance.
+
+// @id 01KW5AQRFSKJPSGDZK3TQ4JD96
+q: A ==launch window== is the limited time interval when launch geometry allows reaching the target orbit or trajectory efficiently. It's set by orbital mechanics — planetary alignment, target plane — not convenience; launching outside it costs far more Δv.

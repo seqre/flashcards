@@ -1,0 +1,124 @@
+// @id 01KW2J1YCBERZ2RTNS2DW2PY24
+q: An ==atmospheric window== is a region of the electromagnetic spectrum that can pass through the atmosphere of Earth.
+e: The optical, infrared and radio windows comprise the three main atmospheric windows. The windows provide direct channels for Earth's surface to receive electromagnetic energy from the Sun, and for thermal radiation from the surface to leave to space.
+[image:media/atmospheric-transmission.png]
+
+// @id 01KW2J1YCB1NJ1300H3PZYTG88
+q: The ==Hubble Space Telescope (HST or Hubble)== is a space telescope that was launched into ==low Earth orbit== in 1990 and remains in operation. Its five main instruments observe in the ==ultraviolet, visible, and near-infrared== regions of the electromagnetic spectrum.
+e: Hubble is the only telescope designed to be maintained in space by astronauts.
+
+// @id 01KW2J1YCBHAX1K34B2Y5W0VZ8
+q: The ==James Webb Space Telescope (JWST)== is a space telescope designed to conduct ==infrared== astronomy. It is the largest telescope in space. It's located on a solar orbit near the Sun–Earth ==L2 Lagrange point==.
+e: It can detect objects up to 100 times fainter than Hubble can, and objects much earlier in the history of the universe, back to redshift z≈20 (about 180 million years cosmic time after the Big Bang)
+
+// @id 01KW2J1YCBC612RCJJXPGETWNR
+q: As space expands, galaxies move farther away from each other, and their light elongates while becoming a redder color. This phenomenon is called ==cosmological redshift==.
+e: [image:media/redshift.png]
+
+// @id 01KW2J1YCBAY3M7008JJKY1VWK model=basic-example
+q: What is **Hubble's / Hubble–Lemaître law** about?
+a: The observation in physical cosmology that galaxies are moving away from Earth at speeds proportional to their distance. Thus, the farther a galaxy is from the Earth, the faster it moves away.
+
+// @id 01KW2J1YCBRCWSNSYBTSDFB8FS
+q: The ==astronomical unit(au/AU)== is a unit of length defined to be exactly equal to 149 597 870 700 m.
+e: Historically, the astronomical unit was conceived as the average Earth-Sun distance (the average of Earth's aphelion and perihelion), before its modern redefinition in 2012.
+
+// @id 01KW2J1YCB8APP3H1TJE5YN01M model=basic-example
+q: The Solar System consists of what segments?
+a: The small, rocky terrestrial planets, asteroid belt, gas giants, ice giants, Kuiper Belt, and comets.
+[image:media/solar-system.webp]
+
+// @id 01KW2J1YCBY3G6B72G2YHSGZWB model=basic-example
+q: The solar System planets in order are?
+a: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.
+[image:media/solar-system-planets.png]
+
+// @id 01KW2J1YCBKXGZM29P21FDT0ZX
+q: A ==terrestrial planet / tellurian planet / telluric planet / rocky planet== is a class of planet that is composed primarily of silicate, rocks, or metals. All of them in the Solar System have the same basic structure, such as a central metallic core (mostly iron) with a surrounding silicate mantle. 
+e: Within the Solar System, the terrestrial planets accepted by the International Astronomical Union are the inner planets closest to the Sun: Mercury, Venus, Earth and Mars. Among astronomers who use the geophysical definition of a planet, two or three planetary-mass satellites – Earth's Moon, Io, and sometimes Europa – may also count as terrestrial planets.
+
+// @id 01KW2J1YCB10MVJAF9HXKTZ9VB
+q: The inner asteroid belt occupies a torus-shaped region between ==2.3 and 3.3 AU== from the Sun, which lies between the orbits of ==Mars and Jupiter==. It is thought to be remnants from the Solar System's formation that failed to coalesce because of the gravitational interference of Jupiter.
+
+// @id 01KW2J1YCBQYPQW3BF7NNARAMD
+q: A ==giant planet / jovian planet (Jove being another name for the Roman god Jupiter)== is a diverse type of planet much larger than Earth. They are usually primarily composed of low-boiling point materials (volatiles), rather than rock or other solid matter, but mega-Earths do also exist.
+e: There are four such giant planets in the Solar System: Jupiter, Saturn, Uranus, and Neptune. Many extrasolar giant planets have been identified. 
+
+// @id 01KW2J1YCB9N1GC1CMMHHD2K7C
+q: A ==gas giant== is a giant planet composed mainly of ==hydrogen and helium==.
+
+// @id 01KW2J1YCB5DQEADQ33NNSCJXJ
+q: An ==ice giant== is a giant planet composed mainly of elements heavier than ==hydrogen and helium==, such as ==oxygen, carbon, nitrogen, sulfur, or in general **ices**: water, ammonia, methane==.
+e: Heavy elements (O, C, N, S): "Out Cold, No Sun"
+The ices (Water, Ammonia, Methane): WAM / "Way Awful Milkshake"
+Out Cold, No Sun → WAM
+
+// @id 01KW2J1YCBG4A6024X9G40GRBG
+q: The ==Kuiper belt== is a circumstellar disc in the outer Solar System, extending from the orbit of Neptune at ==30 astronomical units (AU) to approximately 50 AU== from the Sun. It is similar to the asteroid belt, but is far larger—20 times as wide and 20–200 times as massive.
+
+// @id 01KW2J1YCBEB0M5REWTCEZP0NQ model=basic-example
+q: What does Kuiper belt consists of?
+a: It consists mainly of small bodies or remnants from when the Solar System formed. Most Kuiper belt objects are composed largely of frozen volatiles (termed "ices"), such as methane, ammonia, and water. The Kuiper belt is home to most of the objects that astronomers generally accept as dwarf planets: Orcus, Pluto, Haumea, Quaoar, and Makemake.
+
+// @id 01KW2J1YCBNMB31TQSJH5A4MWH
+q: The ==Galilean moons / Galilean satellites==, are the four largest moons of Jupiter. They are, in descending-size order: ==Ganymede, Callisto, Io, and Europa==.
+
+// @id 01KW2J1YCB4MSJC182XK862RGR model=basic-example
+q: Why is Europa (moon) interesting for exploration?
+a: It's due to assumed water ocean beneath the surface, which could conceivably harbor extraterrestrial life.
+
+// @id 01KW2J1YCBHAKPSYV3C4SA9MH1
+q: ==Enceladus== is the sixth-largest moon of Saturn and the 18th largest in the Solar System. It is covered by clean, freshly deposited snow hundreds of meters thick, making it one of the most reflective bodies of the Solar System.
+
+// @id 01KW2J1YCB9XFD6WV7HXAS6AZP model=basic-example
+q: Why is Enceladus (moon) interesting for exploration?
+a: The existence of Enceladus's subsurface ocean has since been mathematically modelled and replicated. These observations of active cryoeruptions, along with the finding of escaping internal heat and very few (if any) impact craters in the south polar region, show that Enceladus is currently geologically active. 
+
+// @id 01KW2J1YCBC5W10BXYMTVFK8FN
+q: ==Titan== is the largest moon of Saturn and the second largest in the Solar System.
+
+// @id 01KW2J1YCBG6XT1ZSGBRBW671W model=basic-example
+q: Why is Titan (moon) interesting for exploration?
+a: It is the only moon known to have a dense atmosphere—denser than Earth's—and is the only known object in the Solar System besides Earth with clear evidence of stable bodies of surface liquid. The methane in Titan’s atmosphere is what makes its complex atmospheric chemistry possible.
+
+// @id 01KW2J1YCBEGRAEDCS9JQSJFTQ
+q: Newton's law of universal gravitation describes gravity as a force by stating that every particle attracts every other particle in the universe with a force that is ==proportional to their masses== and ==inversely proportional to the square of the distance between their centers of mass==.
+e: G is the gravitational constant of value $6.674 \times 10^{-11} \frac{m^3}{kg \times s^2}$.
+
+// @id 01KW2J1YCBE0M9PT5R0BPGYYKX model=basic-example
+q: What is the surface gravity?
+a: The surface gravity ($g$) of an astronomical object is the gravitational acceleration experienced at its surface at the equator, including the effects of rotation.
+
+// @id 01KW2J1YCBFGHW9G3DVM4J74AJ
+q: Earth's standard surface gravity, which is equal to ==$g = 9.80665 m/(s^2)$==.
+
+// @id 01KW2J1YCBY5M53QRVNR3JJK75
+q: Earth has a gravity of ==$\approx 9.81 m/s^2$==, Moon of ==$\approx 1.62 m/s^2$ (~1/6 or 16.7% g)==, and Mars of ==$\approx 3.72 m/s^2$ (~38% g)==.
+
+// @id 01KW2J1YCBFZKXSM063DMZ8P3P model=basic-example
+q: What are negative effects of low gravity on the human body?
+a: Reduction in bone density, cardiovascular changes (eg. fluid redistribution), intracranial pressure (could cause vision issues), reduction in muscle mass and strength, decreased production of red blood ceels, and other.
+
+// @id 01KW2J1YCBQG8XJM726KSPVFJK model=basic-example
+q: What does NASA's **RIDGE** acronym for the hazards of space travel stands for?
+a: Space **R**adiation
+**I**solation and Confinement
+**D**istance from Earth
+**G**ravity Fields
+Hostile/Closed **E**nvironments. 
+
+// @id 01KW2J1YCBKH8N0XRRZ8NWDFEE model=basic-example
+q: Why are telescopes placed in space rather than on the ground?
+a: Two reasons: the atmosphere **absorbs** whole bands of the spectrum (especially infrared and ultraviolet) before they reach the surface, and atmospheric turbulence **blurs** incoming light ("seeing"). Above the atmosphere both problems vanish.
+
+// @id 01KW2J1YCBYA8M3JVQEDESQNMQ model=basic-example
+q: Why must JWST be kept extremely cold and parked far from Earth at L2?
+a: Because it observes in the **infrared**, which is heat — a warm telescope's own glow would swamp the faint IR signals it's after. Sitting at L2 behind a large sunshield keeps it far from the Sun's, Earth's, and Moon's heat so the instruments stay extremely cold.
+
+// @id 01KW2J1YCBMXR6CPGGWN8HB4M9 model=basic-example
+q: Why does an infrared telescope (JWST) see "earlier" in the universe than a visible-light one (Hubble)?
+a: Light from the oldest, most distant galaxies set out as visible/UV but has been stretched into the **infrared** by cosmological redshift over its journey. Only an IR instrument can catch that stretched-out light, so JWST looks further back toward the early universe than Hubble.
+
+// @id 01KW2J1YCB0MVHX01ZZ4JEH83F model=basic-example
+q: Besides Hubble and JWST, name notable space telescopes and their specialties.
+a: **Kepler** and **TESS** hunt exoplanets by the transit method; **Chandra** observes in **X-rays** (black holes, supernova remnants).

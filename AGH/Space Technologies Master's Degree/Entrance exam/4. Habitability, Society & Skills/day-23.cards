@@ -1,0 +1,93 @@
+// @id 01KXBYNX2BP2PAVV4H7S8VX44X
+q: ==Active debris removal (ADR)==, refers to missions that intentionally rendezvous with an existing object and cause it to leave orbit in a controlled or predictably bounded way.
+
+// @id 01KXBYNX2B52S4M5EQW62M45JH
+q: Why the **capture step** of the ADR is one of the hardest?
+a: Contact dynamics can be unpredictable, especially if the target is rotating, has flexible appendages, or has protrusions that were never meant to be grappled.
+e: Capture mechanisms are usually designed with compliance, latching strategies, and load paths that reduce the chance of bouncing off and creating a collision.
+
+// @id 01KXBYNX2B1JG0N0BYYQBYM6SJ
+q: ESA’s ==ClearSpace-1== mission aims to be the first to remove an actual pre-existing debris object from orbit. It will rendezvous with, capture and remove ESA’s uncooperative ~95 kg Proba-1 satellite from its low-Earth orbit.
+e: Distinct from earlier demos (RemoveDEBRIS, Astroscale ELSA-d) that tested capture *technologies* on mock targets. The op is hard because Proba-1 was never designed to be captured by another spacecraft.
+
+// @id 01KXBYNX2BYHW4RGJXHX15MZZY
+q: ==Design-for-Removal (DfR)== entails the intentional design of spacecraft hardware such that the spacecraft will have removal-friendly features to ensure they can be easily captured at the end of their life.
+
+// @id 01KXBYNX2BY8NY8F5380QDMSC8 model=basic-example
+q: What are some **passive methods** for space debris removal?
+a: Drag sails, deployable booms (component of deorbit systems), electrodynamic tethers, utilizing natural deorbiting highways/corridors, and other.
+
+// @id 01KXBYNX2BK0FMYVEJPG0CCQB9 model=basic-example
+q: What are some **active methods** for space debris removal?
+a: Capturing spacecraft (nets, harpoons + tethers, capture arms, etc.) and burning it up in atmosphere, destroying small debris with high-powered laser, using ion beam/ground-based lasers to gradually alter debris's path, and other.
+
+// @id 01KXBYNX2BV944XTPWKQAP1DY5
+q: ==RemoveDEBRIS== was a satellite research project intending to demonstrate various space debris removal technologies. Rather than engaging in active debris removal (ADR) of real space debris, the mission plan was to test the efficacy of several ADR technologies on mock targets in low Earth orbit.
+e: In order to complete its planned experiments the platform was equipped with a net, a harpoon, a laser ranging instrument, a dragsail, and two CubeSats (miniature research satellites).
+[image:media/remove-debris.jpeg]
+
+// @id 01KXBYNX2BY6Z3SB0YGE8EPDCD
+q: ==Space situational awareness (SSA)== is the knowledge, characterization, and practice of tracking space objects and their operational environment.
+e: SSA data is used to predict conjunctions between objects and warn space operators of potentially dangerous close approaches to enable collision avoidance maneuvers.
+
+// @id 01KXBYNX2BYYDGT57H0MMNQ96F
+q: A ==conjunction== in space terms refers to a predicted close approach between two orbiting objects. These can involve active satellites, defunct satellites, or space debris.
+
+// @id 01KXBYNX2BN61CWFWZFQA781NJ
+q: ==Space Traffic Management (STM)== refers to the technical and regulatory provisions designed to promote safe access to outer space, secure operations while in orbit, and safe return to Earth, free from physical or radio-frequency interference
+
+// @id 01KXBYNX2B2A34EQ0XZXAC6RZD model=basic-example
+q: Why is space traffic managemement more a **governance challenge** rather than a technical one?
+a: To operate safely and sustainably in space, operators must coordinate and communicate; exchange data and information; enable situational awareness; avoid, mitigate, and resolve conflict; and define processes and procedures to determine and adjudicate who will maneuver, when that maneuver will occur, and how the maneuver will be executed to ensure safety.
+
+// @id 01KXBYNX2BEFXSEV0X6P4QG5CS
+q: In space exploration, ==in situ resource utilization (ISRU)== is the practice of collection, processing, storing and use of materials found or manufactured on other astronomical objects (the Moon, Mars, asteroids, etc.) that replace materials that would otherwise be brought from Earth.
+e: Using materials in situ (e.g. making fuel or water on-site) is broadly uncontroversial; the contested question is commercial *extraction and ownership* of space resources, which the OST does not clearly settle.
+
+// @id 01KXBYNX2BVCJMWCGGK9NXHK7K
+q: The ==Commercial Space Launch Competitiveness Act of 2015 (Title IV, the "SPACE Act")== was the first national law to explicitly grant property rights over space resources. It states that U.S. citizens "shall be entitled to any asteroid resource or space resource obtained, including to possess, own, transport, use, and sell" such resources.
+e: The law includes a sovereignty disclaimer, asserting that resource rights do not constitute sovereignty over the celestial body itself, drawing an analogy to fishing rights in international waters.
+
+// @id 01KXBYNX2B41K2XZTRGA5QG49J
+q: The ==common heritage of mankind== is an ethical concept and a general concept of international law. It establishes that some localities belong to all humanity and that their resources are available for everyone’s use and benefit, taking into account future generations and the needs of developing countries.
+e: It is intended to achieve aspects of the sustainable development of common spaces and their resources, but may apply beyond this traditional scope.
+
+// @id 01KXBYNX2BE4D0G8ZSHR5FXXRQ
+q: The ==Agreement Governing the Activities of States on the Moon and Other Celestial Bodies / Moon Treaty / Moon Agreement== declares the Moon and other celestial bodies (and their resources) the common heritage of mankind, reserves them for peaceful purposes, and calls for an international regime to govern any future resource exploitation.
+e: Effectively defunct in practice — no self-launching spacefaring nation has ratified it, so it carries little weight in international law.
+
+// @id 01KXBYNX2B1W4R1Y04KVAVW6X2
+q: Under the Artemis Accords, ==safety zones== are areas designated around lunar or space operations to prevent harmful interference between different actors.
+
+// @id 01KXBYNX2BD4M1VFANZE68E5A1
+q: ==Planetary protection== is a guiding principle in the design of an interplanetary mission, aiming to prevent biological contamination of both the target celestial body and the Earth in the case of sample-return missions.
+e: Planetary protection reflects both the unknown nature of the space environment and the desire of the scientific community to preserve the pristine nature of celestial bodies until they can be studied in detail.
+
+// @id 01KXBYNX2BF4HRAVE68SHEEEB6
+q: There are two types of interplanetary contamination. ==Forward contamination== is the transfer of viable organisms from Earth to another celestial body. ==Back contamination== is the transfer of potential extraterrestrial organisms back to the Earth's biosphere.
+
+// @id 01KXBYNX2BV97CX4ABHMKW1CM1
+q: A ==special region== is a region classified by COSPAR where terrestrial organisms could readily propagate, or thought to have a high potential for existence of Martian life forms.
+e: This is understood to apply to any region on Mars where liquid water occurs, or can occasionally occur, based on the current understanding of requirements for life.
+If a hard landing risks biological contamination of a special region, then the whole lander system must be sterilized to COSPAR category IVc.
+
+// @id 01KXBYNX2B2YR5NERYNK8TRJQY
+q: How do **COSPAR planetary protection categories** scale, conceptually?
+a: Protection rises with a target's life-potential: none for lifeless bodies (Sun, Mercury — I), light documentation for low-risk bodies (Moon, Venus — II), cleanliness/bioburden control for Mars, Europa, Enceladus (III–IV), and full containment for restricted sample returns (V).
+e: The principle matters more than the category numbers — contamination risk tracks the chance life could survive or already exist there.
+
+// @id 01KXBYNX2B1VHMM4B7P80DSQ6E
+q: ==Terraforming== is the artificial transformation of other planets into places suitable for human habitation.
+
+// @id 01KXBYNX2B2N491Z5MMJ2XA7G9
+q: Why can asteroid mining be argued **legal under the Outer Space Treaty** despite the non-appropriation rule?
+a: The OST bans national appropriation of celestial *bodies* but is silent on extracted *resources* — you can't own the asteroid, but you can own what you remove, like fishing in international waters. National laws (US SPACE Act, Luxembourg) codify this.
+e: Critics counter that only a few wealthy actors can do it, so first-come-first-served edges toward de facto appropriation — invoking common heritage of mankind.
+
+// @id 01KXBYNX2BFC1HZYVREGVJFPCJ model=basic-example
+q: Why are Artemis Accords **safety zones controversial**?
+a: Excluding other actors from an area around your operation can function as de facto territorial appropriation — the very thing the OST forbids — depending on the zone's size and permanence.
+
+// @id 01KXBYNX2BG9GMZMNP1EC30YFG model=basic-example
+q: What **ethical concerns** surround planetary colonization and terraforming?
+a: Whether we have the right to irreversibly alter another world; equitable access (avoiding a wealthy-nation land-grab); militarization of space; and governance and rights of any future settlements.

@@ -1,0 +1,114 @@
+// @id 01KVP45PQ25FNHAV3PZK45WB80
+q: What is a **satellite bus / spacecraft bus**? 
+a: It is the standardized, modular structure or framework that forms the core of a satellite. It carries and supports the primary systems and subsystems required for the satellite’s operation, while the payload, which varies depending on the satellite’s purpose and mission, is attached to the bus.
+[image:media/satellite-bus.png]
+e: Bus-derived satellites are less customized than specially-produced satellites, but have specific equipment added to meet customer requirements, for example with specialized sensors or transponders, in order to achieve a specific mission.
+
+// @id 01KVP45PQ2WJAQSM096W0D2BJK model=basic
+q: What are the **pros of using standardized satellite bus**?
+a: Cost savings, faster development, modular design, reliability, and simplified integration and testing.
+
+// @id 01KVP45PQ2T83HEPRJ6P82N05J model=basic
+q: What are the **cons of using standardized satellite bus**?
+a: Limited customization, potential for obsolescence, compatibility challenges, one-size-fits-all approach, and market limitations.
+
+// @id 01KVP45PQ2DF8MGQMH8MG5MTR4
+q: ==Payload== is a set of custom equipment a spacecraft needs to accomplish its specific objectives.
+
+// @id 01KVP45PQ2620T8N3R6NW5S8F4
+q: What are the **major subsystems of a spacecraft bus**?
+a: Structures, electrical power, attitude (orientation) control — handled by the Attitude Determination and Control Subsystem (ADCS / AACS) — communication, command and data handling (C&DH / CDS), propulsion, and thermal control subsystem. Crewed spacecraft also need a life-support system.
+e: Attitude control is sometimes lumped in with **Guidance, Navigation, and Control (GNC / GN&C)**, but they aren't synonyms: ADCS handles *orientation* (which way the vehicle points), while GNC is broader, adding *navigation* (determining position and velocity) and *guidance* (planning the path/trajectory to a goal). ADCS is the attitude piece sitting inside the larger GNC function.
+
+// @id 01KVP45PQ2930NBE7N35JX7JTN
+q: The ==spacecraft clock (SCLK, pronounced "sklock")== is typically a counter maintained by CDS. It meters the passing of time during the life of the spacecraft. Nearly all activity within the spacecraft systems is regulated by it (an exception is real-time commands).
+e: The spacecraft clock may be very simple, incrementing every second and bumping its value up by one, or it may be more complex, with several main and subordinate fields that can track and control activity at multiple granularities.
+
+// @id 01KVP45PQ2J4TKBAMDRT24X22T
+q: The ==Structure== subsystem provides overall mechanical integrity of the spacecraft. It must ensure that all spacecraft components are supported, and that they can withstand handling and launch loads as well as flight in freefall and during operation of propulsive components.
+
+// @id 01KVP45PQ2X98AGD77BXQZQQVW
+q: The ==Command and Data Subsystem (CDS)== is usually one computer identified as the "spacecraft central" computer responsible for overall management of a spacecraft's activity. It is typically the same one which maintains timing, interprets commands from Earth, collects, processes, and formats the telemetry data to be returned to Earth, and manages high-level fault protection and safing routines.
+
+// @id 01KVP45PQ2MG9ZGBVQ4GHDJD7C model=basic
+q: What is **safing**?
+a: It's a fault protection (FP) algorithm that involves shutting down or reconfiguring components to prevent damage either from within or from the external environment.
+
+// @id 01KVP45PQ2BN3GK79CDMBVGAVR
+q: Thrusters on spacecraft are also referred to as ==mass-expulsion control systems (MEC)== or ==reaction-control systems (RCS)==.
+
+// @id 01KVP45PQ2MR30CSPVXRKJM8E9
+q: The ==Attitude and Articulation Control Subsystems (AACS) / Attitude Determination and Control Subsystem (ADCS)== is responsible for controlling the orientation of a spacecraft (vehicle or satellite) with respect to an inertial frame of reference or another entity such as the celestial sphere, certain fields, and nearby objects, etc. 
+e: A spacecraft's attitude must be stabilized and controlled so that its high-gain antenna may be accurately pointed to Earth for **communications**, so that onboard experiments may accomplish **precise pointing for accurate collection** and subsequent interpretation of data, so that the **heating and cooling** effects of Sunlight and shadow may be used intelligently for thermal control, and also for **guidance**: short propulsive maneuvers must be executed in the right direction.
+
+// @id 01KVP45PQ2RJAYC3VG0WWWM44Y
+q: The Attitude and Articulation Control Subsystems (AACS) / Attitude Determination and Control Subsystem (ADCS) accomplishes its job by regulating ==spin== or ==3-axis stabilization==.
+
+// @id 01KVP45PQ2QCWBYNM32HNNCMKC
+q: The Attitude and Articulation Control Subsystems (AACS) / Attitude Determination and Control Subsystem (ADCS) accomplishes its job by using ==thrusters== or ==reaction / momentum wheels==.
+
+// @id 01KVP45PQ2K64PSVY05DSAF0K1
+q: Knowing where to point a solar panel, or scan platform, or a nozzle — that is, how to ==articulate== it — requires knowledge of the spacecraft's attitude. Since AACS keeps track of the spacecraft's attitude, the Sun's location, and Earth's location, it can compute the proper direction to point the appendages.
+
+// @id 01KVP45PQ22BEZEZ1693RTZ2E4
+q: The Attitude and Articulation Control Subsystems (AACS) / Attitude Determination and Control Subsystem (ADCS) uses either ==celestial== or ==inertial== reference to provide attitude.
+
+// @id 01KVP45PQ2SVH9B9VWMP51FA7P
+q: The Telecommunications Subsystems uses ==high/medium/low-gain antennas== to communicate with Earth.
+
+// @id 01KVP45PQ2D70HCG9GYRG4AEB3
+q: A ==spacecraft transmitter== is a lightweight electronic device that generates a tone at a single designated radio frequency, typically in the S-band, X-band, or Ka-band for communications and radio science.
+e: This tone is called the carrier and can be sent from the spacecraft to Earth as a pure tone, or it can be modulated with data or a data-carrying subcarrier.
+
+// @id 01KVP45PQ2SFCJ7AR8MJT59413
+q: The ==receiver== is an electronic device which is sensitive to a narrow band of radio frequencies, generally plus and minus a few kHz of a single frequency selected during mission design.
+e: Once an uplink is detected within its bandwidth, the receiver's phase-lock-loop circuitry (PLL) will follow any changes in the uplink's frequency within its bandwidth.
+
+// @id 01KVP45PQ2PTFR2JEZV0V37KEA model=basic
+q: How does a spacecraft meet its **demanding electrical power needs**?
+a: Choices of technology to meet these requirements are today constrained largely to two: photovoltaics (PV) and radioisotope power systems (RPS). 
+
+// @id 01KVP45PQ2EJ3Z81ZC7RJTTE9H
+q: ==Radioisotope thermoelectric generators (RTGs)== provide electrical power for certain spacecraft by converting the heat generated by the decay of plutonium-238 (Pu-238) fuel into electricity using devices called thermocouples.
+e: [image:media/rtg.png]
+
+// @id 01KVRC0TYGZX94JHHKPZQE12A8 model=basic
+q: What is a **star tracker**?
+a: It is an optical device that measures the positions of stars using photocells or a camera. Using local catalog of stars with known positions, when mounted on a satellite or spacecraft, it can determine the orientation (or attitude) of the spacecraft with respect to the stars.
+
+// @id 01KVRC0TYGW6ZRCHM596BVMZBZ
+q: A ==Sun sensor== is a navigational instrument used by spacecraft to detect the position of the Sun.
+e: Sun sensors are used for attitude control, solar array pointing, gyro updating, and fail-safe recovery.
+
+// @id 01KVRC0TYGWKFDPHGVW7NWBX62
+q: Sun sensors split into ==coarse sun sensors (CSS)== and ==fine sun sensors (FSS)==.
+
+// @id 01KVRC0TYGR1QSQ8K8EGP2KE0T
+q: ==Coarse== sun sensors provide basic directional information of sunlight and are typically used for initial attitude acquisition or backup orientation sensing. They feature a simple design, are low-cost, and consume minimal power, though their accuracy is limited compared to fine sun sensors.
+
+// @id 01KVRC0TYGDTAY16EAXEDA4PFK
+q: ==Analog fine== sun sensors output voltage levels corresponding to the angle of sunlight incidence. These require external analog-to-digital converters (ADC) for processing, making them ideal for systems with tight power budgets but with higher noise susceptibility.
+
+// @id 01KVRC0TYG0CWY4TW9DG9BVZQG
+q: ==Digital fine== sun sensors integrate internal signal processing, outputting digital data directly through communication interfaces like RS485 or UART. They offer improved noise immunity, onboard calibration capabilities, and are well-suited for high-precision satellite missions.
+
+// @id 01KVRC0TYGNCN6BP9FDA498RMR model=basic
+q: What is a **magnetorquer / magnetic torquer / torque rod**?
+a: It is a satellite system for attitude control, detumbling, and stabilization built from electromagnetic coils. It creates a magnetic dipole that interfaces with an ambient magnetic field, usually Earth's, so that the counter-forces produced provide useful torque. 
+
+// @id 01KVRC0TYG22V0BCGEH0T6HG0F model=basic
+q: What is **antenna gain**?
+a: It describes how effectively an antenna concentrates radio energy in a particular direction. The antenna does not generate energy. It simply concentrates more energy in some directions and less in others. This directional concentration is what we call gain.
+[image:media/antenna-gain.png]
+
+// @id 01KVRC0TYGS20EPYRNRZVKGZ4T model=basic
+q: How does a **reaction wheel** turn a spacecraft, and why do wheels need **desaturating**?
+a: Conservation of angular momentum: spin a wheel one way and the body rotates the opposite way. Disturbance torques (gravity gradient, solar pressure) slowly drive the wheels toward their max speed — **saturation** — at which point thrusters or magnetorquers must **dump** the excess momentum so the wheels can slow back down.
+
+// @id 01KVRC0TYG40NN18SKE6Q623PE model=basic
+q: Why carry **both a high-gain and a low-gain antenna**?
+a: Focus vs. forgiveness. The **HGA** gives high data rate and long range but must be precisely pointed; the **LGA** is weak and slow but works at almost any orientation — the lifeline if the spacecraft loses attitude or enters safe mode.
+
+// @id 01KVRC0TYG8TBGE1NKD8K8A9VT model=basic
+q: Difference between **determining** and **controlling** attitude?
+a: **Determining** = sensing current orientation (star trackers, sun sensors, gyros, magnetometers). **Controlling** = changing or holding it (reaction wheels, thrusters, magnetorquers). Sensors measure, actuators act.

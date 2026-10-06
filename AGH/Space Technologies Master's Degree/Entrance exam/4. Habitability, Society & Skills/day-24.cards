@@ -1,0 +1,98 @@
+// @id 01KXER6WW4Y6S44BEFGC8JHW9Y
+q: ==Flight Director==  is the leader of a space agency’s Mission Control Center (MCC). This individual is the real-time manager of a space mission and the single point of authority. They are responsible for integrating the work of all specialized teams and making the final “go/no-go” call on all critical operations. 
+e: The position’s culture was defined by the principle that one person must be the final authority in a crisis, which led to the operational call sign, “Flight.”
+
+// @id 01KXER6WW4CAX6W2XYHNQ5MPBG
+q: ==Flight controllers== are personnel who aid space flight by working in mission control centers. They work at computer consoles and use telemetry to monitor various technical aspects of a space mission in real-time.
+e: Each controller is an expert in a specific area and constantly communicates with additional experts in the "back room".
+
+// @id 01KXER6WW4N8Y9SFGJXTESW2XB model=basic-example
+q: What are some of the most common **flight controller positions**?
+a: Propulsion, command and data handling, control; emergency, environmental, and consumables; flight activities, flight dynamics, ground control; guidance, navigation, and control; communications, mechanical and power, and more.
+[image:media/flight-control.jpg]
+
+// @id 01KXER6WW4PM0FTJJAPJYX9ADS
+q: The ==International Space Station Multilateral Coordination Board (MCB)== is the highest-level cooperative body in the International Space Station (ISS) programme.
+
+// @id 01KXER6WW4QQ78Y88TXXJ65HX2 model=basic-example
+q: How to make decisions with incomplete information?
+a: Identify missing information, think probabilistically, make small incremental steps, be open to changing later, think about different scenarios, and similar.
+
+// @id 01KXER6WW489V21WS294KYJTY1 model=basic-example
+// to improve
+q: How are spacecraft anomalies handled?
+a: Flight controllers act as first responders — they detect the off-nominal signature via telemetry, stabilize the immediate threat, then diagnose the root cause methodically ("work the problem") rather than guessing.
+
+// @id 01KXER6WW49YBB6B36FF92JGP1
+q: ==Contingency planning== in spaceflight is the process of developing detailed, actionable strategies to handle "off-nominal" or unpredictable events during a mission. Because of the inherent risks associated with hardware, software, and the space environment, these plans are critical for ensuring mission success and crew survival.
+
+// @id 01KXER6WW4ZC12YE8Y6VXNBFZM
+q: A ==spectrum== is the distribution of electromagnetic radiation across wavelengths or frequencies; it may be continuous or show discrete lines.
+e: Discrete emission/absorption lines act as fingerprints of composition.
+
+// @id 01KXER6WW4VS40GTS2MA04HECT
+q: ==Signal-to-noise ratio (SNR or S/N)== is a measure used in science and engineering that compares the level of a desired signal to the level of background noise.
+e: SNR is defined as the ratio of signal power to noise power, often expressed in decibels.
+[image:media/signal-noise-ratio.png]
+
+// @id 01KXER6WW4P6AFYYSH707EZ0V5
+q: ==Absorption spectroscopy== is spectroscopy that involves techniques that measure the absorption of electromagnetic radiation, as a function of frequency or wavelength, due to its interaction with a sample.
+e: The sample absorbs energy, i.e., photons, from the radiating field. The intensity of the absorption varies as a function of frequency, and this variation is the absorption spectrum. Absorption spectroscopy is performed across the electromagnetic spectrum.
+
+// @id 01KXER6WW4V5ZBFDB31VT3H5V1
+q: An ==absorption spectrum== is a graphical representation or pattern showing the fraction of incident electromagnetic radiation that a material absorbs over a range of frequencies or wavelengths. It serves as a unique "fingerprint" that reveals the atomic and molecular composition of a substance.
+e: [image:media/absorption-spectrum.jpg]
+
+// @id 01KXER6WW41R5V7YD1MAZV69D4
+q: An ==emission spectrum== is the unique pattern of frequencies or wavelengths of electromagnetic radiation emitted by a chemical element or compound. It serves as a "light signature" that allows scientists to identify the composition of a substance.
+e: [image:media/emission-spectrum.png]
+
+// @id 01KXER6WW4DXCY9W4M0Y1WVGHQ model=basic-example
+q: How to make good **order of magnitude estimations**?
+a: 1. Do not attempt more than one significant figure of precision
+2. Do not guess area/volume directly, guess linear dimensions and calculate
+3. Simplify shapes
+4. Make sensible double-check at the end
+
+// @id 01KXER6WW4214XPDWW4TNERK8Y
+q: The speed of light in vacuum ($c$) is equal to ==$299 792 458 m/s$==.
+e: Estimate as $3x10^8 m/s$.
+
+// @id 01KXER6WW4J0NZV2RRWH1CC932
+q: The light travels the distance from Moon to Earth in ==1.3 s== and from Sun to Earth in ==8.3 min==.
+
+// @id 01KXER6WW41WXEKGVB6274TEPH
+q: The average lunar distance is approximately ==384 399 km==.
+
+// @id 01KXER6WW4XDYHY725KVD1P3M9
+q: The speed in a circular orbit relative to the centre of mass is constant and equal ==$v=\sqrt{\frac{GM}{r}}$==.
+
+// @id 01KXER6WW416QS4TC7SCEA6JGE model=basic-example
+q: What is **spacecraft design trade-off analysis**?
+a: It is a critical systems engineering process used to evaluate competing requirements and select the optimal compromise between design options to ensure mission success. Because space missions operate under extreme constraints—such as limited mass, power, and budget—designers cannot maximize every parameter; instead, they must balance "trade spaces" to find a viable equilibrium.
+
+// @id 01KXER6WW4XZVVRBXGXPGCYMCP
+q: ==Multi-Criteria Decision Analysis (MCDA) / Multi-Criteria Decision-Making (MCDM) / Multi-Criteria Analysis (MCA)== is a structured framework for scoring and ranking options against multiple weighted, often conflicting, criteria to choose the best compromise.
+e: It selects among options; describing the trade-off frontier itself is Pareto optimization.
+
+// @id 01KXER6WW4GCSHJ7XK9MGZC8Y7
+q: ==Pareto Optimization / multi-objective optimization== is a mathematical and economic framework used to find the best possible solution when there are multiple, often conflicting, objectives to balance simultaneously.
+e: Unlike single-objective optimization, where there is typically one "best" number or state, Pareto optimization recognizes that improving one goal often comes at the expense of another.
+[image:media/pareto-optimization.jpg]
+
+// @id 01KXER6WW4BGF3737ZRG3RT85Z
+q: The ==critical path method (CPM) / critical path analysis (CPA)==, is an algorithm for scheduling a set of project activities.
+e: A critical path is determined by identifying the longest stretch of dependent activities and measuring the time required to complete them from start to finish.
+[image:media/critical-path.svg]
+
+// @id 01KXER6WW4WHK4GK0VS1KTE02N
+q: A ==light curve== is a graph of an object's brightness over time.
+e: Regular, evenly-spaced dips of consistent depth suggest a transiting exoplanet crossing in front of its star.
+
+// @id 01KXER6WW4MSD9GDETJZ1C3RB5 model=basic-example
+q: Why do periodic brightness dips indicate a transiting planet rather than noise?
+a: The dips repeat at a fixed interval (the orbital period) with consistent depth and shape; noise is random and wouldn't recur identically. Independent methods like radial velocity confirm it.
+
+// @id 01KXER6WW4VPKGMDM6HXNNM2DS model=basic-example
+q: Why does repeated measurement (averaging) improve the signal-to-noise ratio?
+a: Random noise scatters high and low, so it partly cancels when averaged, while a real signal is consistent and reinforces. This is why a single anomalous point isn't trusted as a discovery.

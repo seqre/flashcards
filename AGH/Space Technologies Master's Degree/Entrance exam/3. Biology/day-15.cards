@@ -1,0 +1,177 @@
+// @id 01KWF9FK6928DBPMFS0K0606WW
+q: A ==monomer== is a single atom, small molecule, or molecular fragment that, when bonded together with identical and similar types of monomers, form a larger, macromolecule known as a ==polymer==.
+
+// @id 01KWF9FK69DYBKFYNQBJ6RA7XS
+q: Monomers bond together to form polymers during a chemical reaction called ==polymerization== as the molecules link together by sharing electrons (covalent bonds).
+e: During this process, some chemical groups get lost, which leads to a different end product than what was expected. As a result, the polymer does not always retain all the same chemical properties of the original single monomer units.
+
+// @id 01KWF9FK69G6FZGPDQT7TPWWQ2
+q: The four monomers that make up biologically important macromolecules are:
+- ==monosaccharides (make up polysaccharides, or carbohydrates)==
+- ==fatty acids (make up triglycerides, or lipids)==
+- ==amino acids (make up polypeptides, or proteins)==
+- ==nucleotides (make up polynucleotides, or nucleic acids)==
+e: [image:media/monomers.png]
+
+// @id 01KWF9FK698QPKAJ4ZWJ68XDKP
+q: ==Condensation reactions== are chemical processes where two or more simple substances combine to form a larger, more complex molecule, while simultaneously eliminating a smaller molecule, often water.
+e: This type of reaction is fundamental in both organic and biochemistry, facilitating the bonding of various macromolecules such as amino acids, carbohydrates, and lipids.
+
+// @id 01KWF9FK692B9SCFR7CCTQKQK0
+q: ==Dehydration synthesis / dehydration reaction==, is a chemical reaction that involves forming a new compound accompanied by removing **water** from the product.
+e: Dehydration synthesis is a process in which two monomers combine covalently to form a dimer. One monomer loses a hydrogen (H) atom and the other a hydroxyl (OH) group. The H and OH combine to create a water ($H_2O$) molecule. Water is a byproduct and eliminated from the reaction.
+[image:media/dehydration-synthesis.jpeg]
+
+// @id 01KWF9FK69F5VW61BBN4ZZPEQ2
+q: ==Hydrolysis (from Ancient Greek hydro- 'water' and lysis 'to unbind')== is any chemical reaction in which a molecule of water breaks one or more chemical bonds.
+e: In the biochemical process of digestion, enzymes secreted by the digestive tract catalyze the hydrolysis of complex molecules into forms that the body organisms can assimilate.
+[image:media/hydrolysis.png]
+
+// @id 01KWF9FK69PNTE09JJY1GSN87G model=basic-example
+q: Why is building polymers from a handful of monomer types an efficient strategy for life?
+a: The primary advantage of using a limited set of monomers is the ability to generate infinite structural and functional diversity in polymers. By varying the sequence, length, and arrangement of a small number of monomer types (such as the 20 amino acids for proteins or 4 nucleotides for DNA), cells can create a virtually limitless repertoire of macromolecules capable of performing highly specific biological tasks.
+
+// @id 01KWF9FK690SFXQEZK66K31BQ6
+q: An ==amino group== is a nitrogen atom bonded to two hydrogen atoms with a lone pair.
+e: Amino groups are sometimes also referred to as amine groups. Amino is a subcategory of amine. Amine is any group that contains nitrogen with a lone pair.
+[image:media/amino-group.jpg]
+
+// @id 01KWF9FK697S41AYCEG24SNCK7
+q: A ==carboxy group / carboxyl functional group / carboxyl radical== consists of a **carbon double-bonded to oxygen and singly bonded to a hydroxyl group (OH)**. As a result, the formula for a carboxyl group is ==R-COOH where R is the organic compound chain==.
+e: [image:media/carboxylic-acid.svg]
+
+// @id 01KWF9FK69DNEDQV52G0PN3NDM
+q: The ==side chain / R group==, is a specific part of an amino acid that determines its unique characteristics and properties. It is the variable group attached to the central carbon of the amino acid structure, distinguishing one amino acid from another and influencing the protein's structure and function. 
+
+// @id 01KWF9FK69TJG0PKSTN7AKDEP7
+q: ==Amino acid== is any of a group of organic molecules that consist of a **basic amino group (―NH2), an acidic carboxyl group (―COOH), and an organic R group** (or side chain) that is unique to each amino acid.
+e: [image:media/amino-acid.webp]
+
+// @id 01KWF9FK691HJK1T3DRK3XZST7
+q: A ==peptide bond / eupeptide bond== is a **chemical bond** that is formed by joining the carboxyl group of one amino acid to the amino group of another.
+e: A peptide bond is basically an amide-type of the covalent chemical bond.
+
+// @id 01KWF9FK69CXJDJW7XS3YB7RXR
+q: ==Peptides== are short chains of amino acids linked by peptide bonds.
+
+// @id 01M41XFR8259Z0M0YKGFQVT2WK
+q: A ==polypeptide== is a longer, continuous, unbranched peptide chain. If they have a molecular mass of 10,000 Da or more are called ==proteins==.
+
+// @id 01KWF9FK69YR7HKS8J4SVJRD1R model=basic-example
+q: What are four levels of protein structure?
+a: Primary (sequence of amino acids), secondary (folding of polypeptide), tertiary (3D structure of polypeptide), and quarternary (structure of connected polypeptide chains).
+[image:media/protein-structure.png]
+
+// @id 01KWF9FK69JNN16G4PJDRBVQF7
+q: The most common types of secondary structures are the ==$\alpha$ helix== and the ==$\beta$ pleated sheet==. Both structures are held in shape by hydrogen bonds, which form between the carbonyl O of one amino acid and the amino H of another. 
+e: [image:media/secondary-protein-structure.png]
+
+// @id 01KWF9FK6946PXZRASA8TBEPSD
+q: ==Denaturation== is the term used for any change in the three-dimensional structure of a protein that renders it incapable of performing its assigned function. Typically it happens due to changes in environmental conditions such as temperature, pH, or chemical exposure.
+
+// @id 01KWF9FK69D86JPC8PDSKTQSP6
+q: ==Nucleotides== are organic molecules composed of a nitrogenous base, a pentose (with five carbon atoms) sugar and a phosphate. They serve as monomeric units of the nucleic acid polymers – deoxyribonucleic acid (DNA) and ribonucleic acid (RNA).
+e: [image:media/dna-vs-rna.png]
+
+// @id 01KWF9FK69TEZJ0HNX8F0GQ993 model=basic-example
+q: What are the main differences between DNA and RNA?
+a: DNA's sugar is deoxyribose, it has two strands, and it uses ATGC as a base. RNA's sugar is ribose, it has one strands, and uses AGCU as a base.
+[image:media/dna-vs-rna.png]
+
+// @id 01KWF9FK69S8V73Y8FCZWS1ZXJ
+q: DNA's base pairs are ==A-T and C-G==, while RNA's ==A-U and C-G==. They are connected with ==hydrogen bonds==.
+e: A - adenine
+T - thymine
+C - cytosine
+G - guanine
+U - uracil
+
+// @id 01KWF9FK69CTMG0RYJWDQW6HFK
+q: The ==antiparallel== nature of the DNA double helix refers to the orientation of the two sugar-phosphate backbones, which run in opposite directions: one strand is oriented in the 5' to 3' direction, while the complementary strand runs 3' to 5'.
+e: 5′ end: where the phosphate group is attached to the 5′ carbon of the sugar.
+3′ end: where the hydroxyl (-OH) group is attached to the 3′ carbon of the sugar.
+[image:media/5-3-strand.jpg]
+
+// @id 01KWF9FK693KJM7KB8QJKKHYBF model=basic-example
+q: Why complementarity of DNA matters?
+a: Because the strands are complementary, each strand acts as a template for the other. Complementary base pairing provides a redundant verification system. The rules of base pairing ensure that the correct genetic code is maintained during both replication (copying) and transcription (converting DNA into RNA), forming the physical basis of genetic identity.
+
+// @id 01KWF9FK698QNKF0AZFM2C6KPX
+q: The structure of DNA is often compared to a twisted ladder, where the ==sugar-phosphate backbone forms the vertical sides (the rails)== and the ==nitrogenous base pairs form the horizontal steps (the rungs)==.
+
+// @id 01KWF9FK69T5W6VMN5DMXWSTDM
+q: ==Monosaccharides / simple sugars==, are a class of organic compounds usually with the formula $(CH_2O)_x$. Examples include glucose and fructose.
+e: By definition they have two or more carbon-carbon bonds.
+
+// @id 01KWF9FK69YZHJN93CYGGCHPBP
+q: A ==disaccharide / double sugar / biose== is the sugar formed when two monosaccharides are joined by glycosidic linkage. Three common examples are sucrose, lactose, and maltose. 
+e: The joining of monosaccharides into a double sugar happens by a condensation reaction.
+
+// @id 01KWF9FK69CMQRTGKH5DEZ8CRC
+q: ==Polysaccharides== are compounds consisting of a large number of monosaccharides linked glycosidically.
+
+// @id 01KWF9FK69JV6SR0KPGP6HX8GJ
+q: ==Carbohydrates== are molecules that contain carbon, hydrogen, and oxygen.
+e: The general formula for a carbohydrate can be written as $C_x(H_2O)_y$.
+
+// @id 01KWF9FK69ZK1PNDJ429KH8QJG
+q: ==Lipid== is any of a diverse group of organic compounds including fats, oils, hormones, and certain components of membranes that are grouped together because they do not interact appreciably with water.
+
+// @id 01KWF9FK699DB1QF19Y8W941G5 model=basic-example
+q: What are three big lipid types?
+a: Triglycerides / fats, phospholipids, and steroids.
+
+// @id 01KWF9FK699SNJ1Y7EQGP7P4X6
+q: In chemistry, an ==ester== is a compound derived from an acid (either organic or inorganic) in which the **hydrogen atom (H) of at least one acidic hydroxyl group (−OH) of that acid is replaced by an organyl group (R′)**.
+e: [image:media/ester.svg]
+
+// @id 01KWF9FK697KP9A3VPAN8N3GSF
+q: A ==triglyceride== is an ester derived from glycerol and three fatty acids.
+e: Triglycerides are the main constituents of body fat in humans and other vertebrates as well as vegetable fat. They are also present in the blood to enable the bidirectional transference of adipose fat and blood glucose from the liver and are a major component of human skin oils.
+
+// @id 01KWF9FK69QYN2P5Q3D41EQH2B
+q: ==Phospholipids== are a class of lipids whose molecule has a hydrophilic "head" containing a phosphate group and two hydrophobic "tails" derived from fatty acids, joined by an alcohol residue (usually a glycerol molecule).
+
+// @id 01KWF9FK6964DBXBARV1HDNECX
+q: ==Amphiphilic== molecules are defined as compounds that have both hydrophilic (water-loving) and hydrophobic (water-hating) parts, allowing them to interact with both water and oil or other incompatible solvents.
+
+// @id 01KWF9FK696QRYD6E1C7XVX9XM
+q: The ==lipid bilayer / phospholipid bilayer== is a thin polar membrane made of two layers of lipid molecules. These membranes form a continuous barrier around all cells. They are usually composed of ==amphiphilic phospholipids that have a hydrophilic phosphate head== and a ==hydrophobic tail consisting of two fatty acid chains==.
+e: [image:media/lipid-bilayer-section.gif]
+
+// @id 01KWF9FK69Z22Z9D1ZKM6D990G model=basic-example
+q: How lipid bilayer forms?
+a: When phospholipids are exposed to water, they self-assemble into a two-layered sheet with the hydrophobic tails pointing toward the center of the sheet due to hydrophobic effect.
+
+// @id 01KWF9FK69VD8SDJ5F1FMH971T
+q: ==Steroids== are organic compounds characterized by a core structure of four fused carbon rings. This distinct arrangement contributes to their diverse functions within the body, including hormone production and cellular signaling.
+e: Common examples include testosterone, estrogen, and cholesterol. While they share properties with lipids, their specific structure distinguishes steroids from typical fats and oils.
+
+// @id 01KWF9FK69DNBAD3A1TFYRGZ3Z model=basic-example
+q: What are two principal biological functions of steroids?
+a: As important components of cell membranes that alter membrane fluidity and as signaling molecules.
+
+// @id 01KWF9FK69T45M433FZZN08PXW
+q: ==Saturated fatty acids== are the simplest form of fats that are unbranched linear chains of CH2 groups linked together by carbon-carbon single bonds with a terminal carboxylic acid.
+e: They remain in the solid-state at room temperatures.
+[image:media/saturated-unsaturated-fatty-acids.jpeg]
+
+// @id 01KWF9FK69FJV4Q8YT6T6N4HVW
+q: ==Unsaturated fatty acids== are more complex fatty acids with bent hydrocarbon chains linked together by one or more carbon-carbon double bonds with a terminal carboxylic acid group.
+e: Unsaturated fatty acids have a lower melting point as compared to saturated fatty acids, and thus they exist in the liquid state at room temperatures.
+[image:media/saturated-unsaturated-fatty-acids.jpeg]
+
+// @id 01KWF9FK696E8HS1MXEAGZBE5R model=basic-example
+q: Match each macromolecule to its main job in one word.
+a: - proteins (do)
+- nucleic acids (inform)
+- carbohydrates (fuel)
+- lipids (separate/store)
+
+// @id 01KWF9FK69372CZ1QWG41S1KHM model=basic-example
+q: Why can humans digest starch and glycogen but not cellulose, when all three are glucose polymers?
+a: The glucose units are linked differently. Starch and glycogen use **α-glucose** bonds that human enzymes can hydrolyze; cellulose uses **β-glucose** bonds our enzymes can't break. Same monomer, different bond geometry, opposite digestibility.
+
+// @id 01KWF9FK69SYWN91QQHZZ906KZ model=basic-example
+q: Why are lipids the one macromolecule class that isn't a true polymer?
+a: They aren't a repeating chain of identical monomers. Lipids are grouped by shared **behavior** — being largely hydrophobic — not by a common building block. A triglyceride is one glycerol plus three fatty acids, not a long repeating sequence.

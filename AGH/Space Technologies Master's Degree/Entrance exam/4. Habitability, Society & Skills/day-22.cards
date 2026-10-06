@@ -1,0 +1,55 @@
+// @id 01KX1GJ6Y4K02T0HA7BCFRFNKE model=basic-example
+q: How do satellites help with weather forecasting?
+a: Mapping cloud patterns, temperature and moisture, tracking storms, and more.
+
+// @id 01KX1GJ6Y4KYDNECKH5ZWYXZMW
+q: The ==Outer Space Treaty==, is a multilateral treaty that forms the basis of international space law started in 1967.
+e: Formally it's called the Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and Other Celestial Bodies.
+
+// @id 01KX1GJ6Y4JS1MYWZ1M2A9ZSHS model=basic-example
+q: What are the key terms of the Outer Space Treaty?
+a:
+1. Prohibiting nuclear weapons and other weapons of mass destruction in space,
+2. Limiting the use of the Moon and all other celestial bodies to peaceful purposes,
+3. Establishing that space shall be freely explored and used by all nations,
+4. Precluding any country from claiming sovereignty over outer space or any celestial body
+
+// @id 01KX1GJ6Y41KC72AT5D3T16K0V
+q: What are the five space agencies overseeing International Space Station?
+a: NASA (US), Roscosmos (Russia), ESA (Europe), JAXA (Japan), and CSA (Canada).
+e: CSA (Canadian Space Agency), JAXA (Japan Aerospace Exploration Agency), ESA (European Space Agency).
+[image:media/iss-partners.png]
+
+// @id 01KX1GJ6Y4PCV2XYS5KYJSB5AF
+q: The total of ==15== nations are involved in the International Space Station.
+e: [image:media/iss-partners.png]
+
+// @id 01KX1GJ6Y4KP47TS3X75K5DA4C
+q: The ==Convention on Registration of Objects Launched into Outer Space / Registration Convention / Registration Agreement== was adopted by the United Nations General Assembly in 1974 and went into force in 1976. It is an international treaty designed to create a transparent and mandatory system for tracking objects launched into space.
+
+// @id 01KX1GJ6Y4ZFMGWYMRS7Z3YJVK
+q: The ==Agreement on the Rescue of Astronauts / Return of Astronauts and the Return of Objects Launched into Outer Space / Rescue Agreement==, is an international agreement setting forth rights and obligations of states concerning the rescue of persons in space. It was created in 1967 and went into force in 1968.
+
+// @id 01KX1GJ6Y4CS4YWDXNKK85SQ91
+q: The ==Artemis Accords== are a non-binding set of principles for outer space exploration and development, established through a series of bilateral agreements between the United States and partner nations.
+e: They are signed at a national level rather than on an organizational level, and countries that sign the accord do so voluntarily.
+
+// @id 01KX1GJ6Y4W98W4FFTTVRYSX1K
+q: ==Global commons== is a concept to describe international, supranational, and global resource domains in which common-pool resources are found. They are "areas that lie outside of the political reach of any one nation State".
+e: Global commons include the earth's shared natural resources, such as the high seas (international waters), the atmosphere and outer space and the Antarctic in particular.
+
+// @id 01KX1GJ6Y4ZY28B25EYWCZAEZF model=basic-example
+q: Why is outer space treated as a "global commons" no nation can claim?
+a: Like the high seas or Antarctica, it lies beyond any single state's reach. The Outer Space Treaty's non-appropriation rule pre-empts a Cold War-style territorial land-grab, keeping space open to all and lowering the risk of conflict over territory.
+
+// @id 01KX1GJ6Y4GY8ZQKTG2WG34VV9 model=basic-example
+q: How do the Outer Space Treaty and Artemis Accords differ in legal force?
+a: The OST is a binding UN treaty ratified by nearly all spacefaring nations — hard international law. The Artemis Accords are non-binding, US-led bilateral agreements (opt-in norms, especially on lunar activity and resource use), which is why they're more contested.
+
+// @id 01KX1GJ6Y4FJPGXS335B1A6PQT model=basic-example
+q: Why is the ISS often cited as a model of international cooperation?
+a: It kept the US and Russia cooperating in orbit for decades despite tensions on the ground. The segments are physically interdependent, so the partners structurally rely on each other — cooperation is built into the hardware.
+
+// @id 01KX1GJ6Y47VWZNKH8YQGNBN0E
+q: The Rescue Agreement treats astronauts as ==envoys of mankind==, obligating any state to assist and return astronauts in distress regardless of nationality.
+e: Like aiding a shipwrecked sailor — no "not our nationals" opt-out.

@@ -1,0 +1,2 @@
+# ankigen deck ids — keep this file so your Anki decks stay stable across rebuilds
+2136007558	Space Technologies Exam::4. Habitability, Society & Skills

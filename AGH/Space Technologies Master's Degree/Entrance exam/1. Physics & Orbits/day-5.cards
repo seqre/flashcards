@@ -1,0 +1,73 @@
+// @id 01KVFKHJGNDVNQYY6QAHVS40HM model=basic
+q: What is **space debris / space junk / space pollution / space waste / space trash / space garbage / cosmic debris**?
+a: Those are defunct human-made objects in space – principally in Earth orbit – which no longer serve a useful function.
+
+// @id 01KVFKHJGNEB3DE7Z4J1XWVX8T model=basic
+q: Where does **space debris** come from?
+a: The sources include derelict spacecraft (nonfunctional spacecraft and abandoned launch vehicle stages), mission-related debris, and fragmentation debris from the breakup of derelict rocket bodies and spacecraft. In addition to derelict human-made objects left in orbit, space debris includes fragments from disintegration, erosion, or collisions; solidified liquids expelled from spacecraft; unburned particles from solid rocket motors; and even paint flecks. Space debris represents a risk to spacecraft.
+
+// @id 01KVFKHJGNRVXEZG1MTGTK2MW1
+q: The artificial space debris (paint flecks, solid rocket exhaust particles, etc.) and micrometeoroids are collectively known as ==Micrometeoroid and Orbital Debris (MMOD)==.
+
+// @id 01KVFKHJGNEXMG8GSMM94KVHS7 model=basic
+q: What is the **Kessler syndrome / Kessler effect / collisional cascading / ablation cascade**?
+a: It is a scenario proposed by NASA scientists Donald J. Kessler and Burton G. Cour-Palais in 1978. It describes a situation in which the density of objects in low Earth orbit (LEO) becomes so high due to space pollution that collisions between these objects cascade, exponentially increasing the amount of space debris over time.
+
+// @id 01KVFKHJGN8NMWAPYEFT6B27NQ
+q: ==Anti-satellite weapons (ASAT)== are space weapons designed to incapacitate or destroy satellites for strategic or tactical purposes.
+
+// @id 01KVFKHJGN5NWG2JMKC3RPYGZ7
+q: ==The North American Aerospace Defense Command (NORAD)== is a bi-national mutual defense organization in Canada and the United States.
+
+// @id 01KVFKHJGNCZQ018EMQEEVBE5F
+q: What is the **Satellite Catalog Number (SATCAT) / NORAD Catalog Number / NORAD ID / USSPACECOM object number**?
+a: It is a sequential identifier assigned by the United States Space Command (USSPACECOM), and previously the North American Aerospace Defense Command (NORAD), in order of launch or discovery, to all artificial objects in Earth orbit and those that have left it. Objects that fail to orbit or orbit only briefly are not catalogued. The minimum object size in the catalog is about 10 centimetres (3.9 in) in diameter.
+e: Originally a five-digit number (00001–99999). As the catalog approached 100,000 objects, the Alpha-5 scheme was introduced — replacing the leading digit with a letter to extend capacity — with a longer 9-digit numbering system planned for the future.
+
+// @id 01KVFKHJGNQFBSPWXYX883P8V6
+q: ==Spacecraft collision avoidance== is the implementation and study of processes minimizing the chance of orbiting spacecraft inadvertently colliding with other orbiting objects.
+e: The subject includes procedures designed to prevent the accumulation of space debris in orbit, analytical methods for predicting likely collisions, and avoidance procedures to maneuver offending spacecraft away from danger. 
+
+// @id 01KVFKHJGNR2CKNX60T30YXTT6
+q: A ==graveyard orbit / junk orbit / disposal orbit== is an orbit that lies away from common operational orbits. Some satellites are moved into such orbits at the end of their operational life to reduce the probability of colliding with operational spacecraft and generating space debris. 
+e: One significant graveyard orbit is a supersynchronous orbit well beyond geosynchronous orbit.
+
+// @id 01KVFKHJGNVY5D00FXT9MD3ETS
+q: ==A supersynchronous orbit== is either an orbit with a period greater than that of a synchronous orbit, or just an orbit whose major axis is larger than that of a synchronous orbit.
+
+// @id 01KVFKHJGNRMAZGN82PDGBNDHX
+q: ==The spacecraft cemetery / spacecraft graveyard / spacecraft junkyard==, known more formally as the South Pacific Ocean(ic) Uninhabited Area — is a region near, but beyond the southern edge of Polynesia, more specifically the South Pacific Ocean east of New Zealand — where spacecraft that have reached the end of their usefulness are routinely crashed.
+e: The area is roughly centered on "Point Nemo", the oceanic pole of inaccessibility, the location farthest from any land.
+
+// @id 01KVFKHJGN962S091AFHVZYBHC
+q: What is the **25-year deorbit rule**?
+a: A spacecraft operating in low Earth orbit should be deorbited or placed in a disposal orbit within 25 years of end-of-mission
+e: In 2022, the US Federal Communications Commission revised its orbital debris regulations, reducing the post-mission disposal requirement for US-licensed LEO satellites from 25 years to 5 years.
+
+// @id 01KVFKHJGNZ0DAKE5FWS51Y9PH
+q: Spacecraft ==Design-for-Demise (DfD)== entails the intentional design of spacecraft hardware such that the spacecraft will completely ablate upon uncontrolled reentry into the Earth atmosphere. 
+
+// @id 01KVFKHJGNMFZW6W0Y3DRMQZZJ model=basic
+q: How does **conservation of momentum** works for a rocket?
+a: A rocket in deep space has no surface to push against. Yet it accelerates by ejecting mass (exhaust gases) at high velocity in one direction. The momentum of the ejected gas is exactly balanced by the momentum gained by the rocket — total system momentum is conserved. This is Newton's third law and momentum conservation working in tandem.
+
+// @id 01KVFKHJGN56YJA9CHQNH93AGR model=basic
+q: What is **thrust**?
+a: The reaction force that propels a rocket forward, produced by ejecting mass (exhaust) at high velocity out the nozzle — equal and opposite to the momentum carried away by the exhaust (Newton's third law).
+
+// @id 01KVFKHJGNT7R9DZJ8FH8ABZEM
+q: The ==tyranny of the rocket equation==: the more fuel you have, the more fuel you need.
+
+// @id 01KVFKHJGNJA2WJ74TE4X555DT
+q: In multistage rockets, a ==tandem or serial stage== is mounted on top of another stage; a ==parallel stage== is attached alongside another stage. 
+
+// @id 01KVFKHJGNTMRV3HNGT6WGZT0F model=basic
+q: What advantages **multistage rockets** have over singlestage?
+a: By jettisoning stages when they run out of propellant, the mass of the remaining rocket is decreased. Each successive stage can also be optimized for its specific operating conditions, such as decreased atmospheric pressure at higher altitudes. This staging allows the thrust of the remaining stages to more easily accelerate the rocket to its final velocity and height. 
+
+// @id 01KVFKHJGNRRY42TJMFD415B2H
+q: The most commonly used propulsion technologies can be categorized into ==chemical based== and ==electric (ion) based==.
+
+// @id 01KVFKHJGNK9FP5E5WBF89TTN5 model=basic
+q: What's the difference between **specific impulse** and **thrust**?
+a: Thrust is a measure of how hard engines can push, whereas specific impulse determines how much thrust you can get from a given amount of fuel and thus how efficient the fuel is.

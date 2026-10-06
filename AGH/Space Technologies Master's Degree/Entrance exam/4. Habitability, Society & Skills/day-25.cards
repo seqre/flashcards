@@ -1,0 +1,38 @@
+// @id 01KXGY9DKZ2RBT036M8W2XEMN2 model=basic-example
+q: What are some of NASA spin-offs?
+a: Memory foam, water purification/filtration, freeze-dried food, and scratch-resistant lens coatings.
+
+// @id 01KXGY9DKZR5PY6CWW9SNGKQWP
+q: NASA’s ==Technology Transfer== program ensures that technologies developed for missions in exploration and discovery are broadly available to the public, maximizing the benefit to the nation. 
+
+// @id 01KXGY9DKZFKZHF4FQ76YH212H
+q: ==Lunar regolith== is the unconsolidated material found on the surface of the Moon.
+e: Lunar regolith is primarily the result of mechanical weathering. Continual meteoric impacts and bombardment by solar and interstellar charged atomic particles of the lunar surface over billions of years have ground the basaltic and anorthositic rock, the regolith of the Moon, into progressively finer material.
+
+// @id 01KXGY9DKZ47R2S1FGCRFK17PP
+q: ==Lunar soil== typically refers to only the finer fraction of lunar regolith, which is composed of grains 1 cm in diameter or less, but is often used interchangeably. It differs substantially in properties from terrestrial soil. ==Lunar dust== is even finer regolith than lunar soil, with grain sizes less than thirty micrometers.
+
+// @id 01KXGY9DKZMS8NG6ZDA4CX4RZJ model=basic-example
+q: How can regolith be used in-situ?
+a: Building blocks, oxygen&water extraction, growing soil, heat/energy storage, radiation protection, etc.
+
+// @id 01KXGY9DKZ26EYG9VZ45YXFABF model=basic-example
+q: What are the major challenges for building a base on lunar south pole?
+a: Sun being low on horizon hindering heating and power systems, rugged terrain, extreme temperatures, and lunar dust being highly abrasive.
+
+// @id 01KXGY9DKZ0724F31CE8VT7FV1
+q: In chemistry and manufacturing, ==electrolysis== is a technique that uses direct electric current (DC) to drive an otherwise non-spontaneous chemical reaction.
+
+// @id 01KXGY9DKZWHWQ0VHXK7EJZM5R
+q: The ==Mars Oxygen In-Situ Resource Utilization Experiment (MOXIE)== was a technology demonstration on the NASA Mars 2020 rover Perseverance investigating the production of oxygen on Mars. On April 20, 2021, it produced oxygen from carbon dioxide in the Martian atmosphere by using solid oxide electrolysis.
+
+// @id 01KXGY9DKZHKRS65GYJSQTTRTQ
+q: The ==Commercial LEO Destinations program (CLD) / Commercial Destinations in Low Earth Orbit / Commercial low Earth orbit (LEO) Development Program ==is a public/private partnership program of NASA to help facilitate the building of private commercial space stations in low Earth orbit.
+
+// @id 01KXGY9DKZBCS7GTGPB3BAEA4A model=basic-example
+q: Why does designing for space tend to produce broadly useful spin-offs?
+a: Space forbids the lazy "just use more of it" fix — no resupply, tight mass/power limits, extreme reliability needs. Solving the general problem yields tech (efficient, durable, miniaturized) that transfers well to everyday life.
+
+// @id 01KXGY9DKZT9F600G0X6B3NN2R model=basic-example
+q: Why does reusability lower launch cost?
+a: Most of a rocket's cost is the hardware, not the fuel. Expending it means each launch buys a new vehicle; recovering and reflying the booster **amortizes** that build cost across many flights — like an airline not scrapping the plane after one trip.

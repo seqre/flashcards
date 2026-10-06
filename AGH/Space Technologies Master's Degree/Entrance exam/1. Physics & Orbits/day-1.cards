@@ -1,0 +1,61 @@
+// @id 01KV6J50MJM2Q8JK2G98N3R8ND model=basic
+q: What was **Newton's cannonball** experiment about?
+a: It was a thought experiment about the gravity as a universal force being the key force for planetary motion. Newton imagined a cannon placed on top of an extremely high mountain, well above the Earth's atmosphere to eliminate air resistance.
+If the cannon fires a ball horizontally at various speeds, it will fall toward the ground due to gravity. However, because the Earth is curved, if the ball is fired at a sufficient velocity, the rate at which it falls toward the Earth matches the rate at which the Earth's surface curves away from it.
+
+// @id 01KV6J50MJADTB6F41K1H3XBSZ model=basic
+q: What is **centripetal force**?
+a: It is the force that makes a body follow a curved path. The direction of the this force is always orthogonal to the motion of the body and towards the fixed point of the instantaneous center of curvature of the path.
+
+// @id 01KV6J50MJKQ0A67ER80P92P88 model=basic
+q: What is **centrifugal force**?
+a: It is a kind of fictitious force (or inertial force) that appears to act on all objects when viewed in a rotating frame of reference. It appears to be directed perpendicularly from the axis of rotation of the frame.
+
+// @id 01KV6J50MJD32TR652G66ZZMVG model=basic
+q: What is **reactive centrifugal force**?
+a: In classical mechanics, the reactive centrifugal force is one half of an action–reaction pair, paired with a centripetal force. It shouldn't be confused with the inertial centrifugal force, which only appears when you're working in a rotating reference frame. The reactive force, by contrast, is a genuine Newtonian force that shows up in any reference frame you choose.
+
+// @id 01KV6J50MJQS82HVBXAY6HWSYV model=basic
+q: What is **barycenter**?
+a: The combined center of mass around which two or more bodies orbit.
+
+// @id 01KV6J50MJDNSYE0NVB9DPED8M model=basic
+q: What is **orbital speed**?
+a: In gravitationally bound systems, the orbital speed of an astronomical body or object is the speed at which it orbits around either the barycenter or, if one body is much more massive than the other bodies of the system combined, its speed relative to the center of mass of the most massive body. 
+
+// @id 01KV6J50MJBDAYBXHAMAM9QMME model=basic
+q: What is **apsis** (pl. **apsides**)?
+a: The farthest or nearest point in the orbit of a planetary body about its primary body.
+
+// @id 01KV6J50MJ366YDW6YPSNJY75T
+q: The nearest point of geocentric orbit is called ==perigee== and the farthest ==apogee==.
+e: Both are apsides.
+
+// @id 01KV6J50MJVCN473JBGFCT49J7
+q: The nearest point of heliocentric orbit is called ==perihelion== and the farthest ==aphelion==.
+e: Both are apsides.
+
+// @id 01KV6J50MJJYYVRPJYQS578XFR
+q: The nearest point of generic orbit is called ==pericenter== and the farthest ==apocenter==.
+e: Both are apsides.
+
+// @id 01KV6J50MJR3PVZT5AZCTPH7YX
+q: The smallest distance between the orbiter and its host body is called ==periapsis== and the largest ==apoapsis==.
+e: The line of apsides denotes the distance of the line that joins the nearest and farthest points across an orbit.
+
+// @id 01KV6J50MJ48FFSZMNY7BY5CWY model=basic
+q: What is the relation of tangential velocity vs. altitude?
+a: The closer an object is to the astronomical body the faster it needs to move to maintain the orbit.
+
+// @id 01KV6J50MJXRBXPHHFWP4RD924 model=basic
+q: What is **weightlessness**?
+a: It is the complete or near-complete absence of the sensation of weight.
+
+// @id 01KV6J50MJWQWG51BE6ZBX29P8 model=basic
+q: What is **microgravity**?
+a: The condition of very small apparent gravity experienced by objects in free fall, where everything falls at the same rate and so appears to float.
+
+// @id 01KVE4JMVMSXDVGWC6GB5Z6M4W
+q: What is **escape velocity**?
+a: The minimum speed an object needs to break free from a body's gravitational pull and never fall back, with no further propulsion. It's independent of the escaping object's mass and depends only on the host body's mass and the distance from its center.
+e: For any given orbit it equals √2 times the circular orbital velocity at that altitude — so breaking free always costs more speed than circling. From Earth's surface it's about 11.2 km/s.

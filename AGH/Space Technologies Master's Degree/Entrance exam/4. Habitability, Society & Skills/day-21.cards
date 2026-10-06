@@ -1,0 +1,113 @@
+// @id 01KWZ5MV652EQ2W2FY0RQQ8W1V
+q: The ==habitable zone (HZ) / circumstellar habitable zone (CHZ) / Goldilocks zone==, is the range of orbits around a star within which a planetary surface could potentially support liquid water. Liquid water is considered by many scientists as necessary for a planet to be habitable.
+e: The range depends upon the brightness of the star interacting with a planet's atmosphere. At the inner edge the star's light, trapped by greenhouse gases in a planet's atmosphere, boils off the planet's water. At the outer edge light from the star is insufficient even with help from atmospheric gas and the planet's water freezes.
+[image:media/goldilocks-zone.png]
+
+// @id 01KWZ5MV65NWDPK9V87SCXA5K7
+q: An ==extremophile== is an organism that is able to live or even thrive in extreme environments, such as extreme temperature (hot or cold), pressure, radiation, salinity, or pH level.
+e: Extremophiles are mainly species of microorganisms – bacteria and chiefly archaea, but also include some eukaryotes such as some fungi, and tardigrades.
+
+// @id 01KWZ5MV65MAG1MG6TGKV3GVYB
+q: The ==Conservative HZ== represent most strictly defined region where liquid water is highly probable based on minimal atmospheric assumptions. In contrast, the ==Optimistic HZ== extends these boundaries considering theoretical scenarios where a planet possesses a significantly thicker atmosphere, perhaps rich in greenhouse gases, allowing it to retain liquid water even when it is receiving less stellar energy (at the outer limit) or more energy than a planet with Earth's current atmosphere (at the inner limit).
+
+// @id 01KWZ5MV65VFKWSMHZKCNC3EBW
+q: A ==desert planet / dry planet / arid planet / dune planet==, is a type of terrestrial planet that is arid at the surface level.
+
+// @id 01KWZ5MV65THR511A9PXDJPYGD
+q: The ==greenhouse effect== occurs when heat-trapping gases in a planet's atmosphere prevent the planet from losing heat to space, raising its surface temperature.
+
+// @id 01KWZ5MV65CK9GHAHXVEPCST65
+q: The two schemes behind modern stellar classification are:
+- the ==Harvard system (spectral type by surface temperature)==
+- the ==Morgan–Keenan (MK) system (adds a luminosity class on top of the Harvard spectral type)==
+e: A full MK type combines both — e.g. the Sun is **G2V**: spectral type G2, luminosity class V (main sequence).
+
+// @id 01KWZ5MV65TQ4QYVF7NPKXRQTR
+q: ==Stellar classification== is the classification of stars based on their spectral characteristics.
+e: The generally accepted system of stellar classification is a combination of two classification schemes: the **Harvard system**, which is based on the star’s surface temperature, and the **MK system**, which is based on the star’s luminosity.
+[image:media/stellar-clasification.svg]
+
+// @id 01KWZ5MV655MVMTTXSEW9S9QFK
+q: The spectral sequence, ordered from hottest to coolest stars, is ==O, B, A, F, G, K, M==. Each spectral type is further subdivided by numbers 0 through 9, with higher numbers indicating cooler stars.
+e: The mnemonic for remembering the sequence is **"Oh Be A Fine Girl, Kiss Me"**.
+
+// @id 01KWZ5MV65A29BX5E429SQV65D model=basic-example
+q: What are **luminosity classes** of the spectral type in the MK system?
+a: I for supergiants, II for bright giants, III for normal giants, IV for subgiants, and V for main-sequence or dwarf stars.
+
+// @id 01KWZ5MV6555Q75JRGCNSMJ9AE model=basic-example
+q: What are the **factors affecting planetary habitability**?
+a: Stellar type, stable orbit, rotation rate, planetary mass/gravity, atmosphere, geology and magnetic field.
+
+// @id 01KWZ5MV65EBVKA5VAAJ7MCY8P
+q: ==Atmospheric escape== is the loss of planetary atmospheric gases to outer space.
+e: A number of different mechanisms can be responsible for atmospheric escape; these processes can be divided into thermal escape, non-thermal (or suprathermal) escape, and impact erosion.
+
+// @id 01KWZ5MV65ZNPGXVTWG2YTFKE3
+q: ==Hydrothermal vents== are fissures on the seabed from which geothermally heated water discharges. They are commonly found near volcanically active places, areas where tectonic plates are moving apart at mid-ocean ridges, ocean basins, and hotspots.
+e: The chemical and thermal dynamics in hydrothermal vents makes such environments highly suitable thermodynamically for chemical evolution processes to take place. Therefore, thermal energy flux is a permanent agent and is hypothesized to have contributed to the evolution of the planet, including prebiotic chemistry.
+
+// @id 01KWZ5MV65QE5YZARZ9EHFBVP9 model=basic-example
+q: Why **extremophiles** are important for astrobiology?
+a: They prove life can survive conditions once assumed lethal (extreme heat, cold, acidity, salinity, radiation, pressure). This widens the range of environments worth searching — including harsh worlds and subsurface oceans — and gives clues about how and where life could originate.
+
+// @id 01KWZ5MV65CJ0PTQP8AGSJZZ8M
+q: ==Tidal heating / tidal dissipation / tidal damping== occurs through the tidal friction processes: orbital and rotational energy is dissipated as heat in either (or both) the surface ocean or interior of a planet or satellite.
+e: [image:media/enceladus-tidal-heating.jpg]
+
+// @id 01KWZ5MV659HPZGJKQKJ30TNXW
+q: An ==exoplanet / extrasolar planet== is a planet outside the Solar System.
+e: Most of them orbit other stars, but some free-floating exoplanets, called rogue planets, are untethered to any star.
+
+// @id 01KWZ5MV65GWK05M3551F00K8Y model=basic-example
+q: What are some of the **exoplanet detection methods**?
+a: Transit, radial velocity, gravitational microlensing, astrometry, direct imaging, and more.
+
+// @id 01KWZ5MV65RPX3C09N05RTG4CJ
+q: The ==radial velocity (RV) / "Doppler wobble" method== is an indirect method for detecting exoplanets which depends on measuring the small reflex motion of a star caused by an exoplanet companion as the two orbit their common center of gravity.
+e: Since the star is so much more massive than the planet, this reflex motion is very small, typically on the order of a few to hundreds of meters per second.
+[image:media/radial-method.jpg]
+
+// @id 01KWZ5MV65NK7DK58NB4E4GAEA
+q: ==Transit photometry== tracks the small, regular dips in a star’s brightness when a planet moves in front of it. By looking at how the starlight changes during the transit, astronomers can figure out a planet’s size, orbit, and sometimes even its atmosphere.
+e: [image:media/transit-photometry.jpg]
+
+// @id 01KWZ5MV6503VEKWQ51BJ8YA4M
+q: ==Gravitational microlensing== occurs when the gravitational field of a star acts like a lens, magnifying the light of a distant background star. This effect occurs only when the two stars are almost exactly aligned.
+e: Lensing events are brief, lasting for weeks or days, as the two stars and Earth are all moving relative to each other.
+[image:media/microlensing.jpg]
+
+// @id 01KWZ5MV65WNPHNYY6WR0KXEMH
+q: ==Astrometry== consists of precisely measuring a star's position in the sky and observing the changes in that position over time. The motion of a star due to the gravitational influence of a planet may be observable.
+e: [image:media/astrometry.jpg]
+
+// @id 01KWZ5MV652NNQ46V1WXJW1MW2
+q: ==Pulsar timing== is a method for detecting exoplanets by measuring variations in the precisely timed radio pulses from a pulsar.
+e: Pulsars are rapidly spinning neutron stars that emit radio pulses with extraordinary precision,essentially cosmic clocks. If a planet orbits a pulsar, the gravitational pull causes tiny variations in the arrival times of these pulses. By analyzing these timing residuals, astronomers can determine the planet's mass and orbit.
+[image:media/pulsar-timing.png]
+
+// @id 01KWZ5MV65TF0QMPJHKWN7KAFN
+q: A ==biosignature== is any substance, element, molecule, feature, characteristic, or phenomenon that serves as scientific evidence of past or present life.
+e: The search for life on habitable exoplanets involves spectroscopic observations of their atmospheres to detect gaseous molecules that may be produced by life on the planet. A biosignature in this context refers to a single gas or combination of gases of biological origin.
+
+// @id 01KWZ5MV654168GX4DR212Z87R
+q: Why biosignatures are not definite proof?
+a: Every possible biosignature is associated with its own set of unique false positive mechanisms, in which abiotic processes can mimic the detectable feature of biological activity.
+e: Finding and distinguishing a biosignature from its abiotic mechanisms is one of the major challenges of confirming the viability of a biosignature.
+
+// @id 01KWZ5MV658SCPFNQ4N8ZS7KZJ
+q: Trace how the **absence of a magnetic field** can cost a planet its liquid water.
+a: No field
+→ stellar wind isn't deflected
+→ it strips the upper atmosphere over time
+→ pressure and greenhouse warming drop
+→ water can no longer stay liquid (boils off or freezes) and is lost.
+e: Mars is the classic case.
+
+// @id 01KWZ5MV65B20EV3BJFEB2Q6H9 model=basic
+q: Why is the simultaneous presence of oxygen and methane in an exoplanet's atmosphere a strong biosignature?
+a: The two react and destroy each other, so their coexistence implies something continually replenishes them — on Earth, that's life. A chemical disequilibrium hard to explain abiotically.
+
+// @id 01KWZ5MV6523CSQ8F9NFP9CMTF model=basic-example
+q: Why do astronomers want both **transit** and **radial velocity** data for one exoplanet?
+a: Transit gives the planet's **radius**; radial velocity gives its **mass**. Together they yield density — rocky vs. gaseous vs. icy. Neither alone distinguishes a puffy gas planet from a dense rocky one.

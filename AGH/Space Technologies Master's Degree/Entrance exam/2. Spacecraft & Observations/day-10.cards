@@ -1,0 +1,162 @@
+// @id 01KW06Q47PHTQRCW0W59N5A5WM
+q: A ==flyby== is a spaceflight operation in which a spacecraft passes near another body, which is usually a target of the space exploration mission and may also be a source of a gravity assist to impel it towards another target in a swing-by.
+e: They must have the capability of using their instruments to observe targets they pass. Ideally, their optical instruments can pan to compensate for the target's apparent motion in the instruments' field of view. They must downlink data to Earth, storing data onboard during the periods when their antennas are off Earthpoint. They must be able to survive long periods of interplanetary cruise. Flyby spacecraft may be designed to be stabilized in 3 axes using thrusters or reaction wheels, or to spin continuously for stabilization.
+
+// @id 01KW06Q47PA76K9GMQBZBAPARF
+q: An ==orbiter== is a spaceflight operation in which a spacecraft enters orbit around another body to study it over time.
+e: It must carry a substantial propulsive capability to decelerate it at the right moment, to achieve orbit insertion. It has to be designed to live with the fact that solar occultations will occur, wherein the planet shadows the spacecraft, cutting off any solar panels' production of electrical power and subjecting the vehicle to extreme thermal variation.
+
+// @id 01KW06Q47PYTERJTD3DPH6TA0K
+q: A ==lander== is a spaceflight operation in which a spacecraft touches down on a planetary surface to perform in-situ science and relay the information back.
+e: Lander adds the entry, descent, and landing problem — surviving atmospheric heating (if there's an atmosphere) and touching down softly without crashing, all autonomously because of comms delay.
+
+// @id 01KW06Q47PMDGBQEMVBV5DT0H9
+q: A ==rover== is a spaceflight operation in which a spacecraft lands on a planetary surface and then traverses and explores it semi-autonomously under remote control.
+e: Rover craft need to be semi-autonomous. While they are steerable from Earth, the delay inherent to radio communications between Earth and Mars means they must be able to make at least some decisions on their own as they move.
+
+// @id 01KW06Q47P16FN3226VP85ANCM
+q: A ==sample return== is a spaceflight operation in which a spacecraft touches down on a planetary surface, collects, and returns extraterrestrial material to Earth.
+
+// @id 01KW06Q47P3ZH62A7YBNQ4BQTM
+q: The ==Entry, Descent, and Landing (EDL)== phase of a scientific mission to a planetary body involving atmospheric flight is critical because the spacecraft must survive the extreme environment it encounters as it traverses the atmosphere. The spacecraft enters and transits a planetary atmosphere, decelerates, and touches down onto the planetary surface.
+e: The EDL sequence is often regarded to be among the riskiest parts of the mission because there is little to no opportunity to take corrective action if a problem or anomaly is encountered.
+
+// @id 01KW06Q47PTCHKC176VEAT50CX model=basic-example
+q: What happens during **entry** phase of EDL and why it's difficult?
+a: Entry begins at atmospheric entry interface, when vehicle aerodynamic forces and aerothermal heating induced by the atmosphere become non-negligible. During this phase, a spacecraft must manage aerodynamic forces and thermal loads to successfully decelerate the vehicle from hypersonic velocities.
+
+// @id 01KW06Q47PEWEWGZTRSAJ421AE model=basic-example
+q: What happens during **descent** phase of EDL and why it's difficult?
+a: Descent begins with deployment of a dedicated deceleration system. The transition from entry to descent depends on the specific mission and vehicle, but typically occurs during supersonic flight.
+
+// @id 01KW06Q47PTEHZX47SY0BR5H88 model=basic-example
+q: What happens during **landing** phase of EDL and why it's difficult?
+a: Landing takes place after the vehicle slows to touchdown velocity, chosen for soft and safe landing near the identified destination. Vehicle designs must handle the touchdown loads, velocity, and final orientation to ensure surface operations can proceed after landing.
+
+// @id 01KW06Q47PCTV4DFMH45706KV1
+q: The ==Sojourner== rover was a vehicle that reached Mars on July 4, 1997 as part of the Mars Pathfinder mission. It was the first wheeled vehicle to operate on an astronomical object other than the Earth or Moon.
+e: Sojourner was operational on Mars for 92 sols (95 Earth days).
+[image:media/sojourner.jpg]
+
+// @id 01KW06Q47PYBT0WV378TW4MZVP
+q: NASA's ==Mars Exploration Rover (MER)== mission was a robotic space mission involving two Mars rovers, ==Spirit== and ==Opportunity==, exploring the planet Mars. It began in 2003 with the launch of the two rovers to explore the Martian surface and geology; both landed on Mars at separate locations in January 2004.
+e: Both rovers far outlived their planned missions of 90 Martian solar days: MER-A Spirit was active until March 22, 2010, while MER-B Opportunity was active until June 10, 2018.
+[image:media/MER-twins.png]
+
+// @id 01KW06Q47P7T7GA43BA17ERGKV model=basic-example
+q: What was the objective of the NASA's Mars Exploration Rover (MER) mission?
+a: The mission's scientific objective was to **search for and characterize a wide range of rocks and soils** that hold clues to past water activity on Mars.
+[image:media/MER-twins.png]
+
+// @id 01KW06Q47PJSVB9AQY2WSJ3VN1
+q: ==Curiosity== is a Mars rover that is exploring ==Gale crater and Mount Sharp== on Mars as part of ==NASA's Mars Science Laboratory (MSL)== mission. Launched in 2011 and landed the following year, the car-sized rover continues to operate more than a decade after its original two-year mission.
+e: [image:media/curiosity.jpg]
+
+// @id 01KW06Q47P07NES1F16PCT1BA5 model=basic-example
+q: What was the objective of the NASA's Mars Science Laboratory (MSL) mission?
+a: The overall objectives include **investigating Mars's habitability, studying its climate and geology, and collecting data** for a human mission to Mars.
+e: [image:media/curiosity.jpg]
+
+// @id 01KW06Q47PR491PV6TV9CA8TBS
+q: ==Perseverance== is a NASA rover that has been exploring Mars since February 18, 2021, as part of the Mars 2020 mission. Built and managed by the Jet Propulsion Laboratory, it was launched on July 30, 2020, from Cape Canaveral aboard an Atlas V rocket and landed in ==Jezero Crater==, a site chosen for its ancient river delta that may preserve evidence of past microbial life. 
+e: [image:media/perseverance.jpg]
+
+// @id 01KW06Q47P7SVJ2RKD30NCV4AR
+q: ==Ingenuity==, nicknamed Ginny, is an autonomous helicopter that operated on Mars from 2021 to 2024 as part of NASA's Mars 2020 mission.
+e: It made its first flight on 19 April 2021, demonstrating that flight is possible in the extremely thin atmosphere of Mars, and became the first aircraft to conduct a powered and controlled extraterrestrial flight.
+Originally intended to make only five flights, Ingenuity completed 72 flights over the course of nearly three years. On 18 January 2024, the rotor blades were broken during landing on flight 72, permanently grounding the helicopter. 
+[image:media/ingenuity.png]
+
+// @id 01KW06Q47PJ7P0HHFB59HJVPSQ model=basic-example
+q: What was the objective of the NASA's Mars 2020 mission?
+a: Perseverance is investigating an astrobiologically relevant ancient environment on Mars for its surface geological processes and history, and assessing its past habitability, the possibility of past life on Mars, and the potential for preservation of biosignatures within accessible geological materials.
+
+// @id 01KW06Q47PGS1MEH0J0WWSCC1C
+q: NASA's mantra for exploring Mars is =="follow the water"==.
+
+// @id 01KW06Q47PMCJK9ECHEDMXX84J
+q: ==Mars Sample Return (MSR)== would be NASA's and ESA’s (European Space Agency) ambitious, multi-mission campaign to bring carefully selected Mars samples to Earth.
+
+// @id 01KW06Q47PAB1A1DW76C253HAQ
+q: The ==Apollo program / Project Apollo==, was the United States human spaceflight program led by NASA, which landed the first humans on the Moon in 1969.
+
+// @id 01KW06Q47PXH2BFXJ20T34XPKP
+q: The ==Chandrayaan programme / Indian Lunar Exploration Programme== is an ongoing series of outer space missions by Indian Space Research Organisation (ISRO) for the exploration of the Moon. The program incorporates a lunar orbiter, an impactor, a lunar lander and a rover spacecraft.
+
+// @id 01KW06Q47PRWVP65G9SV9VKV0P
+q: ==Chandrayaan-3== mission consists of Vikram, a lunar lander, and Pragyan, and a lunar rover. It was the first in human history to achieve a soft landing near the lunar ==south pole==. Apart from demonstrating end-to-end capability in safe landing and roving on the lunar surface its scientific goal was to map resources (specifically water).
+
+// @id 01KW06Q47PE14JYN3F19E541G8
+q: The ==Artemis== program is a Moon exploration program led by NASA, aimed at returning humans to the Moon for the first time since the Apollo program and building a sustained/long-term presence.
+
+// @id 01KW06Q47PNY3YDY3C88XFDPBW
+q: The ==Lunar Gateway== was a planned space station that would have been assembled in orbit around the Moon as part of the Artemis program. It was supposed to be a multi-purpose outpost supporting lunar surface missions, science in lunar orbit, and human exploration further into the cosmos.
+e: The ESA stated that, despite cancellation, it expected to continue development of most planned hardware for Gateway.
+
+// @id 01KW06Q47PPJQY6J9B3D2SRFN0 model=basic-example
+q: Why is the lunar south pole the hot real estate?
+a: Permanently shadowed craters there have floors that never see sunlight, so they stay cold enough to trap water ice for billions of years. Water ice is gold for exploration — drinkable water, breathable oxygen, and hydrogen/oxygen rocket propellant, all potentially made on-site instead of hauled from Earth (in-situ resource utilization). The poles also have ridges with near-constant sunlight nearby, good for solar power. So you get ice and power in the same neighborhood.
+
+// @id 01KW06Q47P1QJB90Z795J8ZXSQ
+q: ==OSIRIS-REx== is the first U.S. mission to collect a sample from an asteroid. It returned to Earth on Sept. 24, 2023, to drop off a capsule with material from asteroid Bennu.
+e: [image:media/osiris-rex.png]
+
+// @id 01KW06Q47P7Z099N4AST7KPV5E
+q: OSIRIS-REx, after dropping off the sample capsule through Earth's atmosphere, was renamed ==OSIRIS-APEX== and sent on a new mission to explore asteroid Apophis in 2029. 
+
+// @id 01KW06Q47PD31JH8AEQFVTNPAV
+q: ==Hayabusa2== is a Japanese spacecraft that studied asteroid Ryugu, collected samples, and brought them to Earth for analysis. The spacecraft is on an extended mission to asteroid 1998 KY26.
+e: [image:media/hayabusa2.jpg]
+
+// @id 01KW06Q47PX83KTCQ60SA2Q2FJ
+q: ==Cassini–Huygens==, commonly called Cassini, was a joint space-research mission by NASA, the European Space Agency (ESA), and the Italian Space Agency (ASI) to send a space probe to study the planet Saturn and its system, including its rings and natural satellites.
+e: [image:media/cassini-huygens.jpg]
+
+// @id 01KW06Q47PYRJFN42T9XK7E8CW model=basic-example
+q: What were Cassini-Huygens mission objectives?
+a: To study:
+- Saturn—Study cloud properties and atmospheric composition, winds and temperatures, internal structure and rotation, ionosphere, origin, and evolution
+- Rings—Observe their structure and composition, dynamical processes, interrelation of rings and satellites, dust and micrometeoroid environment
+- Titan—Study abundances of atmospheric constituents, distribution of trace gases and aerosols, winds and temperatures, composition and state of the surface, and upper atmosphere
+- Icy Satellites—Determine their characteristics and geological histories; study mechanisms of surface modification, surface composition and distribution, overall composition and internal structure, and their interactions with Saturn’s magnetosphere
+- Saturn’s Magnetosphere—Study its structure and electric currents; composition, sources, and sinks of particles within it; dynamics; interaction with the solar wind, satellites, and rings; Titan’s interaction with solar wind and magnetosphere
+
+// @id 01KW06Q47PJRB0NKJVKC2EZ5DY model=basic-example
+q: What did Cassini reveal about Enceladus relevant to the search for life?
+a: Cassini discovered that Enceladus shoots plumes of water vapor and ice geysers from cracks ("tiger stripes") near its south pole, fed by a subsurface liquid water ocean. The plumes contained water, salts, and organic molecules — and signs of hydrothermal activity on the ocean floor. That makes Enceladus one of the most promising spots in the solar system to look for life, because it has the key ingredients: liquid water, organics, and an energy source.
+
+// @id 01KW06Q47P5DWR607WHJFD5W91
+q: ==Juno== is a NASA space probe orbiting the planet Jupiter as part of the New Frontiers program.
+e: [image:media/juno.jpg]
+
+// @id 01KW06Q47P8VMX4DG65Q9D3YY1 model=basic-example
+q: What are Juno mission objectives?
+a: Its mission is to measure Jupiter's composition, gravitational field, magnetic field, and polar magnetosphere. It also searches for clues about how the planet formed, including whether it has a rocky core, the amount of water present within the deep atmosphere, mass distribution, and its deep winds, which can reach speeds up to 620 km/h (390 mph).
+
+// @id 01KW06Q47PP7NZCAAYD6B2KJ4Q model=basic-example
+q: Rank the five planetary mission archetypes by difficulty, from easiest to hardest.
+a: **Flyby → orbiter → lander → rover → sample return**. Each step keeps everything below it and adds a new failure-prone phase: a flyby only coasts past; an orbiter must brake into orbit; a lander adds entry, descent, and landing; a rover adds mobility over unknown terrain; and sample return adds launching back off the body and Earth re-entry.
+
+// @id 01KW06Q47PENM6W61QHBHP2FBS model=basic-example
+q: Why is **sample return** considered the hardest mission archetype?
+a: It stacks two brutal phases on top of a full landing mission: (1) ascent — launching a rocket off the surface of another world, which means hauling a second launch vehicle through the original descent — and (2) Earth re-entry and recovery of the capsule intact. There is often also (3) an orbital rendezvous to hand the sample to a return craft.
+
+// @id 01KW06Q47P6TBAHVQZ4YW9BCP6 model=basic-example
+q: Why is flying a helicopter like **Ingenuity** on Mars so difficult?
+a: Mars's atmosphere is roughly 1% as dense as Earth's at the surface, so there is very little air for rotor blades to push against. To generate lift, Ingenuity needed extremely lightweight construction and rotors spinning a few thousand RPM — far faster than a typical helicopter. The lower gravity (~0.38 g) helps only slightly.
+
+// @id 01KW06Q47PG4VK49APVBCRBKKQ model=basic-example
+q: How does the **Artemis** program's goal differ from **Apollo**'s?
+a: Apollo was "flags and footprints" — reach the Moon, prove it could be done, and return, with short stays and no plan to remain. Artemis aims for a **sustained presence**: infrastructure like the Gateway, use of south-pole water ice for resources, and using the Moon as a testbed for eventually reaching Mars.
+
+// @id 01KW06Q47P0FS3VVK975XW6H39 model=basic-example
+q: Why is the Moon valuable as a stepping stone to Mars?
+a: It is about three days away rather than six-plus months, so hardware, life support, surface operations, and in-situ resource utilization can be tested where help or a return is days away instead of years. The cost of failure is survivable, making it a low-risk proving ground for Mars-bound technology.
+
+// @id 01KW06Q47PE1HV67VBKF02GYX2 model=basic-example
+q: Why are asteroids scientifically valuable enough to justify **sample return** missions?
+a: Asteroids are leftover building blocks from the solar system's formation ~4.6 billion years ago that never formed into a planet. Because they were never reshaped by geology, weather, or melting, they preserve **pristine primordial material** — a chemical time capsule of the early solar system, including organic molecules that may relate to the origins of life.
+
+// @id 01KW06Q47PARMES4S8T74HWXD0 model=basic-example
+q: **Juno** orbits Jupiter on solar power. Why is this notable?
+a: Outer-planet missions normally use RTGs because sunlight at Jupiter (~5× Earth's distance) is only ~1/25th as intense. Juno is the exception, managing on solar power thanks to enormous arrays and a power-frugal design — but missions farther out, or needing more power, genuinely can't rely on solar, which is why RTGs exist.

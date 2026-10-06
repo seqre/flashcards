@@ -1,0 +1,166 @@
+// @id 01KVXR010A4AEA1D26MKC95ZT5
+q: Remote sensing systems which measure energy that is naturally available are called ==passive sensors==. They can only be used to detect energy when the naturally occurring energy is available.
+
+// @id 01KVXR010ADNFNXRSCPS5NBRA3
+q: ==Active sensors== provide their own energy source for illumination. The sensor emits radiation which is directed toward the target to be investigated. The radiation reflected from that target is detected and measured by the sensor.
+
+// @id 01KVXR010AD9V5E8V1QZY9JRFJ
+q: ==Electromagnetic radiation== consists of an electrical field that varies in magnitude perpendicular to the direction of travel, along with a magnetic field oriented at right angles to the electrical field. 
+
+// @id 01KVXR010AKH9BH1E6K6MAZ2W5
+q: Two characteristics of electro-magnetic radiation (EMR) are essential for remote sensing applications: ==wavelength and frequency==.
+e: These two properties share an inverse relationship-shorter wavelengths correspond to higher frequencies, and vice versa.
+
+// @id 01KVXR010AAVQSM63G7S44EMXG
+q: ==Wavelength== measures the distance between successive wave crests, typically expressed in micrometers (µm) or nanometers (nm).
+
+// @id 01KVXR010ABT6KR66NETWR7BEW
+q: ==Frequency== refers to the number of wave cycles passing a fixed point per second, measured in hertz (Hz). 
+
+// @id 01KVXR010A8H9RWBM5W7WA4WMM model=basic-example
+q: The **electromagnetic spectrum** consists of what bands?
+a: Radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma waves.
+[image:media/electromagnetic-spectrum.jpeg]
+
+// @id 01KVXR010A04JHQJ3KKN0WK0AT
+q: The longest wavelengths in the spectrum, ==radio waves== can carry tunes from a radio station or be emitted from astronomical objects like from the Sun’s corona.
+
+// @id 01KVXR010AGV0NYC4DKT87GQBA
+q: ==Microwaves== penetrate through clouds, dust, smoke, snow, and rain making them ideal for communications satellites. They are also used in active and passive science instruments to study the Earth and the night sky.
+
+// @id 01KVXR010AQ3CS88T7239NB2E8
+q: Light waves just beyond the visible spectrum of light are ==infrared light waves==.
+e: They range from near-infrared like what are used in remote controls, to far-infrared which can be sensed as heat.
+
+// @id 01KVXR010A9P1TFZ54C104MPP9
+q: All electromagnetic radiation is light, but we can only see a small portion of this radiation—the portion we call ==visible light==.
+
+// @id 01KVXR010AEM2G48NZA6SRN4T6
+q: The Sun is a source of the full spectrum of ==ultraviolet== radiation and most of this radiation is blocked by the atmosphere.
+e: Scientists study stars and galaxies in the ultraviolet as well as the composition of Earth’s atmosphere.
+
+// @id 01KVXR010AGSCVPWF156MEHE8S
+q: An ==X-ray== is a form of high-energy electromagnetic radiation with a wavelength shorter than those of ultraviolet rays and longer than those of gamma rays.
+e: The Earth’s atmosphere protects us from these harmful rays, so scientists use satellites to observe x-ray radiation coming from galaxies and stars like our Sun.
+
+// @id 01KVXR010A1T05F7M2JQX20323
+q: ==Gamma rays== have the most energy of any wave in the electromagnetic spectrum and are produced by the hottest and most energetic objects in the universe.
+
+// @id 01KVXR010AKQ4F3C41ZDYAWBGJ
+q: ==Radiometric resolution== is the amount of information in each pixel, that is, the number of bits representing the energy recorded.
+e: The higher the radiometric resolution, the more values are available to store information, providing better discrimination between even the slightest differences in energy. For example, when assessing water quality, radiometric resolution is necessary to distinguish between subtle differences in ocean color.
+[image:media/radiometric-resolution.png]
+
+// @id 01KVXR010AWT8V5QYCN3M8N4W0
+q: ==Spatial resolution== is defined by the size of each pixel within a digital image and the area on Earth's surface represented by that pixel.
+e: [image:media/spatial-resolution.jpg]
+
+// @id 01KVXR010AP9NHW6BGSG15C7MF
+q: ==Spectral resolution== is the ability of an instrument to discern finer wavelengths, that is, having more and narrower bands.
+e: Many instruments are considered to be multispectral, meaning they have 3-10 bands. Some instruments have hundreds to even thousands of bands and are considered to be hyperspectral. The narrower the range of wavelengths for a given band, the finer the spectral resolution.
+[image:media/spectral-resolution.gif]
+
+// @id 01KVXR010AN4TWWNAMMT94B34S
+q: ==Temporal resolution== is the time it takes for a space-based platform to complete an orbit and revisit the same observation area. It depends on the orbit, the instrument's characteristics, and the swath width.
+e: Because geostationary platforms match the rate at which Earth rotates, the temporal resolution is much finer. Polar orbiting platforms have a temporal resolution that can vary from 1 day to 16 days.
+
+// @id 01KVXR010AR7V9JM6Y34JQPZC1
+q: Why not build an instrument combining high spatial, spectral, and temporal resolution?
+a: It is difficult to combine all of the desirable features into one remote instrument.
+e: For example, to acquire observations with high spatial resolution (like the OLI, aboard Landsat 8) a narrower swath is required, which requires more time between observations of a given area resulting in a lower temporal resolution. Researchers have to make trade-offs.
+
+// @id 01KVXR010AN2715JK96QH5H3VP
+q: ==Reflectance== is the amount of light reflected back into space.
+e: Light colored surfaces, such as ground covered with fresh white snow, reflect a high amount of light striking them and appear bright in satellite imagery. Dark or rough surfaces, such as dense forests or dark volcanic rock, reflect far less light and appear darker in imagery. 
+
+// @id 01KVXR010ADZDH7YSY9SMH74MP
+q: ==Synthetic aperture radar (SAR)== is an imaging technique that uses radar pulses to produce high-resolution images even through clouds and in total darkness. 
+
+// @id 01KVXR010AS7NKJ1ZN51F95SNP model=basic-example
+q: Why is it called synthetic aperture radar?
+a: Aperture refers to the opening used to collect radar data. The size of this opening is important because the longer it is, the better the radar’s ability to distinguish between two closely spaced objects.
+An antenna using SAR technology sends out thousands of radar pulses a second while moving in orbit around the earth. In so doing, it extends the opening used to collect the data to whatever distance it travels during that time. This distance, which underlies SAR’s ability to produce images of such high quality, is called the synthetic aperture.
+
+// @id 01KVXR010ADF3H3D4N32BSF4QG
+q: The SAR antenna measures the ==range, brightness and phase of each wavelength==.
+e: Range is the distance from the antenna to the ground.
+Brightness is the strength of the echo.
+Phase is the state of the wave when it returns to the antenna (is it at its peak, its trough or somewhere in between?).
+
+// @id 01KVXR010AG4FT7BZM8E2H7N2B model=basic-example
+q: What is the difference between **multispectral** and **hyperspectral** imagery?
+a: The main difference is the number and the spectra of electromagnetic radiation that each band contains. The multispectral consists of 3-10 wider bands while hyperspectral of hunders of narrow bands.
+[image:media/multi-hyperspectral.webp]
+
+// @id 01KVXR010AQHFMZ8281F2EWDFG
+q: The ==Near Infrared (NIR)== band is particularly useful in agriculture for crop health monitoring and assessing the overall condition of vegetation.
+e: It is possible due to NIR’s strong correlation with the plants’ chlorophyll level. Healthy plants with high levels of chlorophyll are able to reflect the NIR light very efficiently. On the other hand when the plants are in bad condition for example because of drought, diseases or improper fertilization  their ability to reflect NIR light decreases. 
+
+// @id 01KVXR010AYF706Z87YNHCWC1V
+q: The ==atmospheric window== refers to the spectral intervals of the electromagnetic spectrum, where radiation is transmitted without significant interference from the atmosphere. 
+e: [image:media/atmospheric-window.png]
+
+// @id 01KVXR010AF98Z8FMQVDAAZEF3
+q: The ==thermal infrared== range refers to wavelengths where objects at everyday/terrestrial temperatures emit their own heat radiation, roughly 3–15 µm.
+e: Unlike reflected bands (NIR, SWIR), thermal IR is detected day or night because it does not depend on sunlight. Surfaces near room temperature radiate most strongly around 8–14 µm, which is why that band is the classic "thermal" window used for surface temperature, wildfires, and urban heat.
+
+// @id 01KVXR010AVW8SFMQ8EZVNHHZE
+q: The broader infrared range is categorized into several sub-bands:
+- ==Near-Infrared (NIR)== at 0.75–1.4 μm
+- ==Short-Wave Infrared (SWIR)== at 1.4–3 μm are reflected solar radiation
+- ==Mid-Wave Infrared (MWIR)== at 3–8 μm
+- ==Long-Wave Infrared (LWIR)== at 8–15 μm are emitted heat (thermal)
+e: Reflected bands (NIR/SWIR) need sunlight and are used for vegetation and surface composition; emitted bands (MWIR/LWIR) work day or night and are used for temperature.
+
+// @id 01KVXR010AXHFV9N7RY8X8FM81
+q: Vegetation indices are used to remotely examine vegetation over a given area. One commonly-used index is the ==Normalized Difference Vegetation Index (NDVI)==, which uses the difference between near-infrared (NIR) and red reflectance from the Earth's surface, divided by their sum.
+e: In healthy photosynthesizing plants, chlorophyll - the main pigment involved in photosynthesis - strongly reflects NIR light and absorbs most red light. If plants suffer from conditions like drought or disease, however, this ratio shifts, as more NIR light is absorbed and more red light is reflected. NDVI values range from -1 to 1, with higher values indicating healthier vegetation, and lower values indicating stressed vegetation or barren areas like sand or snow. 
+
+// @id 01KVXR010ACQJVYWYNV0H4V428
+q: How are satellite images used in emergency response?
+a: Remote sensing plays an important role in the whole cycle of managing an emergency event: before, during and after.
+Predict & prevent - soil and vegetation analysis to predict risk of flooding or landslides
+Plan & prepare - plan evacuation routes
+During - create maps, plan the allocation of relief resources, consider the status of critical infrastructure, choose suitable evacuation routes, and help the efficient deployment of disaster response teams
+After - assess the extent and magnitude of damage and create damage maps and monitor reconstruction
+e: [image:media/emergency-response-timeline.png]
+
+// @id 01KVXR010APZ6MT7Z5ZSNHSRH7
+q: The ==Disaster Monitoring Constellation for International Imaging (DMCii) / Disaster Monitoring Constellation (DMC)== consists of a number of remote sensing satellites operated for the Algerian, Nigerian, Turkish, British and Chinese governments by DMC International Imaging. The DMC provides emergency Earth imaging for disaster relief under the International Charter for Space and Major Disasters.
+
+// @id 01KVXR010A0S21174V3KD8YQKN
+q: ==Sea surface temperature (SST)== can range from -2°C (28°F) near the North and South poles to more than 30°C (86°F) in the tropics. SST measurements provide details on ocean processes and dynamics, and can indicate the location of ocean features including fronts and eddies as well as highlight coastal upwelling and exchanges between the coastal shelf and open ocean.
+e: Sea temperature also affects weather and climate systems, as warm ocean waters can intensify tropical storm, hurricane, and typhoons, and influences the El Niño-La Niña cycle that shapes temperature and precipitation patterns across the Pacific. It's also important for marine life, as abnormally high temperatures can cause algal blooms, fish kills, or coral bleaching. 
+
+// @id 01KVXR010AACM3XDJ8E7HHR4V6
+q: ==Copernicus== is the Earth observation component of the European Union’s Space programme, looking at our planet and its environment.
+e: [image:media/copernicus-missions.jpg]
+
+// @id 01KVXR010A7M81K1E1PKBDMZBM
+q: The ==Landsat== (constellation) program consists of a series of Earth-observing satellite missions jointly managed by NASA and the U.S. Geological Survey (USGS).
+e: Since 1972, the images, archived in the United States and at Landsat receiving stations around the world, are a unique resource for global change research and applications in agriculture, cartography, geology, forestry, regional planning, surveillance, and education.
+
+// @id 01KVXR010AN1PS56EKCXNJC84E
+q: As of August 2026, the **Landsat** program is on its ==9== satellite.
+
+// @id 01KVXR010AGP8GK39RKP521074
+q: ==Geostationary Operational Environmental Satellites (GOES)== is a collaborative NOAA and NASA program providing continuous advanced imagery and atmospheric measurements of Earth’s Western Hemisphere, real-time mapping of lightning activity, and monitoring of solar activity and space weather.
+e: NASA builds and launches the GOES and NOAA operates them.
+
+// @id 01KVXR010A7SK6EYFZT1NSVVQA
+q: Continuous regional watch (weather, lightning, air-quality over one area) is best served by which orbit?
+a: Geostationary orbit (GEO) — it stares at the same hemisphere nonstop.
+e: e.g. GOES, Sentinel-4.
+
+// @id 01KXBYNX2BAYK88GB3YPKAA2VQ
+q: Global land, ocean, and SAR imaging is best served by which orbit?
+a: Polar / sun-synchronous low Earth orbit — global coverage with consistent lighting.
+e: e.g. Landsat, Sentinel-1/-2/-3/-5/-5P.
+
+// @id 01KXBYNX2BVJ2ZXT6GZ31ZYFNC
+q: Precise sea-surface-height altimetry is best served by which orbit?
+a: A precise non-sun-synchronous LEO chosen so its ground track samples ocean height without tide aliasing.
+e: e.g. Sentinel-6.
+
+// @id 01KVXR010AYT18WBFWX2G031EE
+q: ==Landsat== satellites fly in a polar, sun-synchronous low Earth orbit at ~705 km, with a 16-day repeat cycle for any given location.

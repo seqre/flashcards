@@ -1,0 +1,127 @@
+// @id 01KWQ5257ZDZ0VGS4PDQ7SY15C model=basic-example
+q: What are the functions of the skeletal system?
+a: Giving the body shape (supports weight and anchor for all tissues), helping move (joints, connective tissue, and muscle), protecting organs (skull, ribs, vertebrae), creating new blood cells (bone marrow), and storing minerals.
+
+// @id 01KWQ5257ZKXWPZ95AV1SHWJY0 model=basic-example
+q: What are the main parts of the muscoskeletal system?
+a: - bones
+- skeletal muscles
+- cartilage (strong, flexible tissue that acts like a shock absorber in joints)
+- ligaments (bands of tissue connecting bones to each other)
+- tendons (cords connecting muscles to bones)
+- joints (any place two bones meet)
+
+// @id 01KWQ5257Z435NE2245CNSE0K7 model=basic-example
+q: What are the three layers of a bone?
+a: - periosteum (tough outer coating that protects them)
+- compact bone (hard, white, and smooth - main part that lends firmness)
+- spongy bone (soft, inner layer - full of holes for bone marrow)
+[image:media/bone-structure.jpg]
+
+// @id 01KWQ5257Z1SEA75PNCN7564R0 model=basic-example
+q: What are the four different bone cells?
+a: - osteoblasts (make new)
+- osteocytes (help grow)
+- osteoclasts (recycle)
+- hematopoietic (make new blood cells)
+[image:media/bone-cell-types.jpeg]
+
+// @id 01KWQ5257ZM6DQ704TFPTHX2KQ
+q: ==Osteoblast== is a type of cell found along the surface of the bone. Its function is to form new bone tissue, remodel bones while aging, and heal damaged bones.
+
+// @id 01KWQ5257ZYG3KEVYRA222F034
+q: ==Osteoclast== is a cell larger than osteoblasts and is found on the bone surface. Its function is to dissolve, reabsorb, and remove unwanted bone tissue.
+
+// @id 01KWQ5257ZR3RJBHCA0YAQQ2DQ
+q: ==Osteocyte== is a type of cell within the bone. It helps to maintain bone as living tissue.
+
+// @id 01KWQ5257ZRZYJNFYQ67SSMJK5
+q: ==Hematopoietic== is a type of cell found in bone marrow. Its function is to make red blood cells, white blood cells, and platelets.
+
+// @id 01KWQ5257ZPCPG1V1VH00ARQKH
+q: ==Wolff's law== states that bone adapts to mechanical loads: more stress makes it stronger, less stress makes it weaker.
+
+// @id 01KWQ5257ZBPJYXHF2TH3XQZVD
+q: Muscle ==contraction== is the activation of tension-generating sites within muscle cells.
+e: [image:media/muscle-contraction.jpg]
+
+// @id 01KWQ5257Z691PRDFVMVG3E1ST
+q: The cardiovascular system is composed of two circulatory paths:
+- ==pulmonary circulation==, the circuit through the lungs where blood is oxygenated
+- ==systemic circulation==, the circuit through the rest of the body to provide oxygenated blood
+e: Systemic circulation is a much larger and higher pressure system than pulmonary circulation.
+[image:media/pulmonary-circuit.jpeg]
+
+// @id 01KWQ5257Z4N9ZHVTX5V1B8XR4
+q: ==Blood vessels== are channels that carry blood throughout your body.
+
+// @id 01KWQ5257Z3GWNA8TXSGP2NAQZ model=basic-example
+q: What are three main types of blood vessels?
+a: - arteries (away from heart, strong, high pressure)
+- veins (towards heart, valves, low pressure)
+- capillaries (exchange between)
+[image:media/blood-vessels.jpg]
+
+// @id 01KWQ5257ZBJ0Z1V5TW32YVQP5
+q: ==Baroreceptor reflex== is a series of quick actions body takes to keep your blood pressure in a normal range in response to an abrupt change in position (particularly, a seated/lying down position to a standing position).
+
+// @id 01KWQ5257ZMY9QE061M68G3KQ0
+q: The skeletal ==muscle pump== plays a crucial role in ==venous return==, especially during physical activity. Its mechanism leverages muscle movement to overcome gravitational challenges in the circulatory system.
+e: [image:media/skeletal-muscle-pump.jpg]
+
+// @id 01KWQ5257ZVS09XJ5JHK69CTSS model=basic-example
+q: How space affects plasma and blood volume?
+a: In microgravity, astronauts often lose plasma volume within the first several days because the body interprets the headward fluid shift as excess fluid.
+
+// @id 01KWQ5257ZWJG7ESQP5NCSGMN0
+q: ==Gas exchange== is the biological process through which gases are transferred across cell membranes to either enter or leave the blood. Oxygen is constantly needed by cells for aerobic cellular respiration, and the same process continually produces carbon dioxide as a waste product.
+
+// @id 01KWQ5257Z8XRA3GMWPQDYQ0VN
+q: ==Alveoli== are the basic functional units of the lungs where gas exchange takes place between the air and the blood.
+[image:media/alveoli.png]
+
+// @id 01KWQ5257Z6GS5DQTZ62HF3AVD
+q: Gas exchange by diffusion also depends on maintaining a steep ==concentration gradient== for oxygen and carbon dioxide. Continuous blood flow in the capillaries and constant breathing maintain this gradient.
+
+// @id 01KWQ5257ZXJVVN82T8VDF5G1A model=basic-example
+q: What's the path of air into lungs?
+a: Air enters the body through the mouth or nose and quickly moves to the pharynx, or throat. From there, it passes through the larynx, or voice box, and enters the trachea. Within the lungs, the trachea branches into a left and right bronchus. These further divide into smaller and smaller branches called bronchioles. The smallest bronchioles end in tiny air sacs. These are called alveoli.
+
+// @id 01KWQ5257ZKW6F1QVEBVK93QWF
+q: The ==Central Nervous System (CNS)== is the command center, consisting of the brain and spinal cord. It is responsible for integrating sensory information and coordinating responses. The ==Peripheral Nervous System (PNS)== consists of all the cranial and spinal nerves that branch off from the former to the rest of the body.
+e: [image:media/central-and-peripheral-nervous-system.jpg]
+
+// @id 01KWQ5257Z8Q4BA78GDMAW59PC
+q: A ==neuron / nerve cell==, is a cell that is excitable, firing electric signals called action potentials across a neural network in the nervous system, mainly in the central nervous system, and helps to receive and conduct impulses.
+e: Neurons communicate with other cells via synapses.
+[image:media/neuron.webp]
+
+// @id 01KWQ5257ZJHV6CJJMQ1770S62 model=basic-example
+q: What are neuron three basic parts?
+a: The cell body / soma (contains nucleus), dendrites (receive signals), and axon / nerve fiber (transmit signals).
+
+// @id 01KWQ5257Z9H06YCHDYXV89VBE
+q: A ==reflex arc== is a neural pathway consisting of five components: receptor, sensory neuron, integration center, motor neuron, and effector. It is responsible for the automatic response of the body to a stimulus.
+e: In vertebrates, most sensory neurons synapse in the spinal cord and the signal then travels through it into the brain.
+[image:media/reflex-arc.jpg]
+
+// @id 01KWQ5257ZXPXX753Z07WPYP9D
+q: The ==vestibular system==, in vertebrates, is a sensory system that creates the sense of balance and spatial orientation for the function of coordinating movement with balance.
+[image:media/vestibular-system.jpg]
+
+// @id 01KWQ5257ZWP11PRFH66AA32YW
+q: ==Space adaptation syndrome (SAS) / space sickness== is a condition experienced by as many as half of all space travelers during their adaptation to weightlessness once in orbit. According to contemporary ==sensory conflict== theory, such conditions happen when the vestibular system and the visual system do **not** present a synchronized and unified representation of one's body and surroundings.
+
+// @id 01KWQ5257ZYYNFW63K9TSAZWG6
+q: ==Proprioceptors==, located in muscles, tendons, and joints, provide feedback about the position and movement of our body parts. This information contributes to our sense of spatial orientation.
+
+// @id 01KWQ5257ZTYAKPCMDTFT4ABP6
+q: ==Spatial orientation== refers to the ability to perceive and understand position and movement in space. It allows to navigate surroundings, maintain balance, and interact with the environment. 
+
+// @id 01KWQ5257ZP06YK8MYWQFPVTAJ model=basic-example
+q: Why do bones lose mass in microgravity (mechanistically)?
+a: Without gravitational loading the Wolff's-law stress signal drops, so osteoblast building slows while osteoclasts keep resorbing. The balance tips to net breakdown, releasing calcium and weakening weight-bearing bones.
+
+// @id 01KWQ5257ZABQ83T4FKQANVYH1 model=basic-example
+q: Why does space motion sickness fade after the first few days?
+a: The brain reweights its balance inputs — leaning on vision and proprioception, discounting the unreliable vestibular "down" cue (neuroplastic adaptation). The reverse mismatch then hits on landing.

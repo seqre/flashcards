@@ -1,0 +1,119 @@
+// @id 01KVE4JMVMJVK4V5KZT9MGRZSM model=basic
+q: What is **vacuum**?
+a: A space devoid of matter. Outer space has the equivalent of just a few hydrogen atoms per cubic meter on average in intergalactic space.
+
+// @id 01KVE4JMVMZN1M61WX3YVE8YVD model=basic
+q: What is a **gravitational singularity / spacetime singularity / singularity**?
+a: A theoretical condition in which gravity is predicted to be so intense that spacetime itself would break down catastrophically. 
+
+// @id 01KVE4JMVMXNXEVKPF87W66QZD model=basic
+q: What is a **black hole**?
+a: An astronomical body so compact that its gravity prevents anything, including light, from escaping.
+
+// @id 01KVE4JMVMPS7E37Q7686YXB6B
+q: ==Outgassing== is the release of a gas that was dissolved, trapped, frozen, or absorbed in some material. It can include sublimation and evaporation, as well as desorption, seepage from cracks or internal volumes, and gaseous products of slow chemical reactions.
+
+// @id 01KVE4JMVMBCJ6WGYNG5B8GC95 model=basic
+q: Why is **outgassing** unwanted in spacecraft?
+a: Outgassing products may condense on nearby colder surfaces, which can be troublesome if they obscure optical instruments or react with other materials. This is of great concern to space missions, where an obscured telescope or solar cell can ruin an expensive mission.
+
+// @id 01KVE4JMVMR84BZ9KTGN38VXRT model=basic
+q: What is **cold welding / contact welding** and why does it work?
+a: It is a solid-state welding process in which joining takes place without fusion or heating at the interface of the two parts to be welded.
+Every metal surface exposed to air is covered by a thin layer of oxide formed by the reaction between the metal and atmospheric oxygen. These oxide layers are electrically insulating, chemically stable, and mechanically different from the underlying metal. Crucially, they prevent the metal atoms beneath them from reaching the atomic proximity needed for metallic bonding.
+
+// @id 01KVE4JMVMTF6WJPF74DWJX3DF model=basic
+q: How does **heat transfers** in space?
+a: In general only by radiation, as conduction and convection both require a material medium. Conduction works for solid objects.
+
+// @id 01KVE4JMVMX98FEEPQJQREQZDG model=basic
+q: How can spacecraft control the temperature?
+a: Passively by adding multi-layer insulation (MLI), coatings, thermal fillers, thermal washers, mirrors, radioisotope heater units, or performing barbecue roll. Actively by adding electric heaters or thermoelectric coolers or by using fluid loops to transfer heat to radiators.
+
+// @id 01KVE4JMVMTBJJR5710H1GB8R0
+q: ==Multi-layer insulation (MLI)== is thermal insulation composed of multiple layers of thin sheets and is often used on spacecraft and cryogenics.
+e: Also referred to as superinsulation, MLI is one of the main items of the spacecraft thermal design, primarily intended to reduce heat loss by thermal radiation.
+
+// @id 01KVE4JMVMK060XNDF7257AKRY
+q: ==Kapton== is a polyimide film used in flexible printed circuits (flexible electronics) and space blankets, which are used on spacecraft, satellites, and various space instruments.
+
+// @id 01KVE4JMVMHZ5HRSAS325585Q5
+q: The ==cosmic microwave background (CMB, CMBR), or relic radiation==, is microwave radiation that fills all space in the observable universe.
+
+// @id 01KVE4JMVMYY013YGRT2QSV5C9
+q: The age of the universe is the cosmological time back to the point when the scale factor of the universe extrapolates to zero. The age is about ==13.8 billion years, with the latest models estimating it more precisely as 13.787 billion years==.
+
+// @id 01KVE4JMVMG5WXSSARWZPHGAGK
+q: Microgravity's "==residual forces==" are the tiny accelerations that remain even in free fall — atmospheric drag, gravity gradients (tidal effects where different parts of the station feel slightly different pulls), and disturbances from crew movement or thrusters — which is why it's "micro" gravity rather than true zero-g.
+
+// @id 01KVE4JMVMNA5GQPPW0J3YR0VH
+q: Gravity at the ISS is roughly ==90%== of what can be felt on Earth.
+
+// @id 01KVE4JMVMZPESEVWZYKM0X04D
+q: The three main radiation sources in space are ==Galactic Cosmic Radiation (GCR)==, ==solar energetic particles (SEP)==, and ==Van Allen belts==.
+
+// @id 01KVE4JMVMV8G51SE240BB3211 model=basic
+q: Where does **Galactic Cosmic Radiation (GCR)** come from?
+a:  GCR comes from outside the solar system but primarily from within our Milky Way galaxy. GCR is composed of the nuclei of atoms that have had their surrounding electrons stripped away and are traveling at nearly the speed of light.
+
+// @id 01KVE4JMVM5YAZG2YQB3YVPHVG
+q: Radiation can be either ==non-ionizing (low energy)== or ==ionizing (high energy)==.
+e: Ionizing radiation consists of particles that have enough energy to completely remove an electron from its orbit, thus creating a more positively charged atom. Less energetic, non-ionizing radiation does not have enough energy to remove electrons from the material it crosses.
+
+// @id 01KVE4JMVM5QCBV7M9CTJCJQZ6 model=basic
+q: Why is **ionizing radiation** dangerous?
+a: Ionizing radiation has the ability to move through substances and alter them as it passes through. When this happens, it ionizes the atoms (knocks electrons out of them) in the surrounding material with which it interacts.
+
+// @id 01KVE4JMVMG5FNEFVG0Z7FWJ01
+q: ==Solar energetic particles (SEP), formerly known as solar cosmic rays==, are high-energy, charged particles originating in the solar atmosphere and solar wind. They consist of protons, electrons and heavy ions with energies ranging from a few tens of keV to many GeV.
+
+// @id 01KVE4JMVMJSD02FHNCZYYGKGS
+q: Primary cosmic rays are composed mainly of ==protons and alpha particles== (99%), with a small amount of ==heavier nuclei== (≈1%) and an extremely minute proportion of ==positrons and antiprotons==.
+
+// @id 01KVE4JMVMNM1SBKQV304GGYJG
+q: The Van Allen inner belt contains high concentrations of ==electrons in the range of hundreds of keV and energetic protons with energies exceeding 100 MeV==, while the outer belt consists mainly of ==high-energy (0.1–10 MeV) electrons==.
+
+// @id 01KVE4JMVM9824NBC6X0B94TNW model=basic
+q: What is a **single-event upset (SEU)**?
+a: It is a change of state caused by one single ionizing particle (e.g. ions, electrons, photons) striking a sensitive node in a live micro-electronic device, such as in a microprocessor, semiconductor memory, or power transistors.
+
+// @id 01KVE4JMVMDGHFSX4AGGMGNEE2
+q: The ==single-event effect (SEE)== is a general class of radiation effects in electronic devices.
+
+// @id 01KVE4JMVM2WSNR7EPE8TXCKDF
+q: ==Total Ionizing Dose (TID)== is the summation of the overall accumulated dose from various sources (electrons, protons, heavy ions, x-rays, gamma rays, etc.)
+
+// @id 01KVE4JMVM16SV5E8PG0B991YK
+q: ==Absorbed dose== is a dose quantity which represents the specific energy (energy per unit mass) deposited by ionizing radiation in living matter.
+
+// @id 01KVE4JMVM7ATQ3YMZC72HFNW8
+q: ==Acute radiation syndrome (ARS), also known as radiation sickness or radiation poisoning==, is a collection of health effects that are caused by being exposed to high amounts of ionizing radiation in a short period of time.
+
+// @id 01KVE4JMVMXW3MDWRXVSX24V9Q model=basic
+q: What are **short-term effects of radiation** on the human body in space?
+a: Acute effects such as changes to the blood, diarrhea, nausea, and vomiting that are mild and recoverable.
+
+// @id 01KVE4JMVMJARCYKGCYTERNQMF model=basic
+q: What are **long-term effects of radiation** on the human body in space?
+a: Long term effects can include DNA damage, cataracts, increased chance of cancer, and sterility.
+
+// @id 01KVE4JMVMH7VN01T9J57MHD9B model=basic
+q: What are **radiation-hardening techniques** for electronics?
+a: Physical: insulating substrates instead of the usual semiconductor wafers, special process node (width of the smallest lines on board), bipolar integrated circuits instead of CMOS, special RAM or capacitors, shielding.
+Logical: ECC memory, redundant elements, triple modular reduncancy (TMR), hardened latches, watchdog timer.
+
+// @id 01KVE4JMVM0RJ8NJVCNCDVSWY3 model=basic
+q: What are **radiation-preventing techniques** for humans?
+a: Reducing the exposure time, shielding (vary of material), respirator/dust mask (for terrestrial safety).
+
+// @id 01KVE4JMVMPERJ2P5CKT52945C
+q: Water and polyethylene (PE) are one of the materials best suited for radiation shielding because they have ==lots of hydrogen atoms per unit mass, which interact with incoming radiation particles and slow them down==.
+e: Hydrogen shields best per kilogram because its nucleus is mass-matched to incoming neutrons/protons (so each collision transfers maximum energy), it packs the most interaction partners per unit mass, and being the smallest nucleus it generates little harmful secondary radiation.
+
+// @id 01KVE4JMVM8GK1EZXZNB0BC8W0 model=basic
+q: What are **storm shelters** on spacecraft?
+a: Special areas of the spacecraft where crew can hide in to reduce the exposure from solar particle events.
+
+// @id 01KVE4JMVMX44EEXM2P969P8V3 model=basic
+q: What are **secondary cosmic rays**?
+a: Those are cosmic rays caused by a decay of primary cosmic rays as they impact an atmosphere or spacecraft shielding, include photons, hadrons, and leptons, such as electrons, positrons, muons, and pions.

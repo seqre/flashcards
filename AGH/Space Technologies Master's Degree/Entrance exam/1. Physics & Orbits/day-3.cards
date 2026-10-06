@@ -1,0 +1,60 @@
+// @id 01KVBKW8MTRMBWFHH822HY40AQ model=basic
+q: What is **Hohmann transfer orbit**?
+a: An orbital maneuver used to transfer a spacecraft between two orbits of different altitudes around a central body. The transfer requires two engine burns (impulses). The first burn places the spacecraft into an elliptical transfer orbit, and the second circularizes the orbit upon reaching the target altitude.
+[image:Hohmann transfer orbit:media/hohmann-transfer-orbit.png]
+
+// @id 01KVBKW8MTT50JB4JZ7JCHMDT0
+q: An orbit which traverses less than 180° around the primary is called a ==Type I== transfer trajectory.
+
+// @id 01KVBKW8MTYHDSTVH4985RRWYF
+q: An orbit which traverses more than 180° around the primary is called a ==Type II== transfer trajectory.
+
+// @id 01KVBSNNCRFP0CW0M54K2X2TZQ model=basic
+q: What is **bi-elliptic transfer**?
+a: An orbital maneuver that moves a spacecraft from one orbit to another and may, in certain situations, require less delta-v than a Hohmann transfer maneuver. From the initial orbit, a first burn boosts the spacecraft into the first transfer orbit with an apoapsis at some point $r_b$ away from the central body. At this point a second burn sends the spacecraft into the second elliptical orbit with periapsis at the radius of the final desired orbit, where a third burn is performed, injecting the spacecraft into the desired orbit.
+
+// @id 01KVBSNNCR65YHEM4AW84SSYHX
+q: Despite requiring one more engine burn than a Hohmann transfer and generally requiring a greater travel time, some bi-elliptic transfers require a lower amount of total delta-v than a Hohmann transfer when the ratio of final to initial semi-major axis is ==11.94 or greater==, depending on the intermediate semi-major axis chosen.
+
+// @id 01KVBSNNCRC59PVYADXVYJ1K52
+q: Prograde or direct motion is motion in the ==same== direction as the primary rotates or direction of your own velocity vector.
+
+// @id 01KVBSNNCRQY33PHD6EGRTRHBN
+q: Retrograde motion is motion in the ==opposite== direction as the primary rotates or your own velocity vector.
+
+// @id 01KVBSNNCRY26FDEB1HC5VYJYC model=basic
+q: What is **Delta-v** (also known as "change in velocity"), symbolized as Δv?
+a: A term used in physics and engineering to represent the change in velocity of an object. In the context of rocketry and space exploration, delta-v refers to the total change in velocity that a spacecraft must achieve in order to reach its destination or perform a specific maneuver. Delta-v is crucial in determining the capabilities and limitations of a spacecraft, as it directly impacts the amount of fuel and energy required for a mission.
+
+// @id 01KVBSNNCR44TAPFT592PNZSZA model=basic
+q: What is the **classical rocket equation / Tsiolkovsky rocket equation / ideal rocket equation**?
+a: It is a mathematical equation that describes the motion of vehicles that follow the basic principle of a rocket: a device that can apply acceleration to itself using thrust by expelling part of its mass with high velocity and can thereby move due to the conservation of momentum.
+
+// @id 01KVBSNNCR7S3B67PNP59Q6QR2
+q: In aerospace engineering, the propellant ==mass fraction== is the portion of a vehicle's mass which does not reach the destination and is instead burned as propellant, usually used as a measure of the vehicle's performance.
+e: The same goes for payload fraction, which is the fraction of initial weight that is payload.
+
+// @id 01KVBSNNCRKXPEE2FAHTJAHYQD
+q: In astrodynamics and aerospace, a ==delta-v budget== is an estimate of the total change in velocity (delta-v) required for a space mission. It is calculated as the sum of the delta-v required to perform each propulsive maneuver needed during the mission.
+
+// @id 01KVBSNNCR5Z6NK1B7XB6GT845 model=basic
+q: What is **characteristic velocity**, denoted as $c^∗$ (pronounced c-star)?
+a: It is a measure of the combustion performance of a rocket engine independent of nozzle performance, and is used to compare different propellants and propulsion systems. It is independent of the nozzle, making it a useful metric for evaluating propellant combustion alone.
+
+// @id 01KVBSNNCRD5XTCB2KKD5HA9KK model=basic
+q: What is **specific impulse** (usually abbreviated as $I_{sp}$)?
+a: Itis a physical quantity defined as the ratio of change in momentum (impulse) to the mass used, usually fuel. It typically uses units of metres per second (a SI unit) or feet per second (in imperial units). It is equivalent to thrust (a force, in newtons or pounds) per mass flow rate (in kg/s or lbm/s). 
+
+// @id 01KVBSNNCRBMVEMJ7K5FGB8JJR model=basic
+q: What is **orbital inclination change / orbital plane change**?
+a: It is an orbital maneuver aimed at changing the inclination of an orbiting body's orbit.
+
+// @id 01KVBSNNCRMFVGQBSKM3SKPHRA model=basic
+q: What is **gravity assist / gravity assist maneuver / swing-by / gravitational slingshot**?
+a: In orbital mechanics, it is a type of spaceflight flyby which makes use of the relative movement (e.g. orbit around the Sun) and gravity of a planet or other astronomical object to alter the path and speed of a spacecraft, typically to save propellant and reduce expense. 
+[image:Gravity assist:media/gravity-assist.png]
+
+// @id 01KVBSNNCRYKCBRBZS7GHP5ZPE model=basic
+q: What is a **powered flyby / Oberth maneuver**?
+a: It is a maneuver in which a spacecraft falls into a gravity well and then uses its engines to further accelerate as it is falling, thereby achieving additional speed. The resulting maneuver is a more efficient way to gain kinetic energy than applying the same impulse outside of a gravity well.
+The gain in efficiency is explained by the Oberth effect, wherein the use of a reaction engine at higher speeds (relative to any reference frame) generates a greater change in mechanical energy than its use at lower speeds.

@@ -1,0 +1,157 @@
+// @id 01KWSXTNVYMW860N53YB7VFPDJ
+q: ==Innate immunity / natural immunity / native immunity== provides the early line of defense against microbes. It consists of cellular and biochemical defense mechanisms that are in place even before infection and are poised to respond rapidly to infections.
+e: [image:media/innate-vs-adaptive-immunity.jpg]
+
+// @id 01KWSXTNVYE46TQMPSTEXMRBNF
+q: ==Adaptive immunity / specific immunity / acquired immunity== system recognizes and reacts to a large number of microbial and nonmicrobial substances. The defining characteristics of it are the ability to distinguish different substances, called specificity, and the ability to respond more vigorously to repeated exposures to the same microbe, known as memory.
+e: [image:media/innate-vs-adaptive-immunity.jpg]
+
+// @id 01KWSXTNVYYPW21TFAGRXRSA3G
+q: ==White blood cells / leukocytes / immune cells / immunocytes==, are cells of the immune system that are involved in protecting the body against both infectious disease and foreign entities.
+
+// @id 01KWSXTNVYF63QECQH2KS98XA5
+q: ==Lymphocyte==, type of white blood cell (leukocyte) that is of fundamental importance in the immune system because lymphocytes are the cells that determine the specificity of the immune response to infectious microorganisms and other foreign substances.
+
+// @id 01KWSXTNVYCSB1ASB8QM2SM1ZW
+q: ==Macrophages== are specialised cells involved in the detection, phagocytosis and destruction of bacteria and other harmful organisms and particles.
+e: In addition, they can also present antigens to T cells and initiate inflammation by releasing molecules that activate other cells.
+
+// @id 01KWSXTNVYY50DJ282GWB7Z0EK
+q: ==Phagocytosis== is a process wherein a cell binds to the item it wants to engulf on the cell surface and draws the item inward while engulfing around it.
+e: The process of phagocytosis often happens when the cell is trying to destroy something, like a virus or an infected cell, and is often used by immune system cells.
+[image:media/phagocytosis-and-exocytosis.svg]
+
+// @id 01KWSXTNVYDVY8H863QC86X163
+q: The ==lymphatic system== is a network of delicate tubes throughout the body. It drains fluid (called lymph) that has leaked from the blood vessels into the tissues and empties it back into the bloodstream via the lymph nodes.
+
+// @id 01KWSXTNVYP6366T3GJBZ8E7VY model=basic-example
+q: What are the main roles of the lymphatic system?
+a: The lymphatic system helps maintain fluid balance in the body by collecting excess fluid and particulate matter from tissues and depositing them in the bloodstream. It also helps defend the body against infection by supplying disease-fighting cells called lymphocytes.
+
+// @id 01KWSXTNVYK9SC51XGFR07N80P model=basic-example
+q: How does **immune dysregulation** present in space?
+a: By suppression of cellular immunity (impaired function in T-cells, NK cells, and macrophages), heightened inflammation, reactivation of latent/dormant viruses, and altered cytokines.
+
+// @id 01KWSXTNVYJ8C8RCK9GR3KX09G
+q: ==Endocrine system== is a messenger system in an organism comprising feedback loops of hormones that are released by internal glands directly into the circulatory system and that target and regulate distant organs.
+e: [image:media/endocrine-system.svg]
+
+// @id 01KWSXTNVYGS2552GK1WGBCT8T model=basic-example
+q: What is **endocrine system** responsible for?
+a: Metabolism, homeostasis, growth and development, sexual function, reproduction, sleep-wake cycle, and mood.
+
+// @id 01KWSXTNVYDHFKRH0YW1PWVNDE
+q: ==Pineal gland== makes and releases melatonin.
+
+// @id 01KWSXTNVYZDN3SQD4MNFVXMYW
+q: ==Hypothalamus== links endocrine and nervous systems together.
+
+// @id 01KWSXTNVYFM8D87T4YY3HKF22
+q: ==Pituitary gland== responds to the hypothalamus: its anterior lobe makes its own hormones that control other glands, while its posterior lobe stores and releases hormones produced by the hypothalamus.
+
+// @id 01KWSXTNVY5890GBQQK0XCD0A5
+q: ==Thyroid gland== releases hormones that control metabolism.
+
+// @id 01KWSXTNVYPC6HAN8EXGY04SJT
+q: ==Adrenal glands== release several hormones that manage bodily processes, like metabolism, blood pressure and your stress response.
+
+// @id 01KWSXTNVYMKRJ2HWVDR3M5679
+q: ==Pancreas== releases two hormones that are essential to maintaining healthy blood sugar levels: insulin and glucagon.
+
+// @id 01KWSXTNVY7E01FQW2AF9VJA4G
+q: ==Homeostasis== is the condition in which a system (such as the human body) is maintained in a more or less steady state. It is the job of cells, tissues, organs, and organ systems throughout the body to maintain many different variables within narrow ranges compatible with life.
+
+// @id 01KWSXTNVYQFM98B46HE4075TD model=basic-example
+q: How is **homeostasis** maintained in human body?
+a: Via negative feedback loop (counteracting a change) consisting of stimulus, sensor, control center, and effector.
+[image:media/negative-feedback-loop.jpg]
+
+// @id 01KWSXTNVY9Z8J54146MAABH4K
+q: The ==digestive system==, which extends from the mouth to the anus, is responsible for receiving food, breaking it down into nutrients (a process called digestion), absorbing the nutrients into the bloodstream, and eliminating the indigestible parts of food from the body.
+
+// @id 01KWSXTNVYS88FV9NRKBQQN4ZH model=basic-example
+q: What's the full path of food from consumption to disposal?
+a: Entering via mouth, then throat and esophagus, stomach, small intestine (absorption), large intestine (water reabsorption), rectum, and disposal by anus.
+
+// @id 01KWSXTNVY340RZNEEYGH8387M
+q: ==Mechanical== digestion involves physical movement to make foods smaller. ==Chemical== digestion uses enzymes to break down food. 
+e: Mechanical - chewing, churning in stomach, segmentation in small intestine.
+Chemical - enzymes throughout the digestive tract.
+
+// @id 01KWSXTNVYWZFJ1VSSY062BDMZ model=basic-example
+q: What’s the purpose of chemical digestion?
+a: Chemical digestion breaks down different nutrients, such as proteins, carbohydrates, and fats, into even smaller parts for body to absorb.
+
+// @id 01KWSXTNVYD8BGSF9SQY7M5M98
+q: ==Accessory organs== of digestion are organs that secrete substances needed for the chemical digestion of food but through which food does not actually pass as it is digested.
+e: Besides the liver, the major accessory organs of digestion are the gallbladder and pancreas.
+
+// @id 01KWSXTNVYVZK3BBRJ06VRFDNM model=basic-example
+q: How does space affect **digestion**?
+a: In microgravity, digestion can slow or shift in unexpected ways, which affects appetite, bowel function, hydration, and nutrient absorption.
+
+// @id 01KWSXTNVYN1E7HSA8RGMTQGEC
+q: The ==reproductive system== is a collection of organs and a network of hormone production that work together to create life.
+
+// @id 01KWSXTNVYE8XGYFZX93P81AH7 model=basic-example
+q: What **hormones** are produced by reproductive system and for what reason?
+a: Female: estrogen (manages sexual and reproductive processes) and progesterone (supports menstruation and helps in pregnancy)
+Male: testosterone (manages sexual and reproductive processes)
+
+// @id 01KWSXTNVY148X0DXHY3MTGM3G model=basic-example
+q: What are radiation effects on human fertility?
+a: Ionizing radiation significantly affects male fertility by damaging cells involved in sperm production. Spermatogonia, the stem cells that continuously produce sperm, are highly sensitive to radiation.
+Female fertility is also susceptible to radiation damage, with effects often more pronounced due to a woman’s finite egg supply. Ionizing radiation can damage oocytes (eggs) and deplete the ovarian reserve, potentially leading to premature ovarian failure.
+
+// @id 01KWSXTNVY9E305NWTR5GDPXAB
+q: In cellular biology, ==mechanotransduction (mechano + transduction)== is any of various mechanisms by which cells convert mechanical stimulus into a biochemical signal.
+e: This form of sensory transduction is responsible for a number of senses and physiological processes in the body, including proprioception, touch, balance, and hearing.
+
+// @id 01KWSXTNVYZZTDNZRXGARPCFG6 model=basic-example
+q: How does ionizing radiation affect DNA?
+a: It can interact directly with DNA's molecule's atoms in three ways: changing the chemical structure of the bases, breaking the sugar-phosphate backbone, or breaking the hydrogen bonds connecting the base pairs.
+[image:media/ionizing-radiation-on-dna.png]
+
+// @id 01KWSXTNVYRJ809GKH0HAPS8EC
+q: ==Model organisms== are defined as non-human species that are extensively studied in order to understand a range of biological phenomena, with the hope that data, models and theories generated will be applicable to other organisms, particularly those that are in some way more complex than the original. 
+
+// @id 01KWSXTNVYSKR2YHHEBGBKAAV0
+q: ==Space medicine== is defined as a field of research that addresses the physiological and medical challenges associated with space travel, incorporating innovative scientific approaches and technological applications, while also encompassing relevant terrestrial studies in areas such as high-altitude, diving, and occupational medicine.
+e: It is dedicated to the prevention and treatment of medical conditions that would limit success in space operations. Space medicine focuses specifically on prevention, acute care, emergency medicine, wilderness medicine, hyper/hypobaric medicine in order to provide medical care of astronauts and spaceflight participants.
+
+// @id 01KWSXTNVY7VA6MC2X33RPQ34G model=basic-example
+q: What's the core distinction between innate and adaptive immunity?
+a: Innate is fast, nonspecific, and has no memory; adaptive is slower, specific to a particular pathogen, and remembers it for a stronger response next time.
+
+// @id 01KWSXTNVYE2H1AM3W8AK39M2A
+q: In spaceflight, dormant viruses can ==reactivate== as immune surveillance weakens. Common examples are ==Epstein-Barr virus (EBV)== and ==varicella-zoster (VZV, chickenpox/shingles)==.
+e: A key infection risk on long missions with no hospital access.
+
+// @id 01KWSXTNVYKP67QTWNGTRXRMPR model=basic-example
+q: How does endocrine signalling differ from nervous signalling?
+a: Endocrine uses hormones via the bloodstream — **slow, broad, long-lasting**. Nervous uses electrical signals — **fast, targeted, brief**.
+
+// @id 01KWSXTNVYHTF5NWMC3BDMGTW5
+q: In space, disrupted light-dark cycles and stress raise ==cortisol== and disturb ==melatonin/circadian rhythm==, affecting sleep, mood, and immune function.
+
+// @id 01KWSXTNVY3MYRTD9K658QSVPC
+q: ==Negative feedback== counteracts a change to restore the set point (most common); ==positive feedback== amplifies a change until an endpoint (rarer, e.g. blood clotting, childbirth).
+
+// @id 01KWSXTNVY2NB503A1J9JV8HGN model=basic-example
+q: Why is spaceflight described as a whole-body homeostatic stress test?
+a: Microgravity and radiation disrupt nearly every regulated system at once — fluid balance, bone/calcium, circadian/hormonal rhythm, and immune balance — forcing simultaneous re-adaptation.
+
+// @id 01KWSXTNVY0FW5HRJRJVF6MN8M
+q: In microgravity, cells sense the loss of mechanical loading and shift which genes are active, producing ==altered gene expression==.
+e: The root-level "why" beneath tissue effects like bone and muscle loss.
+
+// @id 01KWSXTNVY88059QCWSHCR65EX
+q: Without gravity, the cell's internal scaffold — the ==cytoskeleton== — reorganises, affecting cell shape, division, and internal signalling.
+
+// @id 01KWSXTNVY2CMCM1CCE33AS3C7 model=basic-example
+q: How does fluid behave differently in microgravity, and why does it matter?
+a: No gravity means no convection or sedimentation, so surface tension dominates. This changes how nutrients and waste move around cells and complicates cell cultures and experiments in space.
+
+// @id 01KWSXTNVY6A4MBRCEEK5SBWCD model=basic-example
+q: How does spaceflight affect the gut specifically?
+a: Altered gut motility, shifts in the **gut microbiome**, and changed appetite/nutrient absorption — partly driven by the headward fluid shift.

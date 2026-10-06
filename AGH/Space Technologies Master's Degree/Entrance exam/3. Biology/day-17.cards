@@ -1,0 +1,112 @@
+// @id 01KWN0BEBRH72BC09YADQVE2DZ
+q: Organisms with ==prokaryotic cells (prokaryotes)== include bacteria and archaea. While bacteria are found virtually everywhere on Earth, archaea are typically found in extreme environments, such as hot springs.
+
+// @id 01M41XFR82SRNMDXDN6ZA13A76
+q: Organisms with ==eukaryotic cells (eukaryotes)== include protists, fungi, plants, and animals—including humans.
+
+// @id 01KWN0BEBR02SMJBWRTDKH66NJ
+q: The basic distinction between prokaryotes and eukaryotes is that prokaryotes lack a ==membrane-bound nucleus and organelles==.
+e: [image:media/prokaryotes-vs-eukaryotes.png]
+
+// @id 01KWN0BEBRX5FQNW7QF3KMB9FZ
+q: While eukaryotes store their DNA inside the ==nucleus==, prokaryotes keep it in the ==cytoplasm==.
+e: Additionally, DNA in eukaryotic cells is organized into double-stranded chromosomes that are condensed by histones. In contrast, prokaryotic cells contain one primary circular chromosome and may also contain plasmids (small rings of DNA).
+[image:media/prokaryotes-vs-eukaryotes-venn-diagram.jpg]
+
+// @id 01KWN0BEBR3BJBZ9XGTCP5B1AT model=basic-example
+q: What features prokaryotic and eukaryotic cells have in common?
+a: Plasma membrane, cytoplasm, genetic material in form of DNA, and ribosomes.
+
+// @id 01KWN0BEBRW9354GQTTYG9FZYC
+q: The ==endomembrane system== is a group of membranes and organelles in eukaryotic cells that works together to modify, package, and transport lipids and proteins.
+
+// @id 01KWN0BEBR1JW4D190ZWGYEQNM
+q: ==Cell compartmentalization== refers to the organization of a eukaryotic cell into distinct compartments, allowing the cell to efficiently carry out specialized functions. Each compartment is either enclosed by single or double lipid bilayer membranes, or in some cases, protein structures.
+e: This division enables different parts of the cell to maintain unique chemical environments, facilitating various metabolic reactions.
+[image:media/cell-compartmenalization.png]
+
+// @id 01KWN0BEBRQFGYT8YG5GVKRY5Z
+q: The ==endosymbiotic theory / symbiogenesis== is a scientific theory that proposes that some of the organelles in the eukaryotic cells, such as mitochondria and chloroplast, have originated from free-living prokaryotes (bacteria and archaea).
+e: Endosymbiosis is the relationship between two organisms when one lives within the other organism, eventually benefiting both partners.
+[image:media/endosymbiotic-theory.jpg]
+
+// @id 01KWN0BEBRCHZDF4YHZX6VYADQ
+q: ==Nucleus== is a specialized structure occurring in most cells (except bacteria and blue-green algae) and separated from the rest of the cell by a double layer, the nuclear membrane. The primary function of it is to store and protect the cell’s genetic material (DNA) and regulate gene expression, thereby directing key processes such as metabolism and cell division.
+
+// @id 01KWN0BEBRA1R6EEWRBEFNEM3D
+q: ==Mitochondrion (pl. mitochondria)== is an organelle that has a double membrane structure and use aerobic respiration to generate adenosine triphosphate (ATP), which is used throughout the cell as a source of chemical energy.
+e: In addition to supplying cellular energy, mitochondria are involved in other tasks, such as signaling, cellular differentiation, and cell death, as well as maintaining control of the cell cycle and cell growth.
+Mitochondria have their own genome.
+
+// @id 01KWN0BEBRWTKREH7ZFTEEAQJX
+q: ==Ribosome== is particle that is present in large numbers in all living cells and serves as the site of protein synthesis. They occur both as free particles in prokaryotic and eukaryotic cells and as particles attached to the membranes of the endoplasmic reticulum in eukaryotic cells.
+e: A ribosome is made up of a large and a small subunit, each consisting of one or more ribosomal RNA molecules and many ribosomal proteins.
+
+// @id 01KWN0BEBRJSRZWQS29NBR9D7F
+q: The ==endoplasmic reticulum (ER)== is a part of a transportation system of the eukaryotic cell, and has many other important functions such as protein folding. It is a type of organelle made up of two subunits – ==rough endoplasmic reticulum (RER)==, and ==smooth endoplasmic reticulum (SER)==.
+e: [image:media/endoplasmic-reticulum.png]
+
+// @id 01KWN0BEBR7X1QCKZX4Z5F521H
+q: The ribosomes on rough ER specialize in the synthesis of ==proteins==.
+e: Some proteins, for example, remain within the ER, whereas others are sent to the Golgi apparatus, which lies next to the ER.
+
+// @id 01KWN0BEBREVD22JPK0ZX57ST7
+q: The smooth ER is involved in the synthesis of ==lipids, including cholesterol and phospholipids==, which are used in the production of new cellular membrane.
+
+// @id 01KWN0BEBRJ1G3ZRFC0HPYA5VT
+q: ==Golgi apparatus / Golgi complex / Golgi body / Golgi== is membrane-bound organelle of eukaryotic cells (cells with clearly defined nuclei) that is made up of a series of flattened, stacked pouches. It is responsible for transporting, modifying, and packaging proteins and lipids into vesicles for delivery to targeted destinations.
+e: [image:media/golgi-apparatus.png]
+
+// @id 01KWN0BEBR40ZVG9TRG1PXV1ZP
+q: ==Lysosomes== are membrane-bound organelles found in most animal cells that play a vital role in intracellular digestion, recycling of cellular components, and maintaining cellular health.
+e: Often referred to as the cell’s waste disposal system, lysosomes contain a diverse array of hydrolytic enzymes that break down various macromolecules, old organelles, and pathogens.
+
+// @id 01KWN0BEBRZGV237T8T4JW8E8E
+q: ==Chloroplasts== are specialized organelles found in plant cells and are a type of plastid responsible for photosynthesis, the process that converts light energy into chemical energy.
+e: They have their own genome.
+
+// @id 01KWN0BEBRZABH6HQ98K3KX61N model=basic-example
+q: What is the protein "production line" steps?
+a: Protein blueprint from nucleus, then building by ribosome in rough ER, and finishing and shipping to the destination in Golgi apparatus.
+
+// @id 01KWN0BEBRM3DQDJSHMAXGVC5Y
+q: What is the **fluid mosaic model** about?
+a: According to the fluid mosaic model, the plasma membrane is a mosaic of components—primarily, phospholipids, cholesterol, and proteins—that move freely and fluidly in the plane of the membrane.
+e: In other words, a diagram of the membrane (like the one below) is just a snapshot of a dynamic process in which phospholipids and proteins are continually sliding past one another.
+[image:media/fluid-mosaic-model.png]
+
+// @id 01KWN0BEBR5FYCR9P7WDAFYR4P
+q: ==Active transport== is the movement of molecules across a membrane from a region of lower concentration to a region of higher concentration against the concentration gradient, often assisted by enzymes and requires energy.
+e: Primary active transport happens via ATP hydrolysis or NADH reduction, secondary active transport uses the energy potential difference, and bulk transport via endocytosis and exocytosis.
+[image:media/active-passive-transport.png]
+
+// @id 01KWN0BEBRSHNM56MN0FGGHWQ3
+q: ==Passive transport== is the movement of ions and molecules across the cell membrane without requiring energy.
+e: Happens via diffusion, facilitated diffusion, osmosis, and filtration.
+[image:media/active-passive-transport.png]
+
+// @id 01KWN0BEBR8DCYTCX9XZF6YWGJ
+q: ==Osmolarity== describes the total concentration of solutes in a solution.
+
+// @id 01KWN0BEBRXNYZCWF0Y19VKRGY
+q: ==Tonicity== is the capability of a solution to modify the volume of cells by altering their water content.
+e: The direction is set by the solution's solute concentration relative to the cell: hypertonic pulls water out, hypotonic drives water in.
+
+// @id 01KWN0BEBRDNGPHT9DYBVZ8P3E
+q: If a cell is placed in a ==hypertonic== solution, there will be a net flow of water out of the cell, and the cell will lose volume.
+e: [image:media/tonicity-levels.jpeg]
+
+// @id 01M41XFR8229FH29Q229V9YN6Z
+q: If a cell is placed in an ==isotonic== solution, there will be no net flow of water into or out of the cell, and the cell’s volume will remain stable.
+e: [image:media/tonicity-levels.jpeg]
+
+// @id 01M41XFR82PJEH5S419DYG0WRQ
+q: If a cell is placed in a ==hypotonic== solution, there will be a net flow of water into the cell, and the cell will gain volume.
+e: [image:media/tonicity-levels.jpeg]
+
+// @id 01KWN0BEBRBMCF0NB0XMS9E1K0 model=basic-example
+q: Why can small nonpolar molecules ($O_2$, $CO_2$) cross the membrane freely, while ions like Na⁺ cannot?
+a: The bilayer's core is hydrophobic. Small nonpolar molecules dissolve straight through it; charged ions are repelled by that nonpolar interior and need channel or carrier proteins to cross.
+
+// @id 01KWN0BEBR668SHQ7N5XYT07K7
+q: ==Osmosis== is the net movement of water across a selectively permeable membrane toward the side with higher solute concentration.
