@@ -24,4 +24,16 @@ e: $$1u = \frac{1}{12} \times mass of \prescript{12}{6}{\mathbf{C}}$$
 q: The ==mole (symbol mol)== is a unit of measurement for amount of substance.
 
 // @id 01M49AZX6SM8SRAQMXZNYSMPWZ
-q: One mole is an aggregate of exactly ==$$6.02214076 \times 10^23$$== elementary entities which can be atoms, molecules, ions, ion pairs, or other particles.
+q: One ==mole== is amount of substance (atoms, molecules, ions, ion pairs, or other particles). The number of entities in one of it is equal to ==Avogadro number==.
+e: $$1 mol = \frac{N_0}{N_A}$$
+
+q: Avogadro **number** ($$N_0$$) is equal to ==$$6.02214076 \times 10^23$$==.
+
+q: ==Avogadro **constant** ($$N_A$$)== is equal to $$6.02214076 \times 10^23 mol^{-1}$$.
+
+q: What is the standard atomic weight of a chemical element?
+a: It is the weighted arithmetic mean of the relative isotopic masses of all isotopes of that element weighted by each isotope's abundance on Earth. It is represented by symbol $$A_{r}^{°}(E)$$ for element "E".
+
+q: ==Molar mass== is the mass of 1 mole of a substance, expressed in grams per mole (g/mol).
+e: For an element, molar mass equals its relative atomic mass from the periodic table.
+For a compound, add up the atomic masses of every atom in the formula.
