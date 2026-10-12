@@ -1,33 +1,42 @@
+// @id 01M4RYJQMNKFX3ES3KYKW29B4Z model=basic-example
 q: How many SI base units of measurement are and what are they?
 a: There are 7: time, length, mass, eletric current, thermodynamic temperature, amount of substance, luminous intensity.
 [image:media/si-units.svg]
 
+// @id 01M4RYJQMN44WAVNRC6SJ7GJ2D model=basic-example
 q: What is the name of the **time** SI base unit?
 a: Second (s)
 [image:media/si-units.svg]
 
+// @id 01M4RYJQMNA2BARTSXS1DFA9EE model=basic-example
 q: What is the name of the **length** SI base unit?
 a: Metre (m)
 [image:media/si-units.svg]
 
+// @id 01M4RYJQMNWZPVQD7XRT72HE65 model=basic-example
 q: What is the name of the **mass** SI base unit?
 a: Kilogram (kg)
 [image:media/si-units.svg]
 
+// @id 01M4RYJQMNTPQ3E5XST5JW9Y5N model=basic-example
 q: What is the name of the **electric current** SI base unit?
 a: Ampere (A)
 [image:media/si-units.svg]
 
+// @id 01M4RYJQMNTBTPKS3BY2CZD76E model=basic-example
 q: What is the name of the **thermodynamic temperature** SI base unit?
 a: Kelvin (K)
 [image:media/si-units.svg]
 
+// @id 01M4RYJQMNFCF26RB90PEV0AH1 model=basic-example
 q: What is the name of the **amount of substance** SI base unit?
 a: Mole (mol)
 [image:media/si-units.svg]
 
+// @id 01M4RYJQMN0ZYV6JGHWCJ54AJ9 model=basic-example
 q: What is the name of the **luminous intensity** SI base unit?
 a: Candela (cd)
 [image:media/si-units.svg]
 
+// @id 01M4RYJQMNNSK4H1ZXFF6S2TJJ
 q: ==Dimensional analysis== is the method of tracking how base physical dimensions (length L, mass M, time T, temperature Θ, etc.) appear in equations and calculations, to check consistency, convert units, and derive relationships between quantities.

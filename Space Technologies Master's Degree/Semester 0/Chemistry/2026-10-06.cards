@@ -17,7 +17,7 @@ a: Under the same conditions of pressure and temperature, the same volumes of di
 q: ==Atomic mass== is the mass of a single atom of an element, expressed in atomic mass units (u), and is approximately equal to the sum of its protons and neutrons.
 
 // @id 01M49AZX6S5T61JQ754TCYQ6ND
-q: The ==dalton (symbol: Da) or unified atomic mass unit (symbol: u)== is a unit of mass defined as $$\frac{1}{12}$$ of the mass of an unbound neutral atom of carbon-12 in its nuclear and electronic ground state and at rest.
+q: The ==dalton (symbol: Da) or unified atomic mass unit (symbol: u)== is a unit of mass defined as $\frac{1}{12}$ of the mass of an unbound neutral atom of carbon-12 in its nuclear and electronic ground state and at rest.
 e: $$1u = \frac{1}{12} \times mass of \prescript{12}{6}{\mathbf{C}}$$
 
 // @id 01M49AZX6SA4NDCSS8PH187RZ2
@@ -28,14 +28,14 @@ q: One ==mole== is amount of substance (atoms, molecules, ions, ion pairs, or ot
 e: $$1 mol = \frac{N_0}{N_A}$$
 
 // @id 01M4BWQCJFJRHECQ7HNDVSB8FB
-q: Avogadro **number** ($$N_0$$) is equal to ==$$6.02214076 \times 10^23$$==.
+q: Avogadro **number** ($N_0$) is equal to ==$6.02214076 \times 10^{23}$==.
 
 // @id 01M4BWQCJFZ967M0B1R83NX807
-q: ==Avogadro **constant** ($$N_A$$)== is equal to $$6.02214076 \times 10^23 mol^{-1}$$.
+q: ==Avogadro **constant** ($N_A$)== is equal to $6.02214076 \times 10^{23} mol^{-1}$.
 
 // @id 01M4BWQCJFRPNQQYN9YJ1QGSBF model=basic-example
 q: What is the standard atomic weight of a chemical element?
-a: It is the weighted arithmetic mean of the relative isotopic masses of all isotopes of that element weighted by each isotope's abundance on Earth. It is represented by symbol $$A_{r}^{°}(E)$$ for element "E".
+a: It is the weighted arithmetic mean of the relative isotopic masses of all isotopes of that element weighted by each isotope's abundance on Earth. It is represented by symbol $A_{r}^{°}(E)$ for element "E".
 
 // @id 01M4BWQCJFNWMZ6YK8CRW7NZV9
 q: ==Molar mass== is the mass of 1 mole of a substance, expressed in grams per mole (g/mol).
