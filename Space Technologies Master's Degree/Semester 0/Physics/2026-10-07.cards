@@ -1,1 +1,33 @@
+q: How many SI base units of measurement are and what are they?
+a: There are 7: time, length, mass, eletric current, thermodynamic temperature, amount of substance, luminous intensity.
 [image:media/si-units.svg]
+
+q: What is the name of the **time** SI base unit?
+a: Second (s)
+[image:media/si-units.svg]
+
+q: What is the name of the **length** SI base unit?
+a: Metre (m)
+[image:media/si-units.svg]
+
+q: What is the name of the **mass** SI base unit?
+a: Kilogram (kg)
+[image:media/si-units.svg]
+
+q: What is the name of the **electric current** SI base unit?
+a: Ampere (A)
+[image:media/si-units.svg]
+
+q: What is the name of the **thermodynamic temperature** SI base unit?
+a: Kelvin (K)
+[image:media/si-units.svg]
+
+q: What is the name of the **amount of substance** SI base unit?
+a: Mole (mol)
+[image:media/si-units.svg]
+
+q: What is the name of the **luminous intensity** SI base unit?
+a: Candela (cd)
+[image:media/si-units.svg]
+
+q: ==Dimensional analysis== is the method of tracking how base physical dimensions (length L, mass M, time T, temperature Θ, etc.) appear in equations and calculations, to check consistency, convert units, and derive relationships between quantities.
