@@ -2,6 +2,7 @@
 q: The ==ampere (symbol: A, often shortened to amp)== is the standard unit of electric current. An electric current of one unit is one coulomb per second.
 e: The amp is named after André-Marie Ampère who studied electromagnetism.
 
+// @id 01M4BWQCJF51D1ZYPNHZYWQS3F model=basic-example
 q: What does the ampere (A) unit and one of it represent?
 a: An electric current of one ampere is one coulomb per second.
 
@@ -9,6 +10,7 @@ a: An electric current of one ampere is one coulomb per second.
 q: The ==coulomb (symbol: C)== is the SI unit of electric charge. It is defined to be equal to the electric charge delivered by a 1 ampere current in 1 second.
 e: It is named after Charles-Augustin de Coulomb.
 
+// @id 01M4BWQCJFZHVSQTJXKTYS19VX model=basic-example
 q: What does the coulomb (C) unit and one of it represent?
 a: An electric charge defined to be equal to the electric charge delivered by a 1 ampere current in 1 second.
 
@@ -16,6 +18,7 @@ a: An electric charge defined to be equal to the electric charge delivered by a 
 q: The ==volt (symbol: V)== is the SI derived unit of electric potential difference or electromotive force (also known as voltage). It is defined as the potential difference across a conductor when a current of one ampere dissipates one watt of power.
 e: It is named in honor of the Italian physicist Alessandro Volta.
 
+// @id 01M4BWQCJFRRYN9HCMXCFF4P3C model=basic-example
 q: What does the volt (V) unit and one of it represent?
 a: An electric potential difference or electromotive force defined as the potential difference across a conductor when a current of one ampere dissipates one watt of power.
 
@@ -23,6 +26,7 @@ a: An electric potential difference or electromotive force defined as the potent
 q: The ==ohm (symbol: Ω)== is the unit of electrical resistance. It is defined as an electrical resistance between two points of a conductor when a constant potential difference of one volt (V), applied to these points, produces in the conductor a current of one ampere (A), the conductor not being the seat of any electromotive force.
 e: It is named after German physicist Georg Ohm (1789–1854).
 
+// @id 01M4BWQCJFFTARKB94Z22QAKND model=basic-example
 q: What does the ohm (Ω unit and one of it represent?
 a: Electrical resistance between two points of a conductor when a constant potential difference of one volt (V), applied to these points, produces in the conductor a current of one ampere (A), the conductor not being the seat of any electromotive force.
 
@@ -30,6 +34,7 @@ a: Electrical resistance between two points of a conductor when a constant poten
 q: The ==henry (symbol: H)== is the unit of inductance. The inductance of an electric circuit is one unit when an electric current that is changing at one ampere per second results in an electromotive force of one volt across the inductor.
 e: It is named after Joseph Henry.
 
+// @id 01M4BWQCJFZ97FA1YC1P6H224Q model=basic-example
 q: What does the henry (H) unit and one of it
 a: The inductance of an electric circuit is one unit when an electric current that is changing at one ampere per second results in an electromotive force of one volt across the inductor.
  represent?
@@ -38,8 +43,10 @@ a: The inductance of an electric circuit is one unit when an electric current th
 q: What is the relation between volt, ampere, and ohm?
 a: $$R = \frac{V}{I}$$
 
+// @id 01M4BWQCJFF535HCDTQ1YD5Z4Y
 q: The ==farad (symbol: F)== is the unit of electrical capacitance, the ability of a body to store an electrical charge, equivalent to 1 coulomb per volt (C/V).
 e: It is named after the English physicist Michael Faraday.
 
+// @id 01M4BWQCJF4RDBG09W6EV83ACP model=basic-example
 q: What does the farad (F) unit and one of it represent?
 a: An electrical capacitance, the ability of a body to store an electrical charge, equivalent to 1 coulomb per volt (C/V).

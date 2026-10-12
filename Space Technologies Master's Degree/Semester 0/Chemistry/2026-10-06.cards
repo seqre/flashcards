@@ -27,13 +27,17 @@ q: The ==mole (symbol mol)== is a unit of measurement for amount of substance.
 q: One ==mole== is amount of substance (atoms, molecules, ions, ion pairs, or other particles). The number of entities in one of it is equal to ==Avogadro number==.
 e: $$1 mol = \frac{N_0}{N_A}$$
 
+// @id 01M4BWQCJFJRHECQ7HNDVSB8FB
 q: Avogadro **number** ($$N_0$$) is equal to ==$$6.02214076 \times 10^23$$==.
 
+// @id 01M4BWQCJFZ967M0B1R83NX807
 q: ==Avogadro **constant** ($$N_A$$)== is equal to $$6.02214076 \times 10^23 mol^{-1}$$.
 
+// @id 01M4BWQCJFRPNQQYN9YJ1QGSBF model=basic-example
 q: What is the standard atomic weight of a chemical element?
 a: It is the weighted arithmetic mean of the relative isotopic masses of all isotopes of that element weighted by each isotope's abundance on Earth. It is represented by symbol $$A_{r}^{°}(E)$$ for element "E".
 
+// @id 01M4BWQCJFNWMZ6YK8CRW7NZV9
 q: ==Molar mass== is the mass of 1 mole of a substance, expressed in grams per mole (g/mol).
 e: For an element, molar mass equals its relative atomic mass from the periodic table.
 For a compound, add up the atomic masses of every atom in the formula.

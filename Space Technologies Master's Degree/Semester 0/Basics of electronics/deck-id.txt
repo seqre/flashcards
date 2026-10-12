@@ -1,2 +1,3 @@
 # ankigen deck ids — keep this file so your Anki decks stay stable across rebuilds
 1879828379	Semester 0::Basics of electronics
+1879828379	Space Technologies Master's Degree::Semester 0::Basics of electronics
