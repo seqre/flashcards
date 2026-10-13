@@ -1,2 +1,2 @@
 # ankigen deck ids — keep this file so your Anki decks stay stable across rebuilds
-2112914538	.::Extra
+2112914538::Extra
