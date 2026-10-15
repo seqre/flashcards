@@ -1,0 +1,9 @@
+q: How are perpendicular, dimensionless unit directions written as?
+a: $$\hat{x}, \hat{y}, \hat{z}$$
+
+q: How to calculate $x$ and $y$ parts of a 2D vector?
+a: $$a_x = a*cos(\theta)$$
+$$a_y = a*sin(\theta)$$
+for $a > 0$ and a counterclockwise angle from positive $x$
+
+// TODO: scalar and cross product

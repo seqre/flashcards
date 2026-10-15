@@ -1,0 +1,5 @@
+q: What is **Kirchhoff's First Law / the Junction Rule / Kirchhoff's Current Law**?
+a: It states that the sum of currents entering a junction equals the sum of currents leaving the same junction. $$\sum{I_{IN}} = \sum{I_{OUT}} = \sum{I} = 0$$
+
+q: What is **Kirchhoff's Second Law / Kirchhoff's Voltage Law**?
+a: It states that the algebraic sum of all potential differences (voltages) around any closed loop in a circuit is zero. $$\sum{V} = 0$$

@@ -1,0 +1,37 @@
+q: ==Degrees of freedom (DOF)== are number of independent parameters needed to define configuration.
+e: Usually composed of translations and rotations.
+
+q: In classical mechanics, a ==kinematic pair== is a connection between two physical objects that imposes constraints on their relative movement.
+
+q: ==Lower kinematic pair== is a pair in which the contact between the two links is a *surface (area contact)*.
+e: Examples: revolute, prismatic, screw, cylindrical, spherical, and planar pairs.
+[image:media/kinematic-pairs.gif]
+
+q: ==Higher kinematic pair== is a pair in which the contact between the two links is *a point or a line*.
+e: Examples: cam and follower, meshing gear teeth, a wheel rolling on a rail.
+[image:media/kinematic-pairs.gif]
+
+q: What is **Gruebler’s Equation** for planar mechanisms?
+a: $$M = 3(n-1) - 2j_1 -j_2$$ where:
+$n$ = number of links (including ground)
+$j_1$ = number of lower pairs (1 DOF joints)
+$j_2$ = number of higher pairs (2 DOF joints)
+
+q: What is **Gruebler–Kutzbach Criterion** for spatial (3D) mechanisms?
+a: $$m = 6(n-1) - 5j_1 - 4j_2 - 3j_3 - 2j_4 - j_5$$ where:
+$n$ = number of links (including ground)
+$j_k$ = number of joints with $k$ DOF
+
+q: What ways there are to transmit **rotary motion**?
+a: - direct rotation (revolute joints, shafts in bearings)
+- motion conversion (slider-crank, screw-nut, cams)
+- gear trains (spur, bevel, planetary)
+- belt and chain drives
+- external drives (electric motors, turbines, engines)
+- elastic and gravitational systems (torsional springs, pendulums)
+
+q: What ways there are to transmit **translatory motion**?
+a: - direct translation (prismatic joints, sliders in guides)
+- motion conversion (rack-and-pinion, screw-nut, cams)
+- linkage & Tendon Mechanisms (lever systems, slider-crank with coupler, pantographs)
+- external actuators (hydraulic/pneumatic cylinders, linear motors)
