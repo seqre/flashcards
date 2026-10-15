@@ -41,3 +41,39 @@ a: It is the weighted arithmetic mean of the relative isotopic masses of all iso
 q: ==Molar mass== is the mass of 1 mole of a substance, expressed in grams per mole (g/mol).
 e: For an element, molar mass equals its relative atomic mass from the periodic table.
 For a compound, add up the atomic masses of every atom in the formula.
+
+// @id 01M4VB16T8AY3MKJTKWYJET0RR model=basic-example
+q: What was **Thomson model of atom** like?
+a: Thomson's model (the "Plum Pudding Model") pictured the atom as a uniform sphere of positive charge with negatively charged electrons embedded throughout it, much like plums scattered in a pudding or blueberries in a muffin.
+
+// @id 01M4VB16T8P52J5P2FKCS3341E model=basic-example
+q: What was **Rutherford experiment** about?
+a: The Rutherford scattering experiment (1908–1911) was a series of experiments by physicist Ernest Rutherford that proved atoms contain a small, dense, positively charged nucleus at their center.
+
+// @id 01M4VB16T8MMGCWEY0N31ZR2SE model=basic-example
+q: What was **Rutherford model of atom** like?
+a: The Rutherford model (1911) pictured the atom as a tiny, dense, positively charged nucleus at its center, with negatively charged electrons orbiting it at a distance — like planets around the Sun (hence the nickname **"planetary model"**).
+
+// @id 01M4VB16T8VZRKJK9AQ2BD8WCT model=basic-example
+q: What is $\hbar$?
+a: It is the reduced Planck constant, defined as $$\hbar = \frac{h}{2\pi}$$
+
+// @id 01M4VB16T8ET0JGKBT9RVF1M54
+q: What was **Bohr atomic model** like?
+a: The Bohr model is an obsolete atomic theory proposed by Niels Bohr in 1913 that depicts the atom as a small, positively charged nucleus surrounded by electrons traveling in **discrete, circular orbits**.
+e: $$m_e * v * r = n * \hbar$$
+
+// @id 01M4VB16T8SQJGFXECZM0VA485 model=basic-example
+q: What is **wave-particle duality**?
+a: Wave-particle duality is the quantum-mechanical principle that fundamental entities—photons, electrons, and even larger matter—exhibit both wave-like and particle-like properties depending on how they are measured. Wave and particle are complementary descriptions of the same underlying phenomenon.
+
+// @id 01M4VB16T8W0TS3M2427TD96B8
+q: Explain the **de Broglie wavelength equation**
+a: It is the central wave–particle duality relation, stating that any particle of momentum $p$ has an associated wavelength $\lambda$.
+$$\lambda = \frac{h}{p}$$
+e: $h$ - Planck's constant
+
+// @id 01M4VB16T8YYERN41V0FXAJTVA model=basic-example
+q: Explain the **uncertainty principle**
+a: The uncertainty principle (Heisenberg, 1927) states that certain pairs of physical properties—most famously position and momentum—cannot both be known to arbitrary precision simultaneously.
+$$\Delta x \Delta p \geq \hbar / 2$$
