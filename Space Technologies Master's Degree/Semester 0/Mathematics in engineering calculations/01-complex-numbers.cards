@@ -1,0 +1,7 @@
+q: Complex numbers are defined as..
+a: $$\mathbb{C} = \left\{a + ib: a,b \in \mathbb{R}\right\}$$
+
+q: In mathematics, the ==complex conjugate ($\bar{z}$) of a complex number ($z$)== is the number with an equal real part and an imaginary part equal in magnitude but with opposite sign.
+e: $$\bar{z} = a-ib$$ [image:media/complex-conjugate.svg]
+
+q: In mathematics, the ==reciprocal (or multiplicative inverse)== of a number is 1 divided by the number.
