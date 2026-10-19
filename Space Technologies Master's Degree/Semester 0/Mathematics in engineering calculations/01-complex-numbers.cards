@@ -5,3 +5,19 @@ q: In mathematics, the ==complex conjugate ($\bar{z}$) of a complex number ($z$)
 e: $$\bar{z} = a-ib$$ [image:media/complex-conjugate.svg]
 
 q: In mathematics, the ==reciprocal (or multiplicative inverse)== of a number is 1 divided by the number.
+
+q: The modulus (absolute value) of a complex number ($z = x+yi$) is defined as..
+a: $$\left| z \right| = \sqrt{x^2 + y^2}$$
+
+q: The polar form of complex number is defined as..
+a: $$z=(x,y)=(r\cos{\varphi}, r\sin{\varphi})$$
+
+q: In mathematics (particularly in complex analysis), the ==argument of a complex number $z$, denoted $arg(z)$==, is the angle between the positive real axis and the line joining the origin and $z$.
+e: [image:media/complex-conjugate.svg]
+
+q: How does Euler's formula look like?
+a: $$e^{ix}=\cos{x}+i\sin{x}$$
+e: [image:media/eulers-formula.svg]
+
+q: Exponential representation of complex number is defined as..
+a: $$z=\left|z\right| e^{i\varphi}$$

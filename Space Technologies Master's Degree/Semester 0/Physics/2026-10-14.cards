@@ -6,4 +6,15 @@ a: $$a_x = a*cos(\theta)$$
 $$a_y = a*sin(\theta)$$
 for $a > 0$ and a counterclockwise angle from positive $x$
 
-// TODO: scalar and cross product
+q: In mathematics, the ==scalar/dot product== is an algebraic operation that takes two equal-length sequences of numbers (usually coordinate vectors), and returns a single number.
+
+q: How is **scalar/dot product** calculated?
+a: Algebraically: $a\circ b = \sum_{i}^{}{a_i b_i}$
+Geomeetrically: $a\circ b = |a||b|\cos{\varphi}$
+e: Positive result → vectors point in roughly the same direction; negative → opposite; zero → perpendicular (orthogonal) 
+
+q: The ==cross product== is a mathematical operation which can be done between two three-dimensional vectors and results in a vector that is always perpendicular (it makes a corner-shaped angle) to both of the vectors.
+e: [image:media/cross-product.svg]
+
+q: Magnitude of the **cross product** of vectors is equal..
+a: $$\left| \vec{a} \times \vec{b} \right| = |\vec{a}| |\vec{b}| \sin{\varphi}$$

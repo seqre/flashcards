@@ -1,0 +1,10 @@
+q: ==Sine== is defined as the ratio of the ==side opposite to the hypotenuse==.
+e: $$\sin{A} = \frac{a}{h}$$ [image:media/trigonometry-triangle.svg]
+
+q: ==Cosine== is defined as the ratio of the ==adjacent leg (the side of the triangle joining the angle to the right angle) to the hypotenuse==.
+e: $$\cos{A} = \frac{b}{h}$$ [image:media/trigonometry-triangle.svg]
+
+q: ==Tangent== is defined as the ratio of the ==opposite leg to the adjacent leg==.
+e: $$\tan{A} = \frac{a}{b}$$ [image:media/trigonometry-triangle.svg]
+
+// TODO: trigonometry functions values

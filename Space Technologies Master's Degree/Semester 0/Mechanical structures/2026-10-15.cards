@@ -1,5 +1,5 @@
-// joint space: angles
-// task space: meters
-// forward kinematics: join -> task
-// inverse kinematics: task -> join
+// TODO: joint space: angles
+// TODO: task space: meters
+// TODO: forward kinematics: join -> task
+// TODO: inverse kinematics: task -> join
 
