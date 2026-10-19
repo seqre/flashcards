@@ -2,14 +2,14 @@
 q: What are some of NASA spin-offs?
 a: Memory foam, water purification/filtration, freeze-dried food, and scratch-resistant lens coatings.
 
-// @id 01KXGY9DKZR5PY6CWW9SNGKQWP
+// @id 01KXGY9DKZR5PY6CWW9SNGKQWP model=cloze
 q: NASA’s ==Technology Transfer== program ensures that technologies developed for missions in exploration and discovery are broadly available to the public, maximizing the benefit to the nation. 
 
-// @id 01KXGY9DKZFKZHF4FQ76YH212H
+// @id 01KXGY9DKZFKZHF4FQ76YH212H model=cloze
 q: ==Lunar regolith== is the unconsolidated material found on the surface of the Moon.
 e: Lunar regolith is primarily the result of mechanical weathering. Continual meteoric impacts and bombardment by solar and interstellar charged atomic particles of the lunar surface over billions of years have ground the basaltic and anorthositic rock, the regolith of the Moon, into progressively finer material.
 
-// @id 01KXGY9DKZ47R2S1FGCRFK17PP
+// @id 01KXGY9DKZ47R2S1FGCRFK17PP model=cloze
 q: ==Lunar soil== typically refers to only the finer fraction of lunar regolith, which is composed of grains 1 cm in diameter or less, but is often used interchangeably. It differs substantially in properties from terrestrial soil. ==Lunar dust== is even finer regolith than lunar soil, with grain sizes less than thirty micrometers.
 
 // @id 01KXGY9DKZMS8NG6ZDA4CX4RZJ model=basic-example
@@ -20,13 +20,13 @@ a: Building blocks, oxygen&water extraction, growing soil, heat/energy storage, 
 q: What are the major challenges for building a base on lunar south pole?
 a: Sun being low on horizon hindering heating and power systems, rugged terrain, extreme temperatures, and lunar dust being highly abrasive.
 
-// @id 01KXGY9DKZ0724F31CE8VT7FV1
+// @id 01KXGY9DKZ0724F31CE8VT7FV1 model=cloze
 q: In chemistry and manufacturing, ==electrolysis== is a technique that uses direct electric current (DC) to drive an otherwise non-spontaneous chemical reaction.
 
-// @id 01KXGY9DKZWHWQ0VHXK7EJZM5R
+// @id 01KXGY9DKZWHWQ0VHXK7EJZM5R model=cloze
 q: The ==Mars Oxygen In-Situ Resource Utilization Experiment (MOXIE)== was a technology demonstration on the NASA Mars 2020 rover Perseverance investigating the production of oxygen on Mars. On April 20, 2021, it produced oxygen from carbon dioxide in the Martian atmosphere by using solid oxide electrolysis.
 
-// @id 01KXGY9DKZHKRS65GYJSQTTRTQ
+// @id 01KXGY9DKZHKRS65GYJSQTTRTQ model=cloze
 q: The ==Commercial LEO Destinations program (CLD) / Commercial Destinations in Low Earth Orbit / Commercial low Earth orbit (LEO) Development Program ==is a public/private partnership program of NASA to help facilitate the building of private commercial space stations in low Earth orbit.
 
 // @id 01KXGY9DKZBCS7GTGPB3BAEA4A model=basic-example

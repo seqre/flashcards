@@ -3,23 +3,23 @@ q: What is **Hohmann transfer orbit**?
 a: An orbital maneuver used to transfer a spacecraft between two orbits of different altitudes around a central body. The transfer requires two engine burns (impulses). The first burn places the spacecraft into an elliptical transfer orbit, and the second circularizes the orbit upon reaching the target altitude.
 [image:Hohmann transfer orbit:media/hohmann-transfer-orbit.png]
 
-// @id 01KVBKW8MTT50JB4JZ7JCHMDT0
+// @id 01KVBKW8MTT50JB4JZ7JCHMDT0 model=cloze
 q: An orbit which traverses less than 180° around the primary is called a ==Type I== transfer trajectory.
 
-// @id 01KVBKW8MTYHDSTVH4985RRWYF
+// @id 01KVBKW8MTYHDSTVH4985RRWYF model=cloze
 q: An orbit which traverses more than 180° around the primary is called a ==Type II== transfer trajectory.
 
 // @id 01KVBSNNCRFP0CW0M54K2X2TZQ model=basic
 q: What is **bi-elliptic transfer**?
 a: An orbital maneuver that moves a spacecraft from one orbit to another and may, in certain situations, require less delta-v than a Hohmann transfer maneuver. From the initial orbit, a first burn boosts the spacecraft into the first transfer orbit with an apoapsis at some point $r_b$ away from the central body. At this point a second burn sends the spacecraft into the second elliptical orbit with periapsis at the radius of the final desired orbit, where a third burn is performed, injecting the spacecraft into the desired orbit.
 
-// @id 01KVBSNNCR65YHEM4AW84SSYHX
+// @id 01KVBSNNCR65YHEM4AW84SSYHX model=cloze
 q: Despite requiring one more engine burn than a Hohmann transfer and generally requiring a greater travel time, some bi-elliptic transfers require a lower amount of total delta-v than a Hohmann transfer when the ratio of final to initial semi-major axis is ==11.94 or greater==, depending on the intermediate semi-major axis chosen.
 
-// @id 01KVBSNNCRC59PVYADXVYJ1K52
+// @id 01KVBSNNCRC59PVYADXVYJ1K52 model=cloze
 q: Prograde or direct motion is motion in the ==same== direction as the primary rotates or direction of your own velocity vector.
 
-// @id 01KVBSNNCRQY33PHD6EGRTRHBN
+// @id 01KVBSNNCRQY33PHD6EGRTRHBN model=cloze
 q: Retrograde motion is motion in the ==opposite== direction as the primary rotates or your own velocity vector.
 
 // @id 01KVBSNNCRY26FDEB1HC5VYJYC model=basic
@@ -30,11 +30,11 @@ a: A term used in physics and engineering to represent the change in velocity of
 q: What is the **classical rocket equation / Tsiolkovsky rocket equation / ideal rocket equation**?
 a: It is a mathematical equation that describes the motion of vehicles that follow the basic principle of a rocket: a device that can apply acceleration to itself using thrust by expelling part of its mass with high velocity and can thereby move due to the conservation of momentum.
 
-// @id 01KVBSNNCR7S3B67PNP59Q6QR2
+// @id 01KVBSNNCR7S3B67PNP59Q6QR2 model=cloze
 q: In aerospace engineering, the propellant ==mass fraction== is the portion of a vehicle's mass which does not reach the destination and is instead burned as propellant, usually used as a measure of the vehicle's performance.
 e: The same goes for payload fraction, which is the fraction of initial weight that is payload.
 
-// @id 01KVBSNNCRKXPEE2FAHTJAHYQD
+// @id 01KVBSNNCRKXPEE2FAHTJAHYQD model=cloze
 q: In astrodynamics and aerospace, a ==delta-v budget== is an estimate of the total change in velocity (delta-v) required for a space mission. It is calculated as the sum of the delta-v required to perform each propulsive maneuver needed during the mission.
 
 // @id 01KVBSNNCR5Z6NK1B7XB6GT845 model=basic

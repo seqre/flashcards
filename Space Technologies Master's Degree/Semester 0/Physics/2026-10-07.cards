@@ -38,5 +38,5 @@ q: What is the name of the **luminous intensity** SI base unit?
 a: Candela (cd)
 [image:media/si-units.svg]
 
-// @id 01M4RYJQMNNSK4H1ZXFF6S2TJJ
+// @id 01M4RYJQMNNSK4H1ZXFF6S2TJJ model=cloze
 q: ==Dimensional analysis== is the method of tracking how base physical dimensions (length L, mass M, time T, temperature Θ, etc.) appear in equations and calculations, to check consistency, convert units, and derive relationships between quantities.

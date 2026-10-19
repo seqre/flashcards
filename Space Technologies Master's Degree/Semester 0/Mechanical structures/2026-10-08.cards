@@ -1,27 +1,34 @@
+// @id 01M5AVRFY337M60R5KHR685CZ7 model=cloze
 q: ==Degrees of freedom (DOF)== are number of independent parameters needed to define configuration.
 e: Usually composed of translations and rotations.
 
+// @id 01M5AVRFY3G0QD5ZMYNZHV7R74 model=cloze
 q: In classical mechanics, a ==kinematic pair== is a connection between two physical objects that imposes constraints on their relative movement.
 
+// @id 01M5AVRFY3BBYRVJXPF2DQ48QG model=cloze
 q: ==Lower kinematic pair== is a pair in which the contact between the two links is a *surface (area contact)*.
 e: Examples: revolute, prismatic, screw, cylindrical, spherical, and planar pairs.
 [image:media/kinematic-pairs.gif]
 
+// @id 01M5AVRFY3AGQX22H1Q345Z3F8 model=cloze
 q: ==Higher kinematic pair== is a pair in which the contact between the two links is *a point or a line*.
 e: Examples: cam and follower, meshing gear teeth, a wheel rolling on a rail.
 [image:media/kinematic-pairs.gif]
 
+// @id 01M5AVRFY3QVX6DYY058FZGYSP model=basic-example
 q: What is **Gruebler’s Equation** for planar mechanisms?
 a: $$M = 3(n-1) - 2j_1 -j_2$$ where:
 $n$ = number of links (including ground)
 $j_1$ = number of lower pairs (1 DOF joints)
 $j_2$ = number of higher pairs (2 DOF joints)
 
+// @id 01M5AVRFY342GEDPYQN673Z7EB model=basic-example
 q: What is **Gruebler–Kutzbach Criterion** for spatial (3D) mechanisms?
 a: $$m = 6(n-1) - 5j_1 - 4j_2 - 3j_3 - 2j_4 - j_5$$ where:
 $n$ = number of links (including ground)
 $j_k$ = number of joints with $k$ DOF
 
+// @id 01M5AVRFY32K67GHJ7A4FEWZ5F model=basic-example
 q: What ways there are to transmit **rotary motion**?
 a: - direct rotation (revolute joints, shafts in bearings)
 - motion conversion (slider-crank, screw-nut, cams)
@@ -30,6 +37,7 @@ a: - direct rotation (revolute joints, shafts in bearings)
 - external drives (electric motors, turbines, engines)
 - elastic and gravitational systems (torsional springs, pendulums)
 
+// @id 01M5AVRFY33ETD2ZZW9TTKCJ3H model=basic-example
 q: What ways there are to transmit **translatory motion**?
 a: - direct translation (prismatic joints, sliders in guides)
 - motion conversion (rack-and-pinion, screw-nut, cams)

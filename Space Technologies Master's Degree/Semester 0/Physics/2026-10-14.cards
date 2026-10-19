@@ -1,20 +1,26 @@
+// @id 01M5AVRFY3J102NS313WYYYDRA model=basic-example
 q: How are perpendicular, dimensionless unit directions written as?
 a: $$\hat{x}, \hat{y}, \hat{z}$$
 
+// @id 01M5AVRFY3HD0C0ZDZ03SS4XC5 model=basic-example
 q: How to calculate $x$ and $y$ parts of a 2D vector?
 a: $$a_x = a*cos(\theta)$$
 $$a_y = a*sin(\theta)$$
 for $a > 0$ and a counterclockwise angle from positive $x$
 
+// @id 01M5AVRFY3JS9FJAB57PQPNBE0 model=cloze
 q: In mathematics, the ==scalar/dot product== is an algebraic operation that takes two equal-length sequences of numbers (usually coordinate vectors), and returns a single number.
 
+// @id 01M5AVRFY3XCWHZQW3Z2QAJ5NH model=basic-example
 q: How is **scalar/dot product** calculated?
 a: Algebraically: $a\circ b = \sum_{i}^{}{a_i b_i}$
 Geomeetrically: $a\circ b = |a||b|\cos{\varphi}$
 e: Positive result → vectors point in roughly the same direction; negative → opposite; zero → perpendicular (orthogonal) 
 
+// @id 01M5AVRFY3YVTWTVSJC2NB1W4F model=cloze
 q: The ==cross product== is a mathematical operation which can be done between two three-dimensional vectors and results in a vector that is always perpendicular (it makes a corner-shaped angle) to both of the vectors.
 e: [image:media/cross-product.svg]
 
+// @id 01M5AVRFY3S5QBYQBX08GVZGQA model=basic-example
 q: Magnitude of the **cross product** of vectors is equal..
 a: $$\left| \vec{a} \times \vec{b} \right| = |\vec{a}| |\vec{b}| \sin{\varphi}$$

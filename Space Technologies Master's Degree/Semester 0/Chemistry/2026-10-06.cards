@@ -1,4 +1,4 @@
-// @id 01M49AZX6SQFN57TX1W02SNNDK
+// @id 01M49AZX6SQFN57TX1W02SNNDK model=cloze
 q: ==Chemical element== is a substance composed of atoms with the same number of protons in the atomic nucleus.
 
 // @id 01M49AZX6S0Z5SGA1M4T3H1V1J model=basic-example
@@ -13,31 +13,31 @@ a: When two elements react to form more than one compound, a fixed mass of one e
 q: What is **Avogadro's law**?
 a: Under the same conditions of pressure and temperature, the same volumes of different gases contain the same numbers of molecules.
 
-// @id 01M49AZX6STJ1V0JS77M68G1YF
+// @id 01M49AZX6STJ1V0JS77M68G1YF model=cloze
 q: ==Atomic mass== is the mass of a single atom of an element, expressed in atomic mass units (u), and is approximately equal to the sum of its protons and neutrons.
 
-// @id 01M49AZX6S5T61JQ754TCYQ6ND
+// @id 01M49AZX6S5T61JQ754TCYQ6ND model=cloze
 q: The ==dalton (symbol: Da) or unified atomic mass unit (symbol: u)== is a unit of mass defined as $\frac{1}{12}$ of the mass of an unbound neutral atom of carbon-12 in its nuclear and electronic ground state and at rest.
 e: $$1u = \frac{1}{12} \times mass of \prescript{12}{6}{\mathbf{C}}$$
 
-// @id 01M49AZX6SA4NDCSS8PH187RZ2
+// @id 01M49AZX6SA4NDCSS8PH187RZ2 model=cloze
 q: The ==mole (symbol mol)== is a unit of measurement for amount of substance.
 
-// @id 01M49AZX6SM8SRAQMXZNYSMPWZ
+// @id 01M49AZX6SM8SRAQMXZNYSMPWZ model=cloze
 q: One ==mole== is amount of substance (atoms, molecules, ions, ion pairs, or other particles). The number of entities in one of it is equal to ==Avogadro number==.
 e: $$1 mol = \frac{N_0}{N_A}$$
 
-// @id 01M4BWQCJFJRHECQ7HNDVSB8FB
+// @id 01M4BWQCJFJRHECQ7HNDVSB8FB model=cloze
 q: Avogadro **number** ($N_0$) is equal to ==$6.02214076 \times 10^{23}$==.
 
-// @id 01M4BWQCJFZ967M0B1R83NX807
+// @id 01M4BWQCJFZ967M0B1R83NX807 model=cloze
 q: ==Avogadro **constant** ($N_A$)== is equal to $6.02214076 \times 10^{23} mol^{-1}$.
 
 // @id 01M4BWQCJFRPNQQYN9YJ1QGSBF model=basic-example
 q: What is the standard atomic weight of a chemical element?
 a: It is the weighted arithmetic mean of the relative isotopic masses of all isotopes of that element weighted by each isotope's abundance on Earth. It is represented by symbol $A_{r}^{°}(E)$ for element "E".
 
-// @id 01M4BWQCJFNWMZ6YK8CRW7NZV9
+// @id 01M4BWQCJFNWMZ6YK8CRW7NZV9 model=cloze
 q: ==Molar mass== is the mass of 1 mole of a substance, expressed in grams per mole (g/mol).
 e: For an element, molar mass equals its relative atomic mass from the periodic table.
 For a compound, add up the atomic masses of every atom in the formula.
@@ -58,7 +58,7 @@ a: The Rutherford model (1911) pictured the atom as a tiny, dense, positively ch
 q: What is $\hbar$?
 a: It is the reduced Planck constant, defined as $$\hbar = \frac{h}{2\pi}$$
 
-// @id 01M4VB16T8ET0JGKBT9RVF1M54
+// @id 01M4VB16T8ET0JGKBT9RVF1M54 model=basic-example
 q: What was **Bohr atomic model** like?
 a: The Bohr model is an obsolete atomic theory proposed by Niels Bohr in 1913 that depicts the atom as a small, positively charged nucleus surrounded by electrons traveling in **discrete, circular orbits**.
 e: $$m_e * v * r = n * \hbar$$
@@ -67,7 +67,7 @@ e: $$m_e * v * r = n * \hbar$$
 q: What is **wave-particle duality**?
 a: Wave-particle duality is the quantum-mechanical principle that fundamental entities—photons, electrons, and even larger matter—exhibit both wave-like and particle-like properties depending on how they are measured. Wave and particle are complementary descriptions of the same underlying phenomenon.
 
-// @id 01M4VB16T8W0TS3M2427TD96B8
+// @id 01M4VB16T8W0TS3M2427TD96B8 model=basic-example
 q: Explain the **de Broglie wavelength equation**
 a: It is the central wave–particle duality relation, stating that any particle of momentum $p$ has an associated wavelength $\lambda$.
 $$\lambda = \frac{h}{p}$$

@@ -1,23 +1,23 @@
-// @id 01KW06Q47PHTQRCW0W59N5A5WM
+// @id 01KW06Q47PHTQRCW0W59N5A5WM model=cloze
 q: A ==flyby== is a spaceflight operation in which a spacecraft passes near another body, which is usually a target of the space exploration mission and may also be a source of a gravity assist to impel it towards another target in a swing-by.
 e: They must have the capability of using their instruments to observe targets they pass. Ideally, their optical instruments can pan to compensate for the target's apparent motion in the instruments' field of view. They must downlink data to Earth, storing data onboard during the periods when their antennas are off Earthpoint. They must be able to survive long periods of interplanetary cruise. Flyby spacecraft may be designed to be stabilized in 3 axes using thrusters or reaction wheels, or to spin continuously for stabilization.
 
-// @id 01KW06Q47PA76K9GMQBZBAPARF
+// @id 01KW06Q47PA76K9GMQBZBAPARF model=cloze
 q: An ==orbiter== is a spaceflight operation in which a spacecraft enters orbit around another body to study it over time.
 e: It must carry a substantial propulsive capability to decelerate it at the right moment, to achieve orbit insertion. It has to be designed to live with the fact that solar occultations will occur, wherein the planet shadows the spacecraft, cutting off any solar panels' production of electrical power and subjecting the vehicle to extreme thermal variation.
 
-// @id 01KW06Q47PYTERJTD3DPH6TA0K
+// @id 01KW06Q47PYTERJTD3DPH6TA0K model=cloze
 q: A ==lander== is a spaceflight operation in which a spacecraft touches down on a planetary surface to perform in-situ science and relay the information back.
 e: Lander adds the entry, descent, and landing problem — surviving atmospheric heating (if there's an atmosphere) and touching down softly without crashing, all autonomously because of comms delay.
 
-// @id 01KW06Q47PMDGBQEMVBV5DT0H9
+// @id 01KW06Q47PMDGBQEMVBV5DT0H9 model=cloze
 q: A ==rover== is a spaceflight operation in which a spacecraft lands on a planetary surface and then traverses and explores it semi-autonomously under remote control.
 e: Rover craft need to be semi-autonomous. While they are steerable from Earth, the delay inherent to radio communications between Earth and Mars means they must be able to make at least some decisions on their own as they move.
 
-// @id 01KW06Q47P16FN3226VP85ANCM
+// @id 01KW06Q47P16FN3226VP85ANCM model=cloze
 q: A ==sample return== is a spaceflight operation in which a spacecraft touches down on a planetary surface, collects, and returns extraterrestrial material to Earth.
 
-// @id 01KW06Q47P3ZH62A7YBNQ4BQTM
+// @id 01KW06Q47P3ZH62A7YBNQ4BQTM model=cloze
 q: The ==Entry, Descent, and Landing (EDL)== phase of a scientific mission to a planetary body involving atmospheric flight is critical because the spacecraft must survive the extreme environment it encounters as it traverses the atmosphere. The spacecraft enters and transits a planetary atmosphere, decelerates, and touches down onto the planetary surface.
 e: The EDL sequence is often regarded to be among the riskiest parts of the mission because there is little to no opportunity to take corrective action if a problem or anomaly is encountered.
 
@@ -33,12 +33,12 @@ a: Descent begins with deployment of a dedicated deceleration system. The transi
 q: What happens during **landing** phase of EDL and why it's difficult?
 a: Landing takes place after the vehicle slows to touchdown velocity, chosen for soft and safe landing near the identified destination. Vehicle designs must handle the touchdown loads, velocity, and final orientation to ensure surface operations can proceed after landing.
 
-// @id 01KW06Q47PCTV4DFMH45706KV1
+// @id 01KW06Q47PCTV4DFMH45706KV1 model=cloze
 q: The ==Sojourner== rover was a vehicle that reached Mars on July 4, 1997 as part of the Mars Pathfinder mission. It was the first wheeled vehicle to operate on an astronomical object other than the Earth or Moon.
 e: Sojourner was operational on Mars for 92 sols (95 Earth days).
 [image:media/sojourner.jpg]
 
-// @id 01KW06Q47PYBT0WV378TW4MZVP
+// @id 01KW06Q47PYBT0WV378TW4MZVP model=cloze
 q: NASA's ==Mars Exploration Rover (MER)== mission was a robotic space mission involving two Mars rovers, ==Spirit== and ==Opportunity==, exploring the planet Mars. It began in 2003 with the launch of the two rovers to explore the Martian surface and geology; both landed on Mars at separate locations in January 2004.
 e: Both rovers far outlived their planned missions of 90 Martian solar days: MER-A Spirit was active until March 22, 2010, while MER-B Opportunity was active until June 10, 2018.
 [image:media/MER-twins.png]
@@ -48,7 +48,7 @@ q: What was the objective of the NASA's Mars Exploration Rover (MER) mission?
 a: The mission's scientific objective was to **search for and characterize a wide range of rocks and soils** that hold clues to past water activity on Mars.
 [image:media/MER-twins.png]
 
-// @id 01KW06Q47PJSVB9AQY2WSJ3VN1
+// @id 01KW06Q47PJSVB9AQY2WSJ3VN1 model=cloze
 q: ==Curiosity== is a Mars rover that is exploring ==Gale crater and Mount Sharp== on Mars as part of ==NASA's Mars Science Laboratory (MSL)== mission. Launched in 2011 and landed the following year, the car-sized rover continues to operate more than a decade after its original two-year mission.
 e: [image:media/curiosity.jpg]
 
@@ -57,11 +57,11 @@ q: What was the objective of the NASA's Mars Science Laboratory (MSL) mission?
 a: The overall objectives include **investigating Mars's habitability, studying its climate and geology, and collecting data** for a human mission to Mars.
 e: [image:media/curiosity.jpg]
 
-// @id 01KW06Q47PR491PV6TV9CA8TBS
+// @id 01KW06Q47PR491PV6TV9CA8TBS model=cloze
 q: ==Perseverance== is a NASA rover that has been exploring Mars since February 18, 2021, as part of the Mars 2020 mission. Built and managed by the Jet Propulsion Laboratory, it was launched on July 30, 2020, from Cape Canaveral aboard an Atlas V rocket and landed in ==Jezero Crater==, a site chosen for its ancient river delta that may preserve evidence of past microbial life. 
 e: [image:media/perseverance.jpg]
 
-// @id 01KW06Q47P7SVJ2RKD30NCV4AR
+// @id 01KW06Q47P7SVJ2RKD30NCV4AR model=cloze
 q: ==Ingenuity==, nicknamed Ginny, is an autonomous helicopter that operated on Mars from 2021 to 2024 as part of NASA's Mars 2020 mission.
 e: It made its first flight on 19 April 2021, demonstrating that flight is possible in the extremely thin atmosphere of Mars, and became the first aircraft to conduct a powered and controlled extraterrestrial flight.
 Originally intended to make only five flights, Ingenuity completed 72 flights over the course of nearly three years. On 18 January 2024, the rotor blades were broken during landing on flight 72, permanently grounding the helicopter. 
@@ -71,25 +71,25 @@ Originally intended to make only five flights, Ingenuity completed 72 flights ov
 q: What was the objective of the NASA's Mars 2020 mission?
 a: Perseverance is investigating an astrobiologically relevant ancient environment on Mars for its surface geological processes and history, and assessing its past habitability, the possibility of past life on Mars, and the potential for preservation of biosignatures within accessible geological materials.
 
-// @id 01KW06Q47PGS1MEH0J0WWSCC1C
+// @id 01KW06Q47PGS1MEH0J0WWSCC1C model=cloze
 q: NASA's mantra for exploring Mars is =="follow the water"==.
 
-// @id 01KW06Q47PMCJK9ECHEDMXX84J
+// @id 01KW06Q47PMCJK9ECHEDMXX84J model=cloze
 q: ==Mars Sample Return (MSR)== would be NASA's and ESA’s (European Space Agency) ambitious, multi-mission campaign to bring carefully selected Mars samples to Earth.
 
-// @id 01KW06Q47PAB1A1DW76C253HAQ
+// @id 01KW06Q47PAB1A1DW76C253HAQ model=cloze
 q: The ==Apollo program / Project Apollo==, was the United States human spaceflight program led by NASA, which landed the first humans on the Moon in 1969.
 
-// @id 01KW06Q47PXH2BFXJ20T34XPKP
+// @id 01KW06Q47PXH2BFXJ20T34XPKP model=cloze
 q: The ==Chandrayaan programme / Indian Lunar Exploration Programme== is an ongoing series of outer space missions by Indian Space Research Organisation (ISRO) for the exploration of the Moon. The program incorporates a lunar orbiter, an impactor, a lunar lander and a rover spacecraft.
 
-// @id 01KW06Q47PRWVP65G9SV9VKV0P
+// @id 01KW06Q47PRWVP65G9SV9VKV0P model=cloze
 q: ==Chandrayaan-3== mission consists of Vikram, a lunar lander, and Pragyan, and a lunar rover. It was the first in human history to achieve a soft landing near the lunar ==south pole==. Apart from demonstrating end-to-end capability in safe landing and roving on the lunar surface its scientific goal was to map resources (specifically water).
 
-// @id 01KW06Q47PE14JYN3F19E541G8
+// @id 01KW06Q47PE14JYN3F19E541G8 model=cloze
 q: The ==Artemis== program is a Moon exploration program led by NASA, aimed at returning humans to the Moon for the first time since the Apollo program and building a sustained/long-term presence.
 
-// @id 01KW06Q47PNY3YDY3C88XFDPBW
+// @id 01KW06Q47PNY3YDY3C88XFDPBW model=cloze
 q: The ==Lunar Gateway== was a planned space station that would have been assembled in orbit around the Moon as part of the Artemis program. It was supposed to be a multi-purpose outpost supporting lunar surface missions, science in lunar orbit, and human exploration further into the cosmos.
 e: The ESA stated that, despite cancellation, it expected to continue development of most planned hardware for Gateway.
 
@@ -97,18 +97,18 @@ e: The ESA stated that, despite cancellation, it expected to continue developmen
 q: Why is the lunar south pole the hot real estate?
 a: Permanently shadowed craters there have floors that never see sunlight, so they stay cold enough to trap water ice for billions of years. Water ice is gold for exploration — drinkable water, breathable oxygen, and hydrogen/oxygen rocket propellant, all potentially made on-site instead of hauled from Earth (in-situ resource utilization). The poles also have ridges with near-constant sunlight nearby, good for solar power. So you get ice and power in the same neighborhood.
 
-// @id 01KW06Q47P1QJB90Z795J8ZXSQ
+// @id 01KW06Q47P1QJB90Z795J8ZXSQ model=cloze
 q: ==OSIRIS-REx== is the first U.S. mission to collect a sample from an asteroid. It returned to Earth on Sept. 24, 2023, to drop off a capsule with material from asteroid Bennu.
 e: [image:media/osiris-rex.png]
 
-// @id 01KW06Q47P7Z099N4AST7KPV5E
+// @id 01KW06Q47P7Z099N4AST7KPV5E model=cloze
 q: OSIRIS-REx, after dropping off the sample capsule through Earth's atmosphere, was renamed ==OSIRIS-APEX== and sent on a new mission to explore asteroid Apophis in 2029. 
 
-// @id 01KW06Q47PD31JH8AEQFVTNPAV
+// @id 01KW06Q47PD31JH8AEQFVTNPAV model=cloze
 q: ==Hayabusa2== is a Japanese spacecraft that studied asteroid Ryugu, collected samples, and brought them to Earth for analysis. The spacecraft is on an extended mission to asteroid 1998 KY26.
 e: [image:media/hayabusa2.jpg]
 
-// @id 01KW06Q47PX83KTCQ60SA2Q2FJ
+// @id 01KW06Q47PX83KTCQ60SA2Q2FJ model=cloze
 q: ==Cassini–Huygens==, commonly called Cassini, was a joint space-research mission by NASA, the European Space Agency (ESA), and the Italian Space Agency (ASI) to send a space probe to study the planet Saturn and its system, including its rings and natural satellites.
 e: [image:media/cassini-huygens.jpg]
 
@@ -125,7 +125,7 @@ a: To study:
 q: What did Cassini reveal about Enceladus relevant to the search for life?
 a: Cassini discovered that Enceladus shoots plumes of water vapor and ice geysers from cracks ("tiger stripes") near its south pole, fed by a subsurface liquid water ocean. The plumes contained water, salts, and organic molecules — and signs of hydrothermal activity on the ocean floor. That makes Enceladus one of the most promising spots in the solar system to look for life, because it has the key ingredients: liquid water, organics, and an energy source.
 
-// @id 01KW06Q47P5DWR607WHJFD5W91
+// @id 01KW06Q47P5DWR607WHJFD5W91 model=cloze
 q: ==Juno== is a NASA space probe orbiting the planet Jupiter as part of the New Frontiers program.
 e: [image:media/juno.jpg]
 

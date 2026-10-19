@@ -1,23 +1,31 @@
+// @id 01M5AVRFY3WQRQT33NP337X2VK model=basic-example
 q: Complex numbers are defined as..
 a: $$\mathbb{C} = \left\{a + ib: a,b \in \mathbb{R}\right\}$$
 
+// @id 01M5AVRFY393X61S3M4H6P7ETS model=cloze
 q: In mathematics, the ==complex conjugate ($\bar{z}$) of a complex number ($z$)== is the number with an equal real part and an imaginary part equal in magnitude but with opposite sign.
 e: $$\bar{z} = a-ib$$ [image:media/complex-conjugate.svg]
 
+// @id 01M5AVRFY3GGMHSK5JZ6GGNAVC model=cloze
 q: In mathematics, the ==reciprocal (or multiplicative inverse)== of a number is 1 divided by the number.
 
+// @id 01M5AVRFY37F4AMPJE36N9FSDF model=basic-example
 q: The modulus (absolute value) of a complex number ($z = x+yi$) is defined as..
 a: $$\left| z \right| = \sqrt{x^2 + y^2}$$
 
+// @id 01M5AVRFY3WK5PEAGWBKS4YEE8 model=basic-example
 q: The polar form of complex number is defined as..
 a: $$z=(x,y)=(r\cos{\varphi}, r\sin{\varphi})$$
 
+// @id 01M5AVRFY3W3MNKP7J2V17SB2W model=cloze
 q: In mathematics (particularly in complex analysis), the ==argument of a complex number $z$, denoted $arg(z)$==, is the angle between the positive real axis and the line joining the origin and $z$.
 e: [image:media/complex-conjugate.svg]
 
+// @id 01M5AVRFY3XBPF5G2XGHXD9QGM model=basic-example
 q: How does Euler's formula look like?
 a: $$e^{ix}=\cos{x}+i\sin{x}$$
 e: [image:media/eulers-formula.svg]
 
+// @id 01M5AVRFY356D74KX8YARNSG69 model=basic-example
 q: Exponential representation of complex number is defined as..
 a: $$z=\left|z\right| e^{i\varphi}$$

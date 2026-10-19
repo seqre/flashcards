@@ -1,9 +1,12 @@
+// @id 01M5AVRFY37876WHYXY8DAVT7Z model=cloze
 q: ==Sine== is defined as the ratio of the ==side opposite to the hypotenuse==.
 e: $$\sin{A} = \frac{a}{h}$$ [image:media/trigonometry-triangle.svg]
 
+// @id 01M5AVRFY3DAZC5A2P8S355EVH model=cloze
 q: ==Cosine== is defined as the ratio of the ==adjacent leg (the side of the triangle joining the angle to the right angle) to the hypotenuse==.
 e: $$\cos{A} = \frac{b}{h}$$ [image:media/trigonometry-triangle.svg]
 
+// @id 01M5AVRFY3X9MEZDS2XHKD6GTR model=cloze
 q: ==Tangent== is defined as the ratio of the ==opposite leg to the adjacent leg==.
 e: $$\tan{A} = \frac{a}{b}$$ [image:media/trigonometry-triangle.svg]
 

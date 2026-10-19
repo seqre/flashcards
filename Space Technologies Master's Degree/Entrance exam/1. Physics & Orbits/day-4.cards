@@ -10,7 +10,7 @@ a: A theoretical condition in which gravity is predicted to be so intense that s
 q: What is a **black hole**?
 a: An astronomical body so compact that its gravity prevents anything, including light, from escaping.
 
-// @id 01KVE4JMVMPS7E37Q7686YXB6B
+// @id 01KVE4JMVMPS7E37Q7686YXB6B model=cloze
 q: ==Outgassing== is the release of a gas that was dissolved, trapped, frozen, or absorbed in some material. It can include sublimation and evaporation, as well as desorption, seepage from cracks or internal volumes, and gaseous products of slow chemical reactions.
 
 // @id 01KVE4JMVMBCJ6WGYNG5B8GC95 model=basic
@@ -30,33 +30,33 @@ a: In general only by radiation, as conduction and convection both require a mat
 q: How can spacecraft control the temperature?
 a: Passively by adding multi-layer insulation (MLI), coatings, thermal fillers, thermal washers, mirrors, radioisotope heater units, or performing barbecue roll. Actively by adding electric heaters or thermoelectric coolers or by using fluid loops to transfer heat to radiators.
 
-// @id 01KVE4JMVMTBJJR5710H1GB8R0
+// @id 01KVE4JMVMTBJJR5710H1GB8R0 model=cloze
 q: ==Multi-layer insulation (MLI)== is thermal insulation composed of multiple layers of thin sheets and is often used on spacecraft and cryogenics.
 e: Also referred to as superinsulation, MLI is one of the main items of the spacecraft thermal design, primarily intended to reduce heat loss by thermal radiation.
 
-// @id 01KVE4JMVMK060XNDF7257AKRY
+// @id 01KVE4JMVMK060XNDF7257AKRY model=cloze
 q: ==Kapton== is a polyimide film used in flexible printed circuits (flexible electronics) and space blankets, which are used on spacecraft, satellites, and various space instruments.
 
-// @id 01KVE4JMVMHZ5HRSAS325585Q5
+// @id 01KVE4JMVMHZ5HRSAS325585Q5 model=cloze
 q: The ==cosmic microwave background (CMB, CMBR), or relic radiation==, is microwave radiation that fills all space in the observable universe.
 
-// @id 01KVE4JMVMYY013YGRT2QSV5C9
+// @id 01KVE4JMVMYY013YGRT2QSV5C9 model=cloze
 q: The age of the universe is the cosmological time back to the point when the scale factor of the universe extrapolates to zero. The age is about ==13.8 billion years, with the latest models estimating it more precisely as 13.787 billion years==.
 
-// @id 01KVE4JMVMG5WXSSARWZPHGAGK
+// @id 01KVE4JMVMG5WXSSARWZPHGAGK model=cloze
 q: Microgravity's "==residual forces==" are the tiny accelerations that remain even in free fall — atmospheric drag, gravity gradients (tidal effects where different parts of the station feel slightly different pulls), and disturbances from crew movement or thrusters — which is why it's "micro" gravity rather than true zero-g.
 
-// @id 01KVE4JMVMNA5GQPPW0J3YR0VH
+// @id 01KVE4JMVMNA5GQPPW0J3YR0VH model=cloze
 q: Gravity at the ISS is roughly ==90%== of what can be felt on Earth.
 
-// @id 01KVE4JMVMZPESEVWZYKM0X04D
+// @id 01KVE4JMVMZPESEVWZYKM0X04D model=cloze
 q: The three main radiation sources in space are ==Galactic Cosmic Radiation (GCR)==, ==solar energetic particles (SEP)==, and ==Van Allen belts==.
 
 // @id 01KVE4JMVMV8G51SE240BB3211 model=basic
 q: Where does **Galactic Cosmic Radiation (GCR)** come from?
 a:  GCR comes from outside the solar system but primarily from within our Milky Way galaxy. GCR is composed of the nuclei of atoms that have had their surrounding electrons stripped away and are traveling at nearly the speed of light.
 
-// @id 01KVE4JMVM5YAZG2YQB3YVPHVG
+// @id 01KVE4JMVM5YAZG2YQB3YVPHVG model=cloze
 q: Radiation can be either ==non-ionizing (low energy)== or ==ionizing (high energy)==.
 e: Ionizing radiation consists of particles that have enough energy to completely remove an electron from its orbit, thus creating a more positively charged atom. Less energetic, non-ionizing radiation does not have enough energy to remove electrons from the material it crosses.
 
@@ -64,29 +64,29 @@ e: Ionizing radiation consists of particles that have enough energy to completel
 q: Why is **ionizing radiation** dangerous?
 a: Ionizing radiation has the ability to move through substances and alter them as it passes through. When this happens, it ionizes the atoms (knocks electrons out of them) in the surrounding material with which it interacts.
 
-// @id 01KVE4JMVMG5FNEFVG0Z7FWJ01
+// @id 01KVE4JMVMG5FNEFVG0Z7FWJ01 model=cloze
 q: ==Solar energetic particles (SEP), formerly known as solar cosmic rays==, are high-energy, charged particles originating in the solar atmosphere and solar wind. They consist of protons, electrons and heavy ions with energies ranging from a few tens of keV to many GeV.
 
-// @id 01KVE4JMVMJSD02FHNCZYYGKGS
+// @id 01KVE4JMVMJSD02FHNCZYYGKGS model=cloze
 q: Primary cosmic rays are composed mainly of ==protons and alpha particles== (99%), with a small amount of ==heavier nuclei== (≈1%) and an extremely minute proportion of ==positrons and antiprotons==.
 
-// @id 01KVE4JMVMNM1SBKQV304GGYJG
+// @id 01KVE4JMVMNM1SBKQV304GGYJG model=cloze
 q: The Van Allen inner belt contains high concentrations of ==electrons in the range of hundreds of keV and energetic protons with energies exceeding 100 MeV==, while the outer belt consists mainly of ==high-energy (0.1–10 MeV) electrons==.
 
 // @id 01KVE4JMVM9824NBC6X0B94TNW model=basic
 q: What is a **single-event upset (SEU)**?
 a: It is a change of state caused by one single ionizing particle (e.g. ions, electrons, photons) striking a sensitive node in a live micro-electronic device, such as in a microprocessor, semiconductor memory, or power transistors.
 
-// @id 01KVE4JMVMDGHFSX4AGGMGNEE2
+// @id 01KVE4JMVMDGHFSX4AGGMGNEE2 model=cloze
 q: The ==single-event effect (SEE)== is a general class of radiation effects in electronic devices.
 
-// @id 01KVE4JMVM2WSNR7EPE8TXCKDF
+// @id 01KVE4JMVM2WSNR7EPE8TXCKDF model=cloze
 q: ==Total Ionizing Dose (TID)== is the summation of the overall accumulated dose from various sources (electrons, protons, heavy ions, x-rays, gamma rays, etc.)
 
-// @id 01KVE4JMVM16SV5E8PG0B991YK
+// @id 01KVE4JMVM16SV5E8PG0B991YK model=cloze
 q: ==Absorbed dose== is a dose quantity which represents the specific energy (energy per unit mass) deposited by ionizing radiation in living matter.
 
-// @id 01KVE4JMVM7ATQ3YMZC72HFNW8
+// @id 01KVE4JMVM7ATQ3YMZC72HFNW8 model=cloze
 q: ==Acute radiation syndrome (ARS), also known as radiation sickness or radiation poisoning==, is a collection of health effects that are caused by being exposed to high amounts of ionizing radiation in a short period of time.
 
 // @id 01KVE4JMVMXW3MDWRXVSX24V9Q model=basic
@@ -106,7 +106,7 @@ Logical: ECC memory, redundant elements, triple modular reduncancy (TMR), harden
 q: What are **radiation-preventing techniques** for humans?
 a: Reducing the exposure time, shielding (vary of material), respirator/dust mask (for terrestrial safety).
 
-// @id 01KVE4JMVMPERJ2P5CKT52945C
+// @id 01KVE4JMVMPERJ2P5CKT52945C model=cloze
 q: Water and polyethylene (PE) are one of the materials best suited for radiation shielding because they have ==lots of hydrogen atoms per unit mass, which interact with incoming radiation particles and slow them down==.
 e: Hydrogen shields best per kilogram because its nucleus is mass-matched to incoming neutrons/protons (so each collision transfers maximum energy), it packs the most interaction partners per unit mass, and being the smallest nucleus it generates little harmful secondary radiation.
 
