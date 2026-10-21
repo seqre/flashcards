@@ -5,3 +5,5 @@ a: It states that the sum of currents entering a junction equals the sum of curr
 // @id 01M5AVRFY35MW1ZGBZ4JAC5T51 model=basic-example
 q: What is **Kirchhoff's Second Law / Kirchhoff's Voltage Law**?
 a: It states that the algebraic sum of all potential differences (voltages) around any closed loop in a circuit is zero. $$\sum{V} = 0$$
+
+// TODO: catch-up from book

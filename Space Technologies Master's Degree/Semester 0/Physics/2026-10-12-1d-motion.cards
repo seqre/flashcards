@@ -1,0 +1,25 @@
+// @id 01M4RYJQMNPC71F29BSCJRSSFA model=cloze
+q: In geometry, a ==secant== is a line that intersects a curve at a minimum of two distinct points.
+e: [image:media/circle-lines.svg]
+
+// @id 01M4RYJQMNP3D107A85V3XS1AX model=cloze
+q: A ==tangent line== is the straight line that touches a curve at exactly one point and has the same slope as the curve at that point.
+e: [image:media/circle-lines.svg]
+
+q: What's the relation between functions for position, velocity, and acceleration?
+a: $$a(t) = \frac{\mathrm{d}v}{\mathrm{d}t} = \frac{\mathrm{d}^2 x}{\mathrm{d}t^2}$$
+
+q: What does signed area under a **velocity-time graph** represents?
+a: Displacement
+
+q: What does signed area under a **acceleration-time graph** represents?
+a: Changes in velocity
+
+q: When the acceleration is not constant, the velocity can be calculated using..
+a: $$v(t) = v(t_0) + \int_{t_0}^{t} a(s)\,\mathrm{d}s$$
+
+q: When the acceleration is not constant, the position can be calculated using..
+a: $$x(t) = x(t_0) + \int_{t_0}^{t} v(s)\,\mathrm{d}s$$
+
+// TODO: time-ignoring equation
+// TODO: free fall

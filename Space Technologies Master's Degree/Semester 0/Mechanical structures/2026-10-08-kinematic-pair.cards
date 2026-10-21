@@ -43,3 +43,5 @@ a: - direct translation (prismatic joints, sliders in guides)
 - motion conversion (rack-and-pinion, screw-nut, cams)
 - linkage & Tendon Mechanisms (lever systems, slider-crank with coupler, pantographs)
 - external actuators (hydraulic/pneumatic cylinders, linear motors)
+
+// TODO: extras
