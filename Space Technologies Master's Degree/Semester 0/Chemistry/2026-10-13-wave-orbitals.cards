@@ -1,1 +1,46 @@
-// TODO: lecture 2
+q: What is the form of the wave function $\Psi$?
+a: $$\Psi(x_e, y_e, z_e, t) = \Psi(x_e, y_e, z_e) \cdot f(t)$$
+e: Where:
+- $x_e, y_e, z_e$ - electron's spatial coordinates
+
+q: What is the **Born rule** for the wave function probability?
+a: $$|\Psi(x,y,z)|^2 = \rho(x,y,z)$$
+$$\rho(x,y,z) = \frac{W}{dx \cdot dy \cdot dz}$$
+e: Where:
+- $\rho$ - probability density function
+- $W$ - probability that the particle is at given coordinates
+
+q: What is the Schrödinger equation?
+a: $$\hat{H}\Psi = E\Psi$$
+$$E = T + V$$
+$$\hat{H} = \hat{T} + \hat{V}$$
+e: Where:
+- $\hat{H}$ - operator of total energy (the Hamiltonian operator)
+- $\Psi$ - eigenfunction of the system associated with energy
+- $E$ - eigenvalue of energy (the total energy of the system) – a number
+- $T$ - kinetic energy
+- $V$ - potential energy
+
+q: What is an **alternative name** to the Schrödinger equation?
+a: The energy eigenvalue problem
+
+q: What is the Schrödinger equation **used for**?
+a: It is used to predict how the quantum state (wave function) of a physical system evolves over time
+
+q: The ==principal quantum number (n)== is a positive integer that specifies the main energy level (shell) an electron occupies in an atom and, to a large extent, the electron's energy.
+e: $$E = -\frac{\pi m_e e^4}{2\varepsilon_0 \hbar^2 n^2} = -\frac{\mathrm{const}}{n^2}$$
+
+q: The ==azimuthal quantum number / angular momentum quantum number (l)== is the second quantum number in the set that describes an electron's state. It determines the shape of the orbital and its orbital angular momentum.
+e: $$M = \hbar\sqrt{l(l+1)}$$
+
+// TODO: azimuthal to subshell
+
+q: The ==magnetic quantum number ($m_l$)== specifies the orientation of an electron's orbital in three-dimensional space and determines the number of orbitals within a subshell.
+e: $$M_z = m_l \cdot \hbar$$ where $m_l = -\ell, -\ell + 1, \ldots, 0, \ldots, \ell - 1, \ell$ ($\ell$ being azimuthal quantum number)
+
+// TODO: quantum numbers table
+
+q: The function that satisfies Schrödinger's equation is called an ==orbital==.
+
+// TODO: orbital symbols
+// TODO: energy degeneracy and the rest
