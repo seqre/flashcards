@@ -1,3 +1,5 @@
+// TODO: trigonometry functions values
+
 // @id 01M5AVRFY37876WHYXY8DAVT7Z model=cloze
 q: ==Sine== is defined as the ratio of the ==side opposite to the hypotenuse==.
 e: $$\sin{A} = \frac{a}{h}$$ [image:media/trigonometry-triangle.svg]
@@ -10,5 +12,24 @@ e: $$\cos{A} = \frac{b}{h}$$ [image:media/trigonometry-triangle.svg]
 q: ==Tangent== is defined as the ratio of the ==opposite leg to the adjacent leg==.
 e: $$\tan{A} = \frac{a}{b}$$ [image:media/trigonometry-triangle.svg]
 
-// TODO: trigonometry functions values
-// TODO: laws, eg. law of cosines
+q: What're the results of negating trigonometric function argument?
+a: $$\sin(-x) = -\sin x$$
+$$\cos(-x) = \cos x$$
+$$\tan(-x) = -\tan x$$
+e: Cosine is an even function, while sine and tangent odd functions.
+
+q: What is the trigonometric Pythagorean identity?
+a: $$\sin^2 x + \cos^2 x = 1$$
+
+q: What are the sum and difference formulas for trigonometric functions?
+a: $$\sin(x \pm y) = \sin x \cos y \pm \cos x \sin y$$
+$$\cos(x \pm y) = \cos x \cos y \mp \sin x \sin y$$
+$$\tan(x \pm y) = \frac{\tan x \pm \tan y}{1 \mp \tan x \tan y}$$
+
+q: What is the law of sines?
+a: $$\frac{\sin A}{a} = \frac{\sin B}{b} = \frac{\sin C}{c} = \frac{2\Delta}{abc}$$ where $\Delta$ is the area of the triangle
+
+q: Whas it the law of cosines?
+a: $$c^2 = a^2 + b^2 - 2ab\cos C$$
+
+// law of tangents?
