@@ -16,3 +16,14 @@ build-agh:
 
 edit-agh:
 	ranger "Space Technologies Master's Degree/Semester 0"
+
+# two-way sync of every media/ folder with the same tree in dir (newer file wins, nothing is deleted)
+[no-cd]
+sync-media dir:
+	#!/usr/bin/env bash
+	set -euo pipefail
+	repo={{ quote(justfile_directory()) }}
+	dir={{ quote(dir) }}
+	opts=(-rtuOm --exclude=.git --include='*/' --include='media/**' --exclude='*')
+	rsync "${opts[@]}" --out-format='-> %n' -- "$repo/" "$dir/"
+	rsync "${opts[@]}" --out-format='<- %n' -- "$dir/" "$repo/"
