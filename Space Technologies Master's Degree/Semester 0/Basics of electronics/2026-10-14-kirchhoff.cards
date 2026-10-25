@@ -6,90 +6,112 @@ a: It states that the sum of currents entering a junction equals the sum of curr
 q: What is **Kirchhoff's Second Law / Kirchhoff's Voltage Law**?
 a: It states that the algebraic sum of all potential differences (voltages) around any closed loop in a circuit is zero. $$\sum{V} = 0$$
 
+// @id 01M5T3BP7SSEEPV6PZR1B9VS8R model=basic-example
 q: What digit is represented by **black** in resistor color coding?
 a: 0
 e: **Bad** Beer Rots Our Young Guts But Vodka Goes Well — word 1 → 0.
 Black is the absence of light: nothing → 0.
 
+// @id 01M5T3BP7S7WDJR460R6H39FNY model=basic-example
 q: What digit is represented by **brown** in resistor color coding?
 a: 1
 e: Bad **Beer** Rots Our Young Guts But Vodka Goes Well — word 2 → 1.
 Brown is a darkened red, one step before red (2) → 1.
 
+// @id 01M5T3BP7S309MES6SSD8FKCYR model=basic-example
 q: What digit is represented by **red** in resistor color coding?
 a: 2
 e: Bad Beer **Rots** Our Young Guts But Vodka Goes Well — word 3 → 2.
 Red starts the rainbow: **R**-O-Y-G-B-V = 2–7.
 
+// @id 01M5T3BP7S6TC2XYA0FZNN1J41 model=basic-example
 q: What digit is represented by **orange** in resistor color coding?
 a: 3
 e: Bad Beer Rots **Our** Young Guts But Vodka Goes Well — word 4 → 3.
 Second rainbow colour: R-**O**-Y-G-B-V = 2–7.
 
+// @id 01M5T3BP7SRVRYGX37JTTHGVQ6 model=basic-example
 q: What digit is represented by **yellow** in resistor color coding?
 a: 4
 e: Bad Beer Rots Our **Young** Guts But Vodka Goes Well — word 5 → 4.
 Third rainbow colour: R-O-**Y**-G-B-V = 2–7.
 
+// @id 01M5T3BP7SXKS20GB4Y6P50XNF model=basic-example
 q: What digit is represented by **green** in resistor color coding?
 a: 5
 e: Bad Beer Rots Our Young **Guts** But Vodka Goes Well — word 6 → 5.
 Fourth rainbow colour: R-O-Y-**G**-B-V = 2–7.
 
+// @id 01M5T3BP7S4BMYMPEJDAW99E60 model=basic-example
 q: What digit is represented by **blue** in resistor color coding?
 a: 6
 e: Bad Beer Rots Our Young Guts **But** Vodka Goes Well — word 7 → 6.
 Fifth rainbow colour: R-O-Y-G-**B**-V = 2–7.
 
+// @id 01M5T3BP7S9F6TQYAQX00AN6ED model=basic-example
 q: What digit is represented by **violet** in resistor color coding?
 a: 7
 e: Bad Beer Rots Our Young Guts But **Vodka** Goes Well — word 8 → 7.
 Violet ends the rainbow: R-O-Y-G-B-**V** = 2–7.
 
+// @id 01M5T3BP7SFDHSRJ31XGD0SRVG model=basic-example
 q: What digit is represented by **grey** in resistor color coding?
 a: 8
 e: Bad Beer Rots Our Young Guts But Vodka **Goes** Well — word 9 → 8.
 Grey is a washed-out violet, between violet (7) and white (9) → 8.
 
+// @id 01M5T3BP7SVXE0ZZJGVYX3ZMZY model=basic-example
 q: What digit is represented by **white** in resistor color coding?
 a: 9
 e: Bad Beer Rots Our Young Guts But Vodka Goes **Well** — word 10 → 9.
 White is all colours of light combined: the top → 9.
 
+// @id 01M5T3BP7SKW6DE7FCC474KJBC model=basic-example
 q: How do you get the Ohm multiplier of a color in resistor color coding?
 a: $\times 10^{d} \Omega$, where $d$ is the color's digit, i.e. append $d$ zeros.
 e: Red is 2 → $\times 10^2 = \times 100 \Omega$.
 Gold and silver go below zero: gold → $10^{-1}$, silver → $10^{-2}$.
 
+// @id 01M5T3BP7S8S8NQ4B8CZKCS57R model=basic-example
 q: What Ohm multiplier is represented by **silver** in resistor color coding?
 a: $\times 0.01 \Omega$
 
+// @id 01M5T3BP7SPYB9J9P0403MDTEZ model=basic-example
 q: What Ohm multiplier is represented by **gold** in resistor color coding?
 a: $\times 0.1 \Omega$
 
+// @id 01M5T3BP7SMBYD4M36KQ9WXZ8C model=basic-example
 q: What Ohm multiplier is represented by **black** in resistor color coding?
 a: $\times 1 \Omega$
 
+// @id 01M5T3BP7SSE5H3RX6RBQX49F2 model=basic-example
 q: What Ohm multiplier is represented by **brown** in resistor color coding?
 a: $\times 10 \Omega$
 
+// @id 01M5T3BP7S1G9EXVYHF3BQ9D72 model=basic-example
 q: What Ohm multiplier is represented by **red** in resistor color coding?
 a: $\times 100 \Omega$
 
+// @id 01M5T3BP7S1F26W99R79C2YXCB model=basic-example
 q: What Ohm multiplier is represented by **orange** in resistor color coding?
 a: $\times 1 \text{k}\Omega$
 
+// @id 01M5T3BP7SDEPMNNDG9GJW9PV0 model=basic-example
 q: What Ohm multiplier is represented by **yellow** in resistor color coding?
 a: $\times 10 \text{k}\Omega$
 
+// @id 01M5T3BP7SZTY9QVVWB20KN38Z model=basic-example
 q: What Ohm multiplier is represented by **green** in resistor color coding?
 a: $\times 100 \text{k}\Omega$
 
+// @id 01M5T3BP7SKPK95VE63XMAMHXP model=basic-example
 q: What Ohm multiplier is represented by **blue** in resistor color coding?
 a: $\times 1 \text{M}\Omega$
 
+// @id 01M5T3BP7SD00DEBD10QWQ91C6 model=basic-example
 q: What Ohm multiplier is represented by **violet** in resistor color coding?
 a: $\times 10 \text{M}\Omega$
 
+// @id 01M5T3BP7SB3YJWMGZQJCT2W0T model=basic-example
 q: What Ohm multiplier is represented by **grey** in resistor color coding?
 a: $\times 100 \text{M}\Omega$
