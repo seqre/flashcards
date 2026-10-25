@@ -1,6 +1,6 @@
 // @id 01M5AVRFY3WQRQT33NP337X2VK model=basic-example
 q: Complex numbers are defined as..
-a: $$\mathbb{C} = \left\{a + ib: a,b \in \mathbb{R}\right\}$$
+a: $$\mathbb{C} = \left\{a + ib: a,b \in \mathbb{R}\right\}$$ where $i^2 = -1$
 
 // @id 01M5AVRFY393X61S3M4H6P7ETS model=cloze
 q: In mathematics, the ==complex conjugate ($\bar{z}$) of a complex number ($z$)== is the number with an equal real part and an imaginary part equal in magnitude but with opposite sign.
@@ -16,6 +16,8 @@ a: $$\left| z \right| = \sqrt{x^2 + y^2}$$
 // @id 01M5AVRFY3WK5PEAGWBKS4YEE8 model=basic-example
 q: The polar form of complex number is defined as..
 a: $$z=(x,y)=(r\cos{\varphi}, r\sin{\varphi})$$
+e: **c**os before **s**in, just like **x** before **y**: alphabetical order matches.
+Sanity check: at $\varphi = 0$ the point lies on the positive real axis $(r, 0)$, and $\cos{0} = 1$, so $\cos$ must be the $x$ part.
 
 // @id 01M5AVRFY3W3MNKP7J2V17SB2W model=cloze
 q: In mathematics (particularly in complex analysis), the ==argument of a complex number $z$, denoted $arg(z)$==, is the angle between the positive real axis and the line joining the origin and $z$.
@@ -24,8 +26,19 @@ e: [image:media/complex-conjugate.svg]
 // @id 01M5AVRFY3XBPF5G2XGHXD9QGM model=basic-example
 q: How does Euler's formula look like?
 a: $$e^{ix}=\cos{x}+i\sin{x}$$
-e: [image:media/eulers-formula.svg]
+e: "**cis**": **c**os + **i** **s**in, read off in order ($e^{ix} = \operatorname{cis}{x}$). The $i$ sticks to $\sin$ because $\sin$ is the imaginary ($y$) part.
+[image:media/eulers-formula.svg]
 
 // @id 01M5AVRFY356D74KX8YARNSG69 model=basic-example
 q: Exponential representation of complex number is defined as..
-a: $$z=\left|z\right| e^{i\varphi}$$
+a: $$z=\left|z\right| e^{i\varphi}=\left|z\right| \left(\cos{\varphi} +i\sin{\varphi}\right)$$
+
+// @id 01M5TEZFDH8JYTXFZKM38DCAK4 model=basic-example
+q: What is **Euler's identity**?
+a: $$e^{i\pi} + 1 = 0$$
+e: The five most important constants ($e$, $i$, $\pi$, $1$, $0$), each used exactly once, linked by the three basic operations (exponentiation, multiplication, addition). Geometrically: rotate by $\pi$ (half a turn) on the unit circle and you land on $-1$.
+
+// @id 01M5TEZFDH2G7WPG6Q7ETT4NZ5 model=basic-example
+q: What is **de Moivre's formula / theorem / identity**?
+a: $$\left(\cos x + i\sin x\right)^n = \cos nx + i\sin nx$$
+e: "The power jumps inside and multiplies the angle." It follows from Euler's formula: $\left(e^{ix}\right)^n = e^{inx}$, so raising to the $n$-th power means rotating $n$ times by $x$.
