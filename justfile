@@ -12,7 +12,8 @@ list-todos:
 		print "  \033[32m" file "\033[0m: " $0 }'
 
 build-agh:
-	ankigen build "Space Technologies Master's Degree" -o agh.apkg
+	@ankigen build "Space Technologies Master's Degree" -o agh.apkg
+	@echo "REMEMBER TO COMMIT NEW CARD AND DECK IDS"
 
 edit-agh:
 	ranger "Space Technologies Master's Degree/Semester 0"
