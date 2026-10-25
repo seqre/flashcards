@@ -3,7 +3,7 @@ default:
 
 [working-directory("Space Technologies Master's Degree")]
 list-todos:
-	@rg -g '!justfile' --sort path --no-heading --color never 'TODO' \
+	@clear && rg -g '!justfile' --sort path --no-heading --color never 'TODO' \
 	| awk -F: '{ path = $1; sub(/^[^:]*:/, ""); \
 		sub(/^[[:space:]]*\/\/[[:space:]]*TODO:?[[:space:]]*/, ""); \
 		dir = path; sub(/\/[^\/]*$/, "", dir); \
