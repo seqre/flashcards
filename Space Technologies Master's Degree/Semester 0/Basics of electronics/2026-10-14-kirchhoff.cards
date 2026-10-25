@@ -6,4 +6,90 @@ a: It states that the sum of currents entering a junction equals the sum of curr
 q: What is **Kirchhoff's Second Law / Kirchhoff's Voltage Law**?
 a: It states that the algebraic sum of all potential differences (voltages) around any closed loop in a circuit is zero. $$\sum{V} = 0$$
 
-// TODO: catch-up from book
+q: What digit is represented by **black** in resistor color coding?
+a: 0
+e: **Bad** Beer Rots Our Young Guts But Vodka Goes Well — word 1 → 0.
+Black is the absence of light: nothing → 0.
+
+q: What digit is represented by **brown** in resistor color coding?
+a: 1
+e: Bad **Beer** Rots Our Young Guts But Vodka Goes Well — word 2 → 1.
+Brown is a darkened red, one step before red (2) → 1.
+
+q: What digit is represented by **red** in resistor color coding?
+a: 2
+e: Bad Beer **Rots** Our Young Guts But Vodka Goes Well — word 3 → 2.
+Red starts the rainbow: **R**-O-Y-G-B-V = 2–7.
+
+q: What digit is represented by **orange** in resistor color coding?
+a: 3
+e: Bad Beer Rots **Our** Young Guts But Vodka Goes Well — word 4 → 3.
+Second rainbow colour: R-**O**-Y-G-B-V = 2–7.
+
+q: What digit is represented by **yellow** in resistor color coding?
+a: 4
+e: Bad Beer Rots Our **Young** Guts But Vodka Goes Well — word 5 → 4.
+Third rainbow colour: R-O-**Y**-G-B-V = 2–7.
+
+q: What digit is represented by **green** in resistor color coding?
+a: 5
+e: Bad Beer Rots Our Young **Guts** But Vodka Goes Well — word 6 → 5.
+Fourth rainbow colour: R-O-Y-**G**-B-V = 2–7.
+
+q: What digit is represented by **blue** in resistor color coding?
+a: 6
+e: Bad Beer Rots Our Young Guts **But** Vodka Goes Well — word 7 → 6.
+Fifth rainbow colour: R-O-Y-G-**B**-V = 2–7.
+
+q: What digit is represented by **violet** in resistor color coding?
+a: 7
+e: Bad Beer Rots Our Young Guts But **Vodka** Goes Well — word 8 → 7.
+Violet ends the rainbow: R-O-Y-G-B-**V** = 2–7.
+
+q: What digit is represented by **grey** in resistor color coding?
+a: 8
+e: Bad Beer Rots Our Young Guts But Vodka **Goes** Well — word 9 → 8.
+Grey is a washed-out violet, between violet (7) and white (9) → 8.
+
+q: What digit is represented by **white** in resistor color coding?
+a: 9
+e: Bad Beer Rots Our Young Guts But Vodka Goes **Well** — word 10 → 9.
+White is all colours of light combined: the top → 9.
+
+q: How do you get the Ohm multiplier of a color in resistor color coding?
+a: $\times 10^{d} \Omega$, where $d$ is the color's digit, i.e. append $d$ zeros.
+e: Red is 2 → $\times 10^2 = \times 100 \Omega$.
+Gold and silver go below zero: gold → $10^{-1}$, silver → $10^{-2}$.
+
+q: What Ohm multiplier is represented by **silver** in resistor color coding?
+a: $\times 0.01 \Omega$
+
+q: What Ohm multiplier is represented by **gold** in resistor color coding?
+a: $\times 0.1 \Omega$
+
+q: What Ohm multiplier is represented by **black** in resistor color coding?
+a: $\times 1 \Omega$
+
+q: What Ohm multiplier is represented by **brown** in resistor color coding?
+a: $\times 10 \Omega$
+
+q: What Ohm multiplier is represented by **red** in resistor color coding?
+a: $\times 100 \Omega$
+
+q: What Ohm multiplier is represented by **orange** in resistor color coding?
+a: $\times 1 \text{k}\Omega$
+
+q: What Ohm multiplier is represented by **yellow** in resistor color coding?
+a: $\times 10 \text{k}\Omega$
+
+q: What Ohm multiplier is represented by **green** in resistor color coding?
+a: $\times 100 \text{k}\Omega$
+
+q: What Ohm multiplier is represented by **blue** in resistor color coding?
+a: $\times 1 \text{M}\Omega$
+
+q: What Ohm multiplier is represented by **violet** in resistor color coding?
+a: $\times 10 \text{M}\Omega$
+
+q: What Ohm multiplier is represented by **grey** in resistor color coding?
+a: $\times 100 \text{M}\Omega$
