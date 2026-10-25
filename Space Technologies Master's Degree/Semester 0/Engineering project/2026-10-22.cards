@@ -1,59 +1,76 @@
+// @id 01M5QNKSEZY63H5MHS5DZS98JH model=cloze
 // TODO: zapis tolerancji
 q: ==Natural frequency (also called eigenfrequency or resonance frequency)== is the rate at which an oscillatory system vibrates on its own, in the absence of any external driving or damping force. It is an inherent property of the system, determined by its physical characteristics.
 
+// @id 01M5QNKSEZVN0HVGY46VGBFHZ2 model=cloze
 q: In technical drawing and computer graphics, a ==multiview orthographic projection== is a technique of illustration by which a standardized series of orthographic two-dimensional pictures are constructed to represent the form of a three-dimensional object.
 e: [image:media/technical-drawings.svg]
 
+// @id 01M5QNKSEZFP28HPSWF66955QD model=cloze
 q: ==First-angle projection== is an orthographic drawing method in which the object is imagined to sit in the first quadrant (above the horizontal plane, in front of the vertical plane), and the projection plane lies between the object and the observer.
 e: [image:media/first-angle-projection.jpg]
 
+// @id 01M5QNKSEZTDXKDAWHZD3BBA22 model=cloze
 q: ==Third-angle projection== is an orthographic projection method in which the object is imagined to sit in the third quadrant (behind the vertical plane and below the horizontal plane), with the projection plane placed between the observer and the object.
 e: [image:media/third-angle-projection.png]
 
+// @id 01M5QNKSEZA9NR85CYM5W16APP model=basic-example
 q: What are some of the most common technical drawing lines?
 a: [image:media/technical-drawing-lines.webp]
 
+// @id 01M5QNKSEZNHB0ZAC40DE3P2AF model=cloze
 q: ==Material stress ($\sigma$)== is the internal force per unit area acting within a material quantifying how much load a material carries or transmits at a given point. It is defined as the applied force divided by the cross-sectional area over which it acts.
 e: $$\sigma = \frac{F}{A}$$ where $A$ is cross-sectional area to which the force is applied
 
+// @id 01M5QNKSEZ6EBXZG1MS2A4YHYP model=cloze
 q: ==Material strain ($\varepsilon$)== is the dimensionless measure of a material's deformation under an applied load quantifying how much an object stretches, compresses, or distorts in response to stress. It is defined as the ratio of change in length to original length.
 e: $$\varepsilon = \frac{L-L_0}{L_0}$$ where $L$ is the length after an external load is applied and $L_0$ is the original length
 
+// @id 01M5QNKSEZBQH9CRKNCMAJFJ7X model=cloze
 q: A ==stress–strain curve== is a graph that plots the stress (force per unit area, $\sigma$) applied to a material against the resulting strain (deformation per unit length, $\varepsilon$), revealing the material's mechanical behavior under load.
 e: [image:media/stress-strain-curve.svg]
 
+// @id 01M5QNKSEZVR0GRYRM4H51BC57 model=basic-example
 q: What happens to the material in the **elastic (linear) region** of the stress-strain curve?
 a: Stress is directly proportional to strain, and the material springs back to its original shape when unloaded — the slope is Young's modulus.
 e: [image:media/stress-strain-curve.svg]
 
+// @id 01M5QNKSEZ6R29MSMQQXZ5EE53 model=basic-example
 q: What is the **yield point** on the stress-strain curve?
 a: The point where the curve departs from linearity and permanent (plastic) deformation begins, marking the material's yield strength.
 e: [image:media/stress-strain-curve.svg]
 
+// @id 01M5QNKSEZQM94NQSJ7T07K2MA model=basic-example
 q: What happens to the material in the **strain-hardening (plastic) region** of the stress-strain curve?
 a: The material deforms permanently while requiring ever more stress to continue deforming, as dislocations multiply and entangle.
 e: [image:media/stress-strain-curve.svg]
 
+// @id 01M5QNKSEZ81X566DZHBAZTF4D model=basic-example
 q: What is the **ultimate tensile strength (UTS) point** on the stress-strain curve?
 a: The highest stress the material can bear before it starts to weaken locally, shown as the peak of the curve.
 e: [image:media/stress-strain-curve.svg]
 
+// @id 01M5QNKSEZ4QNDJVCYJ1AJ3E53 model=basic-example
 q: What happens to the material in the **necking region** of the stress-strain curve?
 a: Deformation localizes into a narrowing "neck" because the material can no longer sustain the load, so stress (based on original area) drops.
 e: [image:media/stress-strain-curve.svg]
 
+// @id 01M5QNKSEZFX4E4ENKSWWX7P13 model=basic-example
 q: What is the **fracture point** on the stress-strain curve?
 a: The strain at which the specimen finally ruptures, whose value indicates the material's ductility.
 e: [image:media/stress-strain-curve.svg]
 
+// @id 01M5QNKSEZCPHWBJJHXPE99GWH model=basic-example
 q: What is Young's modulus (E)?
 a: Young's modulus (E), also called the modulus of elasticity, is the ratio of tensile stress to tensile strain in the elastic (linear) regime of a material. It quantifies a solid's stiffness: the higher the value, the less the material deforms under a given load.
 e: [image:media/stress-strain-curve.svg]
 
+// @id 01M5QNKSEZ7C1T3ANA83MAFR16 model=cloze
 q: The ==shear modulus (G)==, also called the modulus of rigidity, is the ratio of shear stress to shear strain in a material.
 e: It quantifies how strongly a material resists deformation when layers are pushed sideways relative to one another (e.g., sliding the top of a block of material while the bottom is held fixed).
 [image:media/shear-modulus.svg]
 
+// @id 01M5QNKSEZZACGCM5GCJ9VCZN8 model=cloze
 q: ==Poisson's ratio ($\varv$)== is the ratio of transverse (lateral/x) strain to axial (y) strain when a material is loaded elastically.
 e: It is a dimensionless scalar and typically negative in sign convention, though the magnitude is usually reported as positive for ordinary materials.
 [image:media/poisson-ratio.svg]

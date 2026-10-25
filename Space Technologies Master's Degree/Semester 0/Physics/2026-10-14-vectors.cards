@@ -25,13 +25,16 @@ e: [image:media/cross-product.svg]
 q: Magnitude of the **cross product** of vectors is equal..
 a: $$\left| \vec{a} \times \vec{b} \right| = |\vec{a}| |\vec{b}| \sin{\varphi}$$
 
+// @id 01M5QNKSEZX1B2VC68WT33BRYB model=basic-example
 q: How is rotation matrix defined?
 a: $$R_{clockwise} = \begin{bmatrix} \cos\theta & \sin\theta \\ -\sin\theta & \cos\theta \end{bmatrix}$$
 $$R_{counter-clockwise} = \begin{bmatrix} \cos\theta & -\sin\theta \\ \sin\theta & \cos\theta \end{bmatrix}$$
 
+// @id 01M5QNKSEZFQN8BVBAC6CBQQZV model=basic-example
 q: How is rotation matrix used?
 a: $$\begin{pmatrix} a_x' \\ a_y' \end{pmatrix} = \mathrm{R}(\phi) \begin{pmatrix} a_x \\ a_y \end{pmatrix}$$
 
+// @id 01M5QNKSEZN70RC8N4VARGHSWR model=basic-example
 q: How 3-variable rotation matrices look like?
 a: $$R_x(\theta) = \begin{bmatrix} 1 & 0 & 0 \\ 0 & \cos\theta & -\sin\theta \\ 0 & \sin\theta & \cos\theta \end{bmatrix}$$
 $$R_y(\theta) = \begin{bmatrix} \cos\theta & 0 & \sin\theta \\ 0 & 1 & 0 \\ -\sin\theta & 0 & \cos\theta \end{bmatrix}$$

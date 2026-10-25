@@ -6,18 +6,23 @@ e: [image:media/circle-lines.svg]
 q: A ==tangent line== is the straight line that touches a curve at exactly one point and has the same slope as the curve at that point.
 e: [image:media/circle-lines.svg]
 
+// @id 01M5QNKSEZJV11GTJR66FP0KVR model=basic-example
 q: What's the relation between functions for position, velocity, and acceleration?
 a: $$a(t) = \frac{\mathrm{d}v}{\mathrm{d}t} = \frac{\mathrm{d}^2 x}{\mathrm{d}t^2}$$
 
+// @id 01M5QNKSEZMKJK80SDSJMH74YE model=basic-example
 q: What does signed area under a **velocity-time graph** represents?
 a: Displacement
 
+// @id 01M5QNKSEZV49Q871V5R7B5T8N model=basic-example
 q: What does signed area under a **acceleration-time graph** represents?
 a: Changes in velocity
 
+// @id 01M5QNKSEZDV3563TMYWJRBN9A model=basic-example
 q: When the acceleration is not constant, the velocity can be calculated using..
 a: $$v(t) = v(t_0) + \int_{t_0}^{t} a(s)\,\mathrm{d}s$$
 
+// @id 01M5QNKSEZ0MM290ZAV8MKTMRT model=basic-example
 q: When the acceleration is not constant, the position can be calculated using..
 a: $$x(t) = x(t_0) + \int_{t_0}^{t} v(s)\,\mathrm{d}s$$
 

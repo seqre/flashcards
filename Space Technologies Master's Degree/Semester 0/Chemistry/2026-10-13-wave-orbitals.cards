@@ -1,8 +1,10 @@
+// @id 01M5QNKSEZ5QJDHVAK0RD16VEP model=basic-example
 q: What is the form of the wave function $\Psi$?
 a: $$\Psi(x_e, y_e, z_e, t) = \Psi(x_e, y_e, z_e) \cdot f(t)$$
 e: Where:
 - $x_e, y_e, z_e$ - electron's spatial coordinates
 
+// @id 01M5QNKSEZYG06GPMVXQ0CJA95 model=basic-example
 q: What is the **Born rule** for the wave function probability?
 a: $$|\Psi(x,y,z)|^2 = \rho(x,y,z)$$
 $$\rho(x,y,z) = \frac{W}{dx \cdot dy \cdot dz}$$
@@ -10,6 +12,7 @@ e: Where:
 - $\rho$ - probability density function
 - $W$ - probability that the particle is at given coordinates
 
+// @id 01M5QNKSEZ4BHKAC4NHVZ30NW2 model=basic-example
 q: What is the Schrödinger equation?
 a: $$\hat{H}\Psi = E\Psi$$
 $$E = T + V$$
@@ -21,25 +24,31 @@ e: Where:
 - $T$ - kinetic energy
 - $V$ - potential energy
 
+// @id 01M5QNKSEZADTE8XWDTEZXMX7Y model=basic-example
 q: What is an **alternative name** to the Schrödinger equation?
 a: The energy eigenvalue problem
 
+// @id 01M5QNKSEZKK7HPCEKSBBJTWDQ model=basic-example
 q: What is the Schrödinger equation **used for**?
 a: It is used to predict how the quantum state (wave function) of a physical system evolves over time
 
+// @id 01M5QNKSEZDJX54666KNJBT5CN model=cloze
 q: The ==principal quantum number (n)== is a positive integer that specifies the main energy level (shell) an electron occupies in an atom and, to a large extent, the electron's energy.
 e: $$E = -\frac{\pi m_e e^4}{2\varepsilon_0 \hbar^2 n^2} = -\frac{\mathrm{const}}{n^2}$$
 
+// @id 01M5QNKSEZKZ3EAGZ5NWCVRBMG model=cloze
 q: The ==azimuthal quantum number / angular momentum quantum number (l)== is the second quantum number in the set that describes an electron's state. It determines the shape of the orbital and its orbital angular momentum.
 e: $$M = \hbar\sqrt{l(l+1)}$$
 
 // TODO: azimuthal to subshell
 
+// @id 01M5QNKSEZB0DMV4FZS9KB0PT4 model=cloze
 q: The ==magnetic quantum number ($m_l$)== specifies the orientation of an electron's orbital in three-dimensional space and determines the number of orbitals within a subshell.
 e: $$M_z = m_l \cdot \hbar$$ where $m_l = -\ell, -\ell + 1, \ldots, 0, \ldots, \ell - 1, \ell$ ($\ell$ being azimuthal quantum number)
 
 // TODO: quantum numbers table
 
+// @id 01M5QNKSEZXKGVH4NY4RZ7PJMA model=cloze
 q: The function that satisfies Schrödinger's equation is called an ==orbital==.
 
 // TODO: orbital symbols

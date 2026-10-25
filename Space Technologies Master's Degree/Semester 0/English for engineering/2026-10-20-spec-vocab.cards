@@ -1,14 +1,19 @@
+// @id 01M5QNKSEZHRG1JZRFG4HZ3CFG model=basic-example
 q: What is **thrust vector control**?
 a: Steering a vehicle by changing the direction of its engine's thrust.
 
+// @id 01M5QNKSEZRN9WM44CRHYV7GVQ model=basic-example
 q: What is **avionics**?
 a: The electronic systems used on aircraft and spacecraft.
 
+// @id 01M5QNKSEZ5T7K277R0BS12XH5 model=basic-example
 q: What is **GIS** (Geographic Information System)?
 a: A tool for mapping and analysing spatial data.
 
+// @id 01M5QNKSEZJJZHP07CC1XTPYX8 model=basic-example
 q: What is **circadian rhythm**?
 a: The body's internal ~24-hour clock that regulates sleep.
 
+// @id 01M5QNKSEZ2WRRGFTHFRAYJSE5 model=basic-example
 q: What is **hypoxia**?
 a: Not enough oxygen reaching the body's tissues.
