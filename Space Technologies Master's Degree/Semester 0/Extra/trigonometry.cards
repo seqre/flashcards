@@ -24,17 +24,27 @@ q: What is the trigonometric Pythagorean identity?
 a: $$\sin^2 x + \cos^2 x = 1$$
 
 // @id 01M5QNKSEZ909H6YVTRFZTVB3X model=basic-example
-q: What are the sum and difference formulas for trigonometric functions?
+q: What is the sum and difference formula for **sine**?
 a: $$\sin(x \pm y) = \sin x \cos y \pm \cos x \sin y$$
-$$\cos(x \pm y) = \cos x \cos y \mp \sin x \sin y$$
-$$\tan(x \pm y) = \frac{\tan x \pm \tan y}{1 \mp \tan x \tan y}$$
+e: **S C ± C S**: "SCCS" reads the same backwards, so the sign stays the same (± stays ±).
+
+// @id 01M5VZJ77Y4EE44FBBKTE0BW07 model=basic-example
+q: What is the sum and difference formula for **cosine**?
+a: $$\cos(x \pm y) = \cos x \cos y \mp \sin x \sin y$$
+e: **C C ∓ S S**: "CCSS" doesn't read the same backwards, so the sign flips (± becomes ∓).
+
+// @id 01M5VZJ77Y8HXCJSJDZVQ9MB4Q model=basic-example
+q: What is the sum and difference formula for **tangent**?
+a: $$\tan(x \pm y) = \frac{\tan x \pm \tan y}{1 \mp \tan x \tan y}$$
+e: Sum on the roof, one minus the product on the floor: the top keeps the sign, the bottom flips it.
+If you forget it: divide the sine formula by the cosine formula, then divide top and bottom by $\cos x \cos y$.
 
 // @id 01M5QNKSEZ7178NHF130GD7MXS model=basic-example
 q: What is the law of sines?
 a: $$\frac{\sin A}{a} = \frac{\sin B}{b} = \frac{\sin C}{c} = \frac{2\Delta}{abc}$$ where $\Delta$ is the area of the triangle
 
 // @id 01M5QNKSEZ2PWHT04FG1VFAN0G model=basic-example
-q: Whas it the law of cosines?
+q: What is the law of cosines?
 a: $$c^2 = a^2 + b^2 - 2ab\cos C$$
 
 // law of tangents?
