@@ -1,1 +1,19 @@
 // TODO: 3D motion
+
+q: How would 3D velocity vector be written in Newton's dot notation?
+a: $$\boldsymbol{v} = \dot{\boldsymbol{r}} = (\dot{x}, \dot{y}, \dot{z})$$
+
+q: How would 3D acceleration vector be written in Newton's dot notation?
+a: $$\boldsymbol{a} = \dot{\boldsymbol{v}} = (\ddot{x}, \ddot{y}, \ddot{z})$$
+
+q: For a fixed circle centre at the origin and constant signed $\omega$, the angle is defined as..
+a: $$\theta = \theta_0 + \omega t$$
+
+q: For a fixed circle centre at the origin and constant signed $\omega$, the position vector is defined as..
+a: $$\boldsymbol{r} = R(\cos\theta, \sin\theta)$$
+
+q: For a fixed circle centre at the origin and constant signed $\omega$, the velocity vector is defined as..
+a: $$\boldsymbol{v} = R\omega(-\sin\theta, \cos\theta)$$
+
+q: For a fixed circle centre at the origin and constant signed $\omega$, the acceleration vector is defined as..
+a: $$\boldsymbol{a} = -R\omega^2(\cos\theta, \sin\theta)$$
