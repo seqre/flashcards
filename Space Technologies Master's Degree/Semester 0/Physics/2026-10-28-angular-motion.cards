@@ -1,0 +1,31 @@
+// @id 01M61KJ9DS8NBTK3P1NBT52KPB model=basic-example
+q: How would 3D velocity vector be written in Newton's dot notation?
+a: $$\boldsymbol{v} = \dot{\boldsymbol{r}} = (\dot{x}, \dot{y}, \dot{z})$$
+
+// @id 01M61KJ9DST7JCP2R1F1RZ1S5R model=basic-example
+q: How would 3D acceleration vector be written in Newton's dot notation?
+a: $$\boldsymbol{a} = \dot{\boldsymbol{v}} = (\ddot{x}, \ddot{y}, \ddot{z})$$
+
+// @id 01M61KJ9DSKZ9RF5FTXNYXR9BE model=basic-example
+q: For a fixed circle centre at the origin and constant signed $\omega$, the angle is defined as..
+a: $$\theta = \theta_0 + \omega t$$
+
+// @id 01M61KJ9DS1G4399NW0G7K063C model=basic-example
+q: For a fixed circle centre at the origin and constant signed $\omega$, the position vector is defined as..
+a: $$\boldsymbol{r} = R(\cos\theta, \sin\theta)$$
+
+// @id 01M61KJ9DS0HXCPGD65422M2TE model=basic-example
+q: For a fixed circle centre at the origin and constant signed $\omega$, the velocity vector is defined as..
+a: $$\boldsymbol{v} = R\omega(-\sin\theta, \cos\theta)$$
+
+// @id 01M61KJ9DSH9ZKFANYFRV6PRAW model=basic-example
+q: For a fixed circle centre at the origin and constant signed $\omega$, the acceleration vector is defined as..
+a: $$\boldsymbol{a} = -R\omega^2(\cos\theta, \sin\theta)$$
+
+// @id 01M61KJ9DS2DKCC9HRYYGEMH0M model=basic-example
+q: In polar coordinates, the **radial unit vector** $\hat{\mathbf{e}}_r$ in Cartesian unit vectors is..
+a: $$\hat{\mathbf{e}}_r = \cos\theta\,\hat{\boldsymbol{\imath}} + \sin\theta\,\hat{\boldsymbol{\jmath}}$$
+
+// @id 01M61KJ9DSMR2VCZD8N8ZVS34J model=basic-example
+q: In polar coordinates, the **angular unit vector** $\hat{\mathbf{e}}_\theta$ in Cartesian unit vectors is..
+a: $$\hat{\mathbf{e}}_\theta = -\sin\theta\,\hat{\boldsymbol{\imath}} + \cos\theta\,\hat{\boldsymbol{\jmath}}$$

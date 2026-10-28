@@ -1,0 +1,12 @@
+// @id 01M61KJ9DSXD521YHQP0J6MCQQ model=basic-example
+q: Newton's first law states that..
+a: $$\sum \boldsymbol{F}_{\mathrm{ext}} = \boldsymbol{0} \quad \Longrightarrow \quad \boldsymbol{a} = \boldsymbol{0} \quad \Longrightarrow \quad \boldsymbol{v} = \mathrm{constant}$$
+
+// @id 01M61KJ9DS06RBPJY38D371VXC model=basic-example
+q: Newton's second law states that..
+a: $$\sum \boldsymbol{F}_{\mathrm{ext}} = m\boldsymbol{a}$$
+$$\sum F_x = ma_x, \quad \sum F_y = ma_y, \quad \sum F_z = ma_z$$
+
+// @id 01M61KJ9DSFY8PD7W0RJWY7K5G model=basic-example
+q: Newton's third law states that..
+a: $$\boldsymbol{F}_{A \leftarrow B} = -\boldsymbol{F}_{B \leftarrow A}$$
