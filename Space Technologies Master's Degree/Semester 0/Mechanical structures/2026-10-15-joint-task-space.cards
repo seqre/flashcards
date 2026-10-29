@@ -1,5 +1,48 @@
-// TODO: joint space: angles
-// TODO: task space: meters
-// TODO: forward kinematics: join -> task
-// TODO: inverse kinematics: task -> join
+// @id 01M63BQCXAEZ8S4XKG41S1J347 model=basic-example
+q: What is **joint space** in kinematics of planar manipulator?
+a: Space built using variables that motors and encoders use (eg. angles of links - degrees)
+[image:media/2r-planar-arm.png]
+[image:media/joint-task-space.png]
 
+// @id 01M63BQCXAB03EN89WJHST7BKT model=basic-example
+q: What is **task space** in kinematics of planar manipulator?
+a: Space built using variables that the task specifies (eg. coordinates of end-effector - meters).
+[image:media/2r-planar-arm.png]
+[image:media/joint-task-space.png]
+
+// @id 01M63BQCXAENEHCADPB1YRTDNK model=cloze
+q: ==Forward kinematics (FK)== is the computation of a robot's end-effector position and orientation from known joint variables (angles, displacements, angular velocities).
+e: In other words, given the joint configuration, FK tells you where the robot's tip is in space.
+[image:media/forward-backward-kinematics.png]
+
+// @id 01M63BQCXAAE2N5GHCC4YEY0V5 model=cloze
+q: ==Inverse kinematics (IK)== is the process of calculating the joint angles/parameters needed to place a robot's (or a character's) end-effector at a desired position and orientation.
+[image:media/forward-backward-kinematics.png]
+
+// @id 01M63BQCXAAAE9FPPY2T8385D9 model=cloze
+q: ==Denavit–Hartenberg (DH) parameters== are four geometric quantities used to define the coordinate frame of each link relative to the previous one in a serial (open-chain) robotic manipulator.
+e: They provide a compact, standard convention for kinematic frame assignment and are the basis for computing forward kinematics via successive homogeneous transformation matrices.
+[image:media/denavit-hartenberg-parameters.png]
+
+// @id 01M63BQCXAZGR4V092S2KNMS1V model=basic-example
+q: What are the four Denavit–Hartenberg (DH) parameters?
+a: - $a_i$ - link length (along $x_i$)
+- $\alpha_i$ - link twist (rotation about $x_i$)
+- $d_i$ - link offset (along $z_{i-1}$)
+- $\theta_i$ - joint angle (rotation about $z_{i-1}$)
+[image:media/denavit-hartenberg-parameters.png]
+
+// @id 01M63BQCXABSJE56M77FNNVKJY model=cloze
+q: The ==Denavit–Hartenberg (D–H) convention== is a systematic method for defining reference frames attached to the links of a serial robot manipulator, using four parameters per joint to fully describe its kinematic geometry.
+e: [image:media/denavit-hartenberg-parameters.png]
+
+// @id 01M63BQCXAV0419MA6RKW9E900 model=basic-example
+q: How is Denavit–Hartenberg (D–H) matrix defined?
+a: $$[Z_i] = \text{Trans}_{Z_i}(d_i) \text{Rot}_{Z_i}(\theta_i)
+[X_i] = \text{Trans}_{X_i}(r_{i,i+1}) \text{Rot}_{X_i}(\alpha_{i,i+1})$$
+which can be used like:
+$$^{n-1}T_n = \text{Trans}_{z_{n-1}}(d_n) \cdot \text{Rot}_{z_{n-1}}(\theta_n) \cdot \text{Trans}_{x_n}(r_n) \cdot \text{Rot}_{x_n}(\alpha_n)
+^{n-1}T_n = \text{Rot}_{z_{n-1}}(\theta_n) \cdot \text{Trans}_{z_{n-1}}(d_n) \cdot \text{Trans}_{x_n}(r_n) \cdot \text{Rot}_{x_n}(\alpha_n)$$
+
+// TODO: rotation matrix?
+// TODO: translation matrix?
