@@ -1,4 +1,37 @@
-// TODO: voltage and current divider
-// TODO: Y-Δ transform
-// TODO: diode, FET, mosfet
 // TODO: Shockley diode equation
+
+// @id 01M68T516ZCD513800AJAHR345 model=basic-example
+q: How can voltage divider be built?
+a: [image:media/voltage-divider.svg]
+
+// @id 01M68T516ZRWE3HZP5QRMZM2GS model=basic-example
+q: How to calculate the output voltage of voltage divider?
+a: $$V_{out} = V_{in} \times \frac{R_2}{R_1 + R_2}$$
+[image:media/voltage-divider.svg]
+
+// @id 01M68T516Z1X9PMZGC73FD3C8B model=basic-example
+q: How can current divider be built?
+a: [image:media/current-divider.svg]
+
+// @id 01M68T516ZK1QP5NKAZYVZ2JZA model=basic-example
+q: How to calculate the output current of current divider?
+a: $$I_X = \frac{R_T}{R_X + R_T} I_T$$
+[image:media/current-divider.svg]
+
+// @id 01M68T516ZXDF7RTFYNC7TJXF6 model=basic-example
+q: What is the Y-$\Delta$ (wye-delta) transformation?
+a: The Y-$\Delta$ (wye-delta) transformation is a mathematical technique for simplifying the analysis of three-terminal electrical networks by converting between a "Y" (wye) configuration and a "$\Delta$" (delta) configuration.
+[image:media/wye-delta-transformation.svg]
+
+// @id 01M68T516ZKX5VFHCC4WJCH6VA model=cloze
+q: A ==diode== is a two-terminal electronic component that acts as a one-way switch for electric current.
+e: It allows current to flow easily in one direction (forward bias) while restricting it from flowing in the opposite direction (reverse bias).
+
+// @id 01M68T516ZN17EKHZGP9V3HD24 model=cloze
+q: The ==field-effect transistor (FET)== is a type of transistor that uses an electric field to control the current through a semiconductor.
+e: [image:media/field-effect-transistor.svg]
+
+// @id 01M68T516ZEXAPT51E9HSTG83K model=cloze
+q: A ==MOSFET (metal–oxide–semiconductor field-effect transistor)== is a field-effect transistor with an insulated gate whose voltage controls the conductivity of a semiconductor channel, allowing it to switch or amplify signals.
+e: It has three terminals—source, drain, and gate—through which a gate voltage modulates current flow between source and drain.
+[image:media/mosfet.svg]
