@@ -1,0 +1,20 @@
+// @id 01M6C7PKMZGKCPWTJMWZRNWFAJ model=cloze
+q: A ==period== on the periodic table is a row of chemical elements. All elements in a row have ==the same number of electron shells==.
+e: Each next element in a period has one more proton and is less metallic than its predecessor.
+
+// @id 01M6C7PKMZ74T4MTTPHA0Z1BFN model=cloze
+q: A ==group== on the periodic table is a column of chemical elements. Elements in the same group usually have similar properties, because they ==have the same number of electrons in the outermost electron shell==.
+
+// @id 01M6C7PKMZXFZK4KNA27YT4B3A model=cloze
+q: ==Ionization energy (IE)== is the minimum energy required to remove the most loosely bound electron from an isolated gaseous atom or ion in its ground state.
+e: It is a measure of how tightly an atom holds its outermost electron — the larger the IE, the harder the atom is to ionize.
+[image:media/ionization-energy.svg]
+
+// @id 01M6C7PKMZ49N0W6EE2R18KZ5Q model=cloze
+q: The ==Aufbau principle== states that, in the ground state of an atom or ion, electrons fill atomic orbitals of the lowest available energy before occupying higher-energy ones.
+e: [image:media/madelung-rule.svg]
+
+// @id 01M6C7PKMZZ1A9WA70YKW85CEP model=cloze
+q: The ==electron affinity ($E_{ea}$)== of an atom or molecule is defined as the amount of energy released when an electron attaches to a neutral atom or molecule in the gaseous state to form an anion.
+
+// TODO: lecture 3 from slide 13
