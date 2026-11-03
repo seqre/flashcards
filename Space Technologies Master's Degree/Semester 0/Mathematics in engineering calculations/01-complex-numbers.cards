@@ -42,3 +42,5 @@ e: The five most important constants ($e$, $i$, $\pi$, $1$, $0$), each used exac
 q: What is **de Moivre's formula / theorem / identity**?
 a: $$\left(\cos x + i\sin x\right)^n = \cos nx + i\sin nx$$
 e: "The power jumps inside and multiplies the angle." It follows from Euler's formula: $\left(e^{ix}\right)^n = e^{inx}$, so raising to the $n$-th power means rotating $n$ times by $x$.
+
+// TODO: arctan

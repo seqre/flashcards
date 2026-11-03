@@ -17,4 +17,49 @@ e: [image:media/madelung-rule.svg]
 // @id 01M6C7PKMZZ1A9WA70YKW85CEP model=cloze
 q: The ==electron affinity ($E_{ea}$)== of an atom or molecule is defined as the amount of energy released when an electron attaches to a neutral atom or molecule in the gaseous state to form an anion.
 
-// TODO: lecture 3 from slide 13
+// @id 01M6GE7C5BP6K95J5KGD97NREG model=cloze
+q: ==Valence Bond Theory (VBT)== is a quantum-mechanical model of covalent bonding that states a bond forms when an atomic orbital on one atom overlaps with an orbital on another atom, and their unpaired electrons pair up in the shared region.
+
+// @id 01M6GE7C5B59WJF4J9WDM7M411 model=cloze
+q: ==Molecular Orbital (MO) Theory== is a quantum-mechanical method for describing the electronic structure and bonding of molecules by treating electrons as occupying orbitals that are delocalized over the entire molecule, rather than being confined between two atoms.
+
+// @id 01M6GE7C5BC52221DC97C0V6HC model=basic-example
+q: What is **Linear Combination of Atomic Orbitals (LCAO)**?
+a: LCAO is a quantum-mechanical approximation in which molecular orbitals (MOs) are constructed as weighted sums of atomic orbitals (AOs) from the atoms in a molecule.
+Mathematically: $$\Psi_M = c_1 \cdot \psi_1 + c_2 \cdot \psi_2 + \ldots$$ where:
+- $\Psi_M$ - "one-electron" molecular orbital
+- $\psi_i$ - "one-electron" atomic orbital of atom $i$
+- $c_A$ - coefficient determining the contribution of each atomic orbital
+e: The number of resultant combinations (i.e., molecular orbitals) is always equal to the number of "starting" atomic orbitals (these are the rules for forming combinations).
+
+// @id 01M6GE7C5BJZA0MWPHAN0MAQY8 model=basic-example
+q: How does **Linear Combination of Atomic Orbitals (LCAO)** work?
+a: When two atoms approach each other, their atomic orbitals can combine in two ways:
+- **Constructive (in-phase) interference** → bonding MO (lower energy, electron density concentrated between the nuclei).
+- **Destructive (out-of-phase) interference** → antibonding MO (higher energy, a nodal plane between the nuclei). 
+e: $H_2$ - two hydrogen 1s AOs combine to give one $\sigma_{1s}$ bonding MO and one $\sigma_{1s}^{*}$ antibonding MO.
+
+// @id 01M6GE7C5B1EY6921WMGX8Q2XE model=basic-example
+q: What are the conditions for effective LCAO?
+a: 1. Similar Energy - $E_A \approx E_B$, the atomic orbitals must have comparable energies
+2. Appropriate Symmetry - for effective overlap to occur, the two atomic orbitals ($\psi_A$ and $\psi_B$) must have regions of the same mathematical sign overlapping each other
+3. Sufficient Overlap - the orbitals must be positioned in space to ensure significant spatial overlap
+
+// TODO: homonuclear diatomic molecules
+
+// @id 01M6GE7C5BQWTB2MPG0W8EB6MF model=cloze
+q: The net number of bonds (the number of bonding pairs minus the number of antibonding pairs) is called ==the Bond Order==. Alternatively, it's the number of chemical bonds (sigma + pi) between a pair of atoms, serving as a formal measure of their covalent bond multiplicity.
+
+// TODO: diagrams
+
+// @id 01M6GE7C5B40HMMYQC9WZZ30W7 model=cloze
+q: ==Electronegativity (symbol $\chi$)== is a measure of an atom's tendency to attract shared electrons (or electron density) toward itself when forming a chemical bond.
+e: Usually Pauling electronegativity scale is used (0.7-4)
+
+// @id 01M6GE7C5B9DX8RE4B42XJZSEJ model=basic-example
+q: What does electronegativity in Pauling scale tell about the bond type?
+a: $\Delta_X < 0.4$ - nonpolar covalent (electrons shared evenly)
+$0.4 <= \Delta_X < 1.7$ - polar covalent (electrons shared unevenly)
+$1.7 <= \Delta_X$ - ionic (electron transfer rather than sharing)
+
+// TODO: hybridization
