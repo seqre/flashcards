@@ -1,0 +1,129 @@
+// @id 01M6GJEB23FQTMJ35FFX1YP7EN model=basic-example
+q: NATO phonetic word for **A**?
+a: Alfa
+e: /ˈælfə/
+
+// @id 01M6GJEB239GX8MEAJXSH81KD0 model=basic-example
+q: NATO phonetic word for **B**?
+a: Bravo
+e: /ˈbrɑːvoʊ/
+
+// @id 01M6GJEB23VGDTRY9PJWZWFDPH model=basic-example
+q: NATO phonetic word for **C**?
+a: Charlie
+e: /ˈtʃɑːrli/
+
+// @id 01M6GJEB234PD9EKW5B17ZCSRY model=basic-example
+q: NATO phonetic word for **D**?
+a: Delta
+e: /ˈdɛltə/
+
+// @id 01M6GJEB23FGN86M3K80CYNTG9 model=basic-example
+q: NATO phonetic word for **E**?
+a: Echo
+e: /ˈɛkoʊ/
+
+// @id 01M6GJEB235VSV10JFV1DW2M5R model=basic-example
+q: NATO phonetic word for **F**?
+a: Foxtrot
+e: /ˈfɒkstrɒt/
+
+// @id 01M6GJEB235TCMQZ0AEP5343CT model=basic-example
+q: NATO phonetic word for **G**?
+a: Golf
+e: /ɡɒlf/
+
+// @id 01M6GJEB23EPKKYQK6K6C82XZ5 model=basic-example
+q: NATO phonetic word for **H**?
+a: Hotel
+e: /hoʊˈtɛl/
+
+// @id 01M6GJEB23WVVKF38JHX17B7YX model=basic-example
+q: NATO phonetic word for **I**?
+a: India
+e: /ˈɪndiə/
+
+// @id 01M6GJEB23006ZQFSVYF2JEF9Z model=basic-example
+q: NATO phonetic word for **J**?
+a: Juliett
+e: /ˈdʒuːliˈɛt/
+
+// @id 01M6GJEB23PZFDBWJ63R5EZ9SM model=basic-example
+q: NATO phonetic word for **K**?
+a: Kilo
+e: /ˈkiːloʊ/
+
+// @id 01M6GJEB23HA2Z1PMX79RH94MA model=basic-example
+q: NATO phonetic word for **L**?
+a: Lima
+e: /ˈliːmə/
+
+// @id 01M6GJEB234EQ9SD7DJX5A94HX model=basic-example
+q: NATO phonetic word for **M**?
+a: Mike
+e: /maɪk/
+
+// @id 01M6GJEB23YJ55CABFQPN8RZH2 model=basic-example
+q: NATO phonetic word for **N**?
+a: November
+e: /noʊˈvɛmbər/
+
+// @id 01M6GJEB236ER96AZEAME4QHCE model=basic-example
+q: NATO phonetic word for **O**?
+a: Oscar
+e: /ˈɒskər/
+
+// @id 01M6GJEB23V09RV1WH55Y41Z3X model=basic-example
+q: NATO phonetic word for **P**?
+a: Papa
+e: /pəˈpɑː/
+
+// @id 01M6GJEB23SETA367T8AA9J71D model=basic-example
+q: NATO phonetic word for **Q**?
+a: Quebec
+e: /kweˈbɛk/
+
+// @id 01M6GJEB23Q7ZPAMRSJG02275N model=basic-example
+q: NATO phonetic word for **R**?
+a: Romeo
+e: /ˈroʊmioʊ/
+
+// @id 01M6GJEB23YK3AYCSAA47FH94D model=basic-example
+q: NATO phonetic word for **S**?
+a: Sierra
+e: /siˈɛrə/
+
+// @id 01M6GJEB23FDTNEDXYHZ7824AR model=basic-example
+q: NATO phonetic word for **T**?
+a: Tango
+e: /ˈtæŋɡoʊ/
+
+// @id 01M6GJEB23M93NB5ET94RHQ7YG model=basic-example
+q: NATO phonetic word for **U**?
+a: Uniform
+e: /ˈjuːnifɔːrm/
+
+// @id 01M6GJEB230YR3WQ19C6BSX7NM model=basic-example
+q: NATO phonetic word for **V**?
+a: Victor
+e: /ˈvɪktər/
+
+// @id 01M6GJEB23REB2Q6R02QGB54Y2 model=basic-example
+q: NATO phonetic word for **W**?
+a: Whiskey
+e: /ˈwɪski/
+
+// @id 01M6GJEB233CBNDJF6TSA858QS model=basic-example
+q: NATO phonetic word for **X**?
+a: X-ray
+e: /ˈɛksreɪ/
+
+// @id 01M6GJEB23T1YHSYF3PE36M4FC model=basic-example
+q: NATO phonetic word for **Y**?
+a: Yankee
+e: /ˈjæŋki/
+
+// @id 01M6GJEB23FC6F7H382TDSAW2X model=basic-example
+q: NATO phonetic word for **Z**?
+a: Zulu
+e: /ˈzuːluː/

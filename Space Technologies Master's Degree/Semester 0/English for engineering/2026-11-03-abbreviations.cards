@@ -1,0 +1,79 @@
+// @id 01M6GJEB2349EC7940FW878JTF model=basic-example
+q: What does **AOCS** mean?
+a: Attitude and Orbit Control System
+
+// @id 01M6GJEB23H521282MSJN3F0H7 model=basic-example
+q: What does **GNC** mean?
+a: Guidance, Navigation and Control
+
+// @id 01M6GJEB23ZVHSGW1SHNNAK8VJ model=basic-example
+q: What does **TRL** mean?
+a: Technology Readiness Level
+
+// @id 01M6GJEB23MYRWT3Q9D9RMV1QM model=basic-example
+q: What does **PDR** mean?
+a: Preliminary Design Review
+
+// @id 01M6GJEB23TG0JGPBE5Y14J1T4 model=basic-example
+q: What does **CDR** mean?
+a: Critical Design Review
+
+// @id 01M6GJEB2300FJYYV4YHN4BT8P model=basic-example
+q: What does **EPS** mean?
+a: Electrical Power System
+
+// @id 01M6GJEB23E18A2FH5Q67VAKZ0 model=basic-example
+q: What does **RF** mean?
+a: Radio Frequency
+
+// @id 01M6GJEB23N40VJPD78GFTM4K9 model=basic-example
+q: What does **TM** mean?
+a: Telemetry
+
+// @id 01M6GJEB23BKMFS20E91MG4TEQ model=basic-example
+q: What does **TC** mean?
+a: Telecommand
+
+// @id 01M6GJEB23PR69NHF33KGG7AY0 model=basic-example
+q: What does **C&DH** mean?
+a: Command and Data Handling
+
+// @id 01M6GJEB23QMTVTT05FM1PDG73 model=basic-example
+q: What does **EO** mean?
+a: Earth Observation
+
+// @id 01M6GJEB23C30KV2RWFCDGQX15 model=basic-example
+q: What does **GNSS** mean?
+a: Global Navigation Satellite System
+
+// @id 01M6GJEB236FGVVY33AN4HWW99 model=basic-example
+q: What does **VSAT** mean?
+a: Very Small Aperture Terminal
+
+// @id 01M6GJEB2391HNYQKKPB6P8Y1D model=basic-example
+q: What does **InSAR** mean?
+a: Interferometric Synthetic Aperture Radar
+
+// @id 01M6GJEB231PZ10D5SE701TV3K model=basic-example
+q: What does **GSD** mean?
+a: Ground Sample Distance
+
+// @id 01M6GJEB23PP5ZXF2ZP2F4CRD7 model=basic-example
+q: What does **AM** mean?
+a: Additive Manufacturing
+
+// @id 01M6GJEB23MVN8V2YG4CB81BJB model=basic-example
+q: What does **BME** mean?
+a: Biomedical Engineering
+
+// @id 01M6GJEB23TKFS1G70X16YZCC0 model=basic-example
+q: What does **HRF** mean?
+a: Human Research Facility
+
+// @id 01M6GJEB23YHQ4Y027XFEGG056 model=basic-example
+q: What does **HAB** mean?
+a: Habitat
+
+// @id 01M6GJEB23KRT6V87YZ7QW0V62 model=basic-example
+q: What does **EVA** mean?
+a: Extravehicular Activity
