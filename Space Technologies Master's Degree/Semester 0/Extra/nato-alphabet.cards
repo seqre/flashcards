@@ -127,3 +127,53 @@ e: /ˈjæŋki/
 q: NATO phonetic word for **Z**?
 a: Zulu
 e: /ˈzuːluː/
+
+// @id 01M6GKJWXMHMMRHJ7V4Z88RSZY model=basic-example
+q: NATO phonetic word for **0**?
+a: ZE-RO
+e: /ˈzɪəroʊ/
+
+// @id 01M6GKJWXM9EZEM8DZ10W4VXFD model=basic-example
+q: NATO phonetic word for **1**?
+a: WUN
+e: /wʌn/
+
+// @id 01M6GKJWXM6DRRCMQ6HV4RH93Z model=basic-example
+q: NATO phonetic word for **2**?
+a: TOO
+e: /tuː/
+
+// @id 01M6GKJWXMCG1RTZKW167V0GK3 model=basic-example
+q: NATO phonetic word for **3**?
+a: TREE
+e: /triː/
+
+// @id 01M6GKJWXMFQ1XXHP1DYZ48ABZ model=basic-example
+q: NATO phonetic word for **4**?
+a: FOW-ER
+e: /ˈfoʊər/
+
+// @id 01M6GKJWXMF1NRCF69QPSWV34Y model=basic-example
+q: NATO phonetic word for **5**?
+a: FIFE
+e: /faɪf/
+
+// @id 01M6GKJWXM987WS3PYZBRXMKGZ model=basic-example
+q: NATO phonetic word for **6**?
+a: SIX
+e: /sɪks/
+
+// @id 01M6GKJWXM0SBT7F1JYRB2TEEY model=basic-example
+q: NATO phonetic word for **7**?
+a: SEV-EN
+e: /ˈsɛvən/
+
+// @id 01M6GKJWXMTCYSCJWCKS82JNQ7 model=basic-example
+q: NATO phonetic word for **8**?
+a: AIT
+e: /eɪt/
+
+// @id 01M6GKJWXM5141VF9EFPWSXP1D model=basic-example
+q: NATO phonetic word for **9**?
+a: NIN-ER
+e: /ˈnaɪnər/
