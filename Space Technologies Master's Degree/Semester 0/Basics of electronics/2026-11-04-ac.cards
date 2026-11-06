@@ -1,0 +1,45 @@
+// @id 01M6S1M10KZREMXQBRVNDYH6B5 model=cloze
+q: DC stands for ==Direct Current== while AC for ==Alternating Current==.
+
+// @id 01M6S1M10KHVCY93ZFENJ6XMN2 model=basic-example
+q: The formula for calculating the AC current as specific time is defined as..
+a: $$A(t) = A_{max} * \sin{2\pift}$$
+
+// TODO: time period T / pulse width / periodic time
+// TODO: periodic waveforms [image:media/periodic-waveforms.webp]
+// TODO: frequency and Hz (Hertz)
+
+// @id 01M6S1M10KXW6NXX3M9WQ0HED9 model=basic-example
+q: The amplitude of a waveform is defined as..
+a: The greatest value of either voltage or current that the waveform reaches during each half cycle measured from the zero baseline.
+[image:media/sinusoidal-waveform.webp]
+
+// TODO: peak-to-peak voltage [image:media/sinusoidal-waveform.webp]
+// TODO: RMS voltage
+// TODO: RMS voltage of pure sinusoidal waveform
+
+// @id 01M6S1M10KMY3GG2BZMX9A8TK6 model=cloze
+q: ==Form Factor (FF)== is the ratio between the average value and the RMS value defining the shape or “peakiness” of the AC waveform.
+e: $$\text{FF}=\frac{\text{R.M.S value}}{\text{Average values}}$$
+Note that a higher form factor will indicate a more “peaky” waveform, while a lower value would indicate a flatter wave shape.
+
+// @id 01M6S1M10K0X72EW8YRPKE7Y10 model=cloze
+q: ==Crest Factor (CF)== of a sinusoidal waveform is the ratio between its RMS value and its maximum or Peak value defining the maximum voltage of the waveform
+e: $$\text{CF} = \frac{\text{Peak value}}{\text{R.M.S value}}$$
+
+// @id 01M6S1M10KDG2V9S64HGTN800A model=basic-example
+q: The amount of EMF induced into a coil cutting the magnetic lines of force is determined by what three factors?
+a: - The **speed** at which the coil rotates inside the magnetic field
+- The **strength** of the magnetic field
+- The **length** of the coil or conductor passing through the magnetic field
+
+// @id 01M6S1M10KSNQKZJ42C8FXS5F5 model=cloze
+// TODO: radians with graphic
+q: ==Phase Difference / Phase Shift / Phase Delay==, defines the difference in time between two sinusoidal waveforms of the same frequency.
+e: The phase difference of two waveforms indicates how much one leads or lags behind the other.
+[image:media/phase-difference.webp]
+
+// TODO: Lagging Phase Shift
+// TODO: phasor diagram [image:media/phasor-diagram.webp]
+
+// continue from Phasor Addition of Two Rotating Phasors 18:50
