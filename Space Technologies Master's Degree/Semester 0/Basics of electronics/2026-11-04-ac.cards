@@ -19,12 +19,12 @@ a: The greatest value of either voltage or current that the waveform reaches dur
 // TODO: RMS voltage of pure sinusoidal waveform
 
 // @id 01M6S1M10KMY3GG2BZMX9A8TK6 model=cloze
-q: ==Form Factor (FF)== is the ratio between the average value and the RMS value defining the shape or “peakiness” of the AC waveform.
+q: ==Form Factor (FF)== is the ratio between the RMS value and the average value defining the shape or “peakiness” of the AC waveform.
 e: $$\text{FF}=\frac{\text{R.M.S value}}{\text{Average values}}$$
 Note that a higher form factor will indicate a more “peaky” waveform, while a lower value would indicate a flatter wave shape.
 
 // @id 01M6S1M10K0X72EW8YRPKE7Y10 model=cloze
-q: ==Crest Factor (CF)== of a sinusoidal waveform is the ratio between its RMS value and its maximum or Peak value defining the maximum voltage of the waveform
+q: ==Crest Factor (CF)== of a sinusoidal waveform is the ratio between its maximum or peak value and its RMS value defining the maximum voltage of the waveform.
 e: $$\text{CF} = \frac{\text{Peak value}}{\text{R.M.S value}}$$
 
 // @id 01M6S1M10KDG2V9S64HGTN800A model=basic-example
@@ -42,4 +42,7 @@ e: The phase difference of two waveforms indicates how much one leads or lags be
 // TODO: Lagging Phase Shift
 // TODO: phasor diagram [image:media/phasor-diagram.webp]
 
-// continue from Phasor Addition of Two Rotating Phasors 18:50
+// TODO: impedance
+// TODO: impedance formula
+// TODO: average power consumed by resistance P=VI=I^2R=V^2/R
+
