@@ -5,18 +5,41 @@ q: DC stands for ==Direct Current== while AC for ==Alternating Current==.
 q: The formula for calculating the AC current as specific time is defined as..
 a: $$A(t) = A_{max} * \sin{2\pift}$$
 
-// TODO: time period T / pulse width / periodic time
-// TODO: periodic waveforms [image:media/periodic-waveforms.webp]
-// TODO: frequency and Hz (Hertz)
+// @id 01M6XY255GMYD9QVS9ARM2PRPW model=cloze
+q: ==Time Period (T)== is the length of time in seconds that a waveform takes to complete one full cycle. For sine waves it is also called ==Periodic Time==, for square waves ==Pulse Width==.
+
+// @id 01M6XY255GSCKZPSHCTG7KKN4V model=basic-example
+q: Name the common types of periodic waveforms.
+a: - Sine wave
+- Complex wave
+- Triangular wave
+- Square wave
+[image:media/periodic-waveforms.webp]
+
+// @id 01M6XY255GNK1CKRFR51AEEDFR model=cloze
+q: ==Frequency (ƒ)== is the number of complete cycles a waveform completes in one second, measured in ==Hertz (Hz)==.
+e: Frequency is the reciprocal of the time period:
+$$f = \frac{1}{T}$$
 
 // @id 01M6S1M10KXW6NXX3M9WQ0HED9 model=basic-example
 q: The amplitude of a waveform is defined as..
 a: The greatest value of either voltage or current that the waveform reaches during each half cycle measured from the zero baseline.
 [image:media/sinusoidal-waveform.webp]
 
-// TODO: peak-to-peak voltage [image:media/sinusoidal-waveform.webp]
-// TODO: RMS voltage
-// TODO: RMS voltage of pure sinusoidal waveform
+// @id 01M6XY255GG9GNAYHQ37XFFXER model=basic-example
+q: The peak-to-peak voltage ($V_{p-p}$) of a waveform is defined as..
+a: The difference between the maximum positive peak ($+V_{max}$) and the minimum negative peak ($-V_{max}$) during one complete cycle. For a sine wave $V_{p-p} = 2V_{max}$.
+[image:media/sinusoidal-waveform.webp]
+
+// @id 01M6XY255GEQDT802BVCJXN5G9 model=cloze
+q: ==RMS (Root Mean Square) voltage== is the effective value of an AC voltage, equal to the DC voltage that would deliver the same power (heating effect) to a resistive load.
+e: $$V_{RMS} = \sqrt{\frac{1}{T}\int_0^T v(t)^2\,dt}$$
+Also called the effective value, $V_{eff}$.
+
+// @id 01M6XY255GP2KQPAZ3Q5CBXPJF model=basic-example
+q: The RMS voltage of a *pure sinusoidal waveform* is calculated as..
+a: $$V_{RMS} = \frac{V_{pk}}{\sqrt{2}} \approx 0.7071 \cdot V_{pk}$$
+e: Only valid for pure sinusoids. For non-sinusoidal waveforms use the graphical (mid-ordinate) method.
 
 // @id 01M6S1M10KMY3GG2BZMX9A8TK6 model=cloze
 q: ==Form Factor (FF)== is the ratio between the RMS value and the average value defining the shape or “peakiness” of the AC waveform.
@@ -33,16 +56,32 @@ a: - The **speed** at which the coil rotates inside the magnetic field
 - The **strength** of the magnetic field
 - The **length** of the coil or conductor passing through the magnetic field
 
+// @id 01M6XY255G50BEEGHRR801V7YK model=cloze
+q: A ==radian (rad)== is the angle at the centre of a circle subtended by an arc whose length equals the radius.
+e: A full circle (one full cycle of a waveform) is $2\pi$ rad $= 360^\circ$, so $1\,\text{rad} = \frac{360^\circ}{2\pi} \approx 57.3^\circ$.
+[image:media/radians.webp]
+
 // @id 01M6S1M10KSNQKZJ42C8FXS5F5 model=cloze
-// TODO: radians with graphic
 q: ==Phase Difference / Phase Shift / Phase Delay==, defines the difference in time between two sinusoidal waveforms of the same frequency.
 e: The phase difference of two waveforms indicates how much one leads or lags behind the other.
 [image:media/phase-difference.webp]
 
-// TODO: Lagging Phase Shift
-// TODO: phasor diagram [image:media/phasor-diagram.webp]
+// @id 01M6XY255GGDEGAQDV2SK9S7DT model=basic-example
+q: A phasor diagram is..
+a: A graphical representation of the magnitude and phase relationship between AC quantities of the same frequency. Each quantity is drawn as a vector rotating anticlockwise at angular velocity $\omega$, "frozen" at some instant, relative to a reference phasor along the positive x-axis.
+[image:media/phasor-diagram.webp]
 
-// TODO: impedance
-// TODO: impedance formula
-// TODO: average power consumed by resistance P=VI=I^2R=V^2/R
+// @id 01M6XY255GCA75C9G6EQ6W2VPR model=cloze
+q: ==Impedance (Z)== is the total opposition a circuit offers to the flow of alternating current, measured in ==ohms (Ω)==.
+e: It is the vector sum of resistance (R) and reactance (X). For a pure resistor $Z = R$.
 
+// @id 01M6XY255GP85Z1C4JJS5XWZGT model=basic-example
+q: The impedance of a circuit is calculated as..
+a: $$Z = \frac{V}{I} = R + jX$$
+$$|Z| = \sqrt{R^2 + X^2}$$
+e: For a series RLC circuit $X = X_L - X_C$, so $|Z| = \sqrt{R^2 + (X_L - X_C)^2}$.
+
+// @id 01M6XY255GHASV9CZ5WG1EXKEW model=basic-example
+q: The average power consumed by a pure resistance in an AC circuit is..
+a: $$P = V \cdot I = I^2 R = \frac{V^2}{R}$$
+e: V and I are RMS values. These are the same as the DC formulas because voltage and current are in phase.
