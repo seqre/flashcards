@@ -85,3 +85,90 @@ e: For a series RLC circuit $X = X_L - X_C$, so $|Z| = \sqrt{R^2 + (X_L - X_C)^2
 q: The average power consumed by a pure resistance in an AC circuit is..
 a: $$P = V \cdot I = I^2 R = \frac{V^2}{R}$$
 e: V and I are RMS values. These are the same as the DC formulas because voltage and current are in phase.
+
+// @id 01M6YJJG15Z8SSG0XGKNFGRJRF model=cloze
+q: ==Reactance (X)== is the opposition of an inductor or capacitor to alternating current, measured in ==ohms (Ω)==. Unlike resistance, it depends on ==frequency==.
+e: It is the imaginary part of impedance, $Z = R + jX$, where $X = X_L - X_C$.
+
+// @id 01M6YJJG15VYVG0AXGS11Q919Y model=basic-example
+q: The inductive reactance $X_L$ in terms of frequency $f$ is calculated as..
+a: $$X_L = 2\pi f L$$
+- $X_L$ – inductive reactance [Ω]
+- $f$ – frequency [Hz]
+- $L$ – inductance [H]
+
+// @id 01M6YJJG15PPQ3S4GTNM2R95Y0 model=basic-example
+q: The inductive reactance $X_L$ in terms of angular frequency $\omega$ is calculated as..
+a: $$X_L = \omega L$$
+- $X_L$ – inductive reactance [Ω]
+- $\omega = 2\pi f$ – angular frequency [rad/s]
+- $L$ – inductance [H]
+
+// @id 01M6YJJG150D0V974HFMPSC8KM model=cloze
+q: The mnemonic for the phase relationship in an AC inductance is ==ELI==: the voltage (E) in an inductor (L) ==leads== the current (I) by 90°.
+
+// @id 01M6YJJG157GT5P0HYSCCDX4Y7 model=basic-example
+q: How do inductive reactance $X_L$ and current change as frequency increases?
+a: $X_L$ increases linearly with frequency ($X_L \propto f$), while the current decreases.
+[image:media/current-reactance-frequency.webp]
+
+// @id 01M6YJJG15D6T6AZSTNA1NQEQ6 model=basic-example
+q: How does an inductor behave at $f = 0$ (DC) and at $f \to \infty$?
+a: - $f = 0$: $X_L = 0$, acts as a short circuit, maximum current
+- $f \to \infty$: $X_L = \infty$, acts as an open circuit, $I = 0$
+[image:media/inductance-frequency.webp]
+
+// @id 01M6YJJG151MY8JQKP3S3BVSMP model=basic-example
+q: The impedance of a series RL circuit is calculated as..
+a: $$Z = R + jX_L$$
+$$|Z| = \sqrt{R^2 + X_L^2}$$
+e: Phase angle $\phi = \tan^{-1}\frac{X_L}{R}$, with the current lagging the voltage.
+
+// @id 01M6YJJG159B8RNY2H9WN0KJ3R model=cloze
+q: The mnemonic for the phase relationship in an AC capacitance is ==ICE==: the current (I) in a capacitor (C) ==leads== the voltage (E) by 90°.
+
+// @id 01M6YJJG15ATFV86K8T6A6X6NB model=basic-example
+q: The capacitive reactance $X_C$ in terms of frequency $f$ is calculated as..
+a: $$X_C = \frac{1}{2\pi f C}$$
+- $X_C$ – capacitive reactance [Ω]
+- $f$ – frequency [Hz]
+- $C$ – capacitance [F]
+
+// @id 01M6YJJG15KT8W3D0Y040ASDQB model=basic-example
+q: The capacitive reactance $X_C$ in terms of angular frequency $\omega$ is calculated as..
+a: $$X_C = \frac{1}{\omega C}$$
+- $X_C$ – capacitive reactance [Ω]
+- $\omega = 2\pi f$ – angular frequency [rad/s]
+- $C$ – capacitance [F]
+
+// @id 01M6YJJG15J3HPN69RWSJ5XEHQ model=basic-example
+q: How do capacitive reactance $X_C$ and current change as frequency increases?
+a: $X_C$ decreases, being inversely proportional to frequency ($X_C \propto \frac{1}{f}$), while the current increases.
+[image:media/current-capacitive-reactance-frequency.webp]
+
+// @id 01M6YJJG15T86P144TQ3C4MK93 model=basic-example
+q: How does a capacitor behave at $f = 0$ (DC) and at $f \to \infty$?
+a: - $f = 0$: $X_C = \infty$, acts as an open circuit, $I = 0$ (blocks DC)
+- $f \to \infty$: $X_C = 0$, acts as a short circuit, maximum current
+[image:media/capacitance-frequency.webp]
+
+// @id 01M6YJJG156ZRMBGDGD8MGD1AK model=basic-example
+q: The impedance of a series RC circuit is calculated as..
+a: $$Z = R - jX_C$$
+$$|Z| = \sqrt{R^2 + X_C^2}$$
+e: Phase angle $\phi = \tan^{-1}\frac{X_C}{R}$, with the current leading the voltage.
+
+// @id 01M6YJJG15WFT52T3F42SNEFYV model=basic-example
+q: In a series RLC circuit, what is the phase of the voltage across each element relative to the common current?
+a: - $V_R$ is in phase with $I$
+- $V_L$ leads $I$ by 90°
+- $V_C$ lags $I$ by 90°
+So $V_L$ and $V_C$ are 180° out of phase with each other.
+[image:media/series-rlc-phase-relationship.webp]
+[image:media/rlc-voltage-diagrams.webp]
+
+// @id 01M6YJJG150GW7N1GGYNV8CY95 model=basic-example
+q: The impedance of a series RLC circuit is calculated as..
+a: $$Z = R + j(X_L - X_C)$$
+$$|Z| = \sqrt{R^2 + (X_L - X_C)^2}$$
+e: If $X_L > X_C$ the circuit is inductive (current lags the voltage); if $X_C > X_L$ it is capacitive (current leads the voltage).
