@@ -1,5 +1,5 @@
 default:
-	just --choose
+	@just --choose
 
 [working-directory("Space Technologies Master's Degree")]
 list-todos:
@@ -14,9 +14,10 @@ list-todos:
 build-agh:
 	@ankigen build "Space Technologies Master's Degree" -o agh.apkg
 	@echo "REMEMBER TO COMMIT NEW CARD AND DECK IDS"
+	@git add -p
 
 edit-agh:
-	ranger "Space Technologies Master's Degree/Semester 0"
+	@ranger "Space Technologies Master's Degree/Semester 0"
 
 # two-way sync of every media/ folder with the same tree in dir (newer file wins, nothing is deleted)
 [no-cd]
