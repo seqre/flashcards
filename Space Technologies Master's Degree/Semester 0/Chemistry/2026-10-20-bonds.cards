@@ -5,6 +5,10 @@ e: Each next element in a period has one more proton and is less metallic than i
 // @id 01M6C7PKMZ74T4MTTPHA0Z1BFN model=cloze
 q: A ==group== on the periodic table is a column of chemical elements. Elements in the same group usually have similar properties, because they ==have the same number of electrons in the outermost electron shell==.
 
+// @id 01M7HZYCTNBMZGDZZGV8Q20HNR model=basic-example
+q: Why are chemical bonds formed?
+a: The electron energy states that appear as a result of bond formation correspond to **lower energies** than the energies of electrons in isolated atoms.
+
 // @id 01M6C7PKMZXFZK4KNA27YT4B3A model=cloze
 q: ==Ionization energy (IE)== is the minimum energy required to remove the most loosely bound electron from an isolated gaseous atom or ion in its ground state.
 e: It is a measure of how tightly an atom holds its outermost electron — the larger the IE, the harder the atom is to ionize.
@@ -41,9 +45,9 @@ e: $H_2$ - two hydrogen 1s AOs combine to give one $\sigma_{1s}$ bonding MO and 
 
 // @id 01M6GE7C5B1EY6921WMGX8Q2XE model=basic-example
 q: What are the conditions for effective LCAO?
-a: 1. Similar Energy - $E_A \approx E_B$, the atomic orbitals must have comparable energies
-2. Appropriate Symmetry - for effective overlap to occur, the two atomic orbitals ($\psi_A$ and $\psi_B$) must have regions of the same mathematical sign overlapping each other
-3. Sufficient Overlap - the orbitals must be positioned in space to ensure significant spatial overlap
+a: 1. **Similar Energy** - $E_A \approx E_B$, the atomic orbitals must have comparable energies
+2. **Appropriate Symmetry** - for effective overlap to occur, the two atomic orbitals ($\psi_A$ and $\psi_B$) must have regions of the same mathematical sign overlapping each other
+3. **Sufficient Overlap** - the orbitals must be positioned in space to ensure significant spatial overlap
 
 // TODO: homonuclear diatomic molecules
 
