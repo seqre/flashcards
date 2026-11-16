@@ -10,3 +10,8 @@ $$\sum F_x = ma_x, \quad \sum F_y = ma_y, \quad \sum F_z = ma_z$$
 // @id 01M61KJ9DSFY8PD7W0RJWY7K5G model=basic-example
 q: Newton's third law states that..
 a: $$\boldsymbol{F}_{A \leftarrow B} = -\boldsymbol{F}_{B \leftarrow A}$$
+
+// spring not covered during lecture
+
+// @id 01M7J3NX5A1EHN7HA1T06DBK9Z model=cloze
+q: ==Tension ($T$)== is the pulling (or stretching) force transmitted axially along a stretched flexible connector such as a rope, string, cable, or chain.

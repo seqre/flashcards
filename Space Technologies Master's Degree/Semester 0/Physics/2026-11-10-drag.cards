@@ -1,0 +1,11 @@
+// @id 01M7J3NX5A4G0YNJA4A42NVQNV model=cloze
+q: ==Friction== is the force resisting the relative motion of solid surfaces, fluid layers, and material elements sliding or grinding against each other.
+
+// @id 01M7J3NX5A3H3DGREF5884GJ3W model=cloze
+q: ==Dry== friction resists relative lateral motion of two solid surfaces in contact.
+
+// @id 01M7J3NX5ABKWE12MB2DM82HM8 model=basic-example
+q: The two regimes of dry friction are.. 
+a: - **static friction** ("stiction") between non-moving surfaces
+- **kinetic friction** (sometimes called sliding friction or dynamic friction) between moving surfaces
+[image:media/static-vs-kinetic-friction.png]
