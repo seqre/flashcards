@@ -30,7 +30,10 @@ sync-media dir:
 	rsync "${opts[@]}" --out-format='-> %n' -- "$repo/" "$dir/"
 	rsync "${opts[@]}" --out-format='<- %n' -- "$dir/" "$repo/"
 
-# give every SVG a white background (skips files that already have it)
 add-white-background:
 	@rg --no-ignore -0 --files-without-match -F ':root{background:white}' -g '*.svg' . \
 	| xargs -0 -r sed -i 's|</svg>|<style>:root{background:white}</style></svg>|'
+
+	@rg --no-ignore -0 --files -g '*.webp' . \
+	| nix shell nixpkgs#imagemagick -c xargs -0 -r -I{} sh -c \
+		'[ "$(magick identify -format %[opaque] "$1")" = True ] || magick "$1" -background white -alpha remove -alpha off -define webp:lossless=true "$1"' _ {}
