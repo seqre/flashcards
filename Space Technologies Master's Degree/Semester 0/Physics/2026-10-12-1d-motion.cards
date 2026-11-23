@@ -26,5 +26,11 @@ a: $$v(t) = v(t_0) + \int_{t_0}^{t} a(s)\,\mathrm{d}s$$
 q: When the acceleration is not constant, the position can be calculated using..
 a: $$x(t) = x(t_0) + \int_{t_0}^{t} v(s)\,\mathrm{d}s$$
 
+q: Velocity (metre per second [$\frac{m}{s}$]) is equal to..
+a: Displacement over time (metre per second [$\frac{m}{s}$])
+
+q: Acceleration (metre per second squared [$\frac{m}{s^2}$]) is equal to..
+a: Change in velocity over time (metre per second per second [$\frac{m/s}{s}$])
+
 // TODO: time-ignoring equation: v^2 - v_0^2=2a(x-x_0)
 // TODO: free fall
