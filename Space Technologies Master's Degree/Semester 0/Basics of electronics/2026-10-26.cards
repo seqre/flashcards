@@ -29,6 +29,9 @@ e: It allows current to flow easily in one direction (forward bias) while restri
 q: The ==field-effect transistor (FET)== is a type of transistor that uses an electric field to control the current through a semiconductor.
 e: [image:media/field-effect-transistor.svg]
 
+// @id 01M843ZDGQSMSZ61B8V2FWMBMN model=cloze
+q: MOSFET stands for ==metal–oxide–semiconductor field-effect transistor==.
+
 // @id 01M68T516ZEXAPT51E9HSTG83K model=cloze
 q: A ==MOSFET (metal–oxide–semiconductor field-effect transistor)== is a field-effect transistor with an insulated gate whose voltage controls the conductivity of a semiconductor channel, allowing it to switch or amplify signals.
 e: It has three terminals—source, drain, and gate—through which a gate voltage modulates current flow between source and drain.

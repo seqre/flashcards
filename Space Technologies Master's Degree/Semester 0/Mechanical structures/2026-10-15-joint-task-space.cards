@@ -38,10 +38,10 @@ e: [image:media/denavit-hartenberg-parameters.png]
 
 // @id 01M63BQCXAV0419MA6RKW9E900 model=basic-example
 q: How is Denavit–Hartenberg (D–H) matrix defined?
-a: $$[Z_i] = \text{Trans}_{Z_i}(d_i) \text{Rot}_{Z_i}(\theta_i)
+a: $$[Z_i] = \text{Trans}_{Z_i}(d_i) \text{Rot}_{Z_i}(\theta_i)\\
 [X_i] = \text{Trans}_{X_i}(r_{i,i+1}) \text{Rot}_{X_i}(\alpha_{i,i+1})$$
 which can be used like:
-$$^{n-1}T_n = \text{Trans}_{z_{n-1}}(d_n) \cdot \text{Rot}_{z_{n-1}}(\theta_n) \cdot \text{Trans}_{x_n}(r_n) \cdot \text{Rot}_{x_n}(\alpha_n)
+$$^{n-1}T_n = \text{Trans}_{z_{n-1}}(d_n) \cdot \text{Rot}_{z_{n-1}}(\theta_n) \cdot \text{Trans}_{x_n}(r_n) \cdot \text{Rot}_{x_n}(\alpha_n)\\
 ^{n-1}T_n = \text{Rot}_{z_{n-1}}(\theta_n) \cdot \text{Trans}_{z_{n-1}}(d_n) \cdot \text{Trans}_{x_n}(r_n) \cdot \text{Rot}_{x_n}(\alpha_n)$$
 
 // TODO: rotation matrix?

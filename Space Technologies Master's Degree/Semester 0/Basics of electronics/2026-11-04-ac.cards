@@ -3,7 +3,7 @@ q: DC stands for ==Direct Current== while AC for ==Alternating Current==.
 
 // @id 01M6S1M10KHVCY93ZFENJ6XMN2 model=basic-example
 q: The formula for calculating the AC current as specific time is defined as..
-a: $$A(t) = A_{max} * \sin{2\pift}$$
+a: $$A(t) = A_{max} * \sin{2\pi ft}$$
 
 // @id 01M6XY255GMYD9QVS9ARM2PRPW model=cloze
 q: ==Time Period (T)== is the length of time in seconds that a waveform takes to complete one full cycle. For sine waves it is also called ==Periodic Time==, for square waves ==Pulse Width==.

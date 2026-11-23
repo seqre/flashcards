@@ -26,9 +26,11 @@ a: $$v(t) = v(t_0) + \int_{t_0}^{t} a(s)\,\mathrm{d}s$$
 q: When the acceleration is not constant, the position can be calculated using..
 a: $$x(t) = x(t_0) + \int_{t_0}^{t} v(s)\,\mathrm{d}s$$
 
+// @id 01M843ZDGQDDJFJ48RHP9M9TPK model=basic-example
 q: Velocity (metre per second [$\frac{m}{s}$]) is equal to..
 a: Displacement over time (metre per second [$\frac{m}{s}$])
 
+// @id 01M843ZDGQQ9C14ATYX0BPSSMV model=basic-example
 q: Acceleration (metre per second squared [$\frac{m}{s^2}$]) is equal to..
 a: Change in velocity over time (metre per second per second [$\frac{m/s}{s}$])
 

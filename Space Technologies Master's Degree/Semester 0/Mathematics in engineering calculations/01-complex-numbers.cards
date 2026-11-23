@@ -20,7 +20,7 @@ e: **c**os before **s**in, just like **x** before **y**: alphabetical order matc
 Sanity check: at $\varphi = 0$ the point lies on the positive real axis $(r, 0)$, and $\cos{0} = 1$, so $\cos$ must be the $x$ part.
 
 // @id 01M5AVRFY3W3MNKP7J2V17SB2W model=cloze
-q: In mathematics (particularly in complex analysis), the ==argument of a complex number $z$, denoted $arg(z)$==, is the angle between the positive real axis and the line joining the origin and $z$.
+q: In mathematics (particularly in complex analysis), the ==argument (denoted $arg(z)$)== of a complex number $z$, is the angle between the positive real axis and the line joining the origin and $z$.
 e: [image:media/complex-conjugate.svg]
 
 // @id 01M5AVRFY3XBPF5G2XGHXD9QGM model=basic-example

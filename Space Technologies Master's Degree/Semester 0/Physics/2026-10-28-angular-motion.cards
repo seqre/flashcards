@@ -30,10 +30,12 @@ a: $$\hat{\mathbf{e}}_r = \cos\theta\,\hat{\boldsymbol{\imath}} + \sin\theta\,\h
 q: In polar coordinates, the **angular unit vector** $\hat{\mathbf{e}}_\theta$ in Cartesian unit vectors is..
 a: $$\hat{\mathbf{e}}_\theta = -\sin\theta\,\hat{\boldsymbol{\imath}} + \cos\theta\,\hat{\boldsymbol{\jmath}}$$
 
+// @id 01M843ZDGQ2MZKEADKYVMD8VDX model=basic-example
 q: Angle (radian [rad]) is equal to..
 a: Arc length over radius (metre per metre [$\frac{m}{m}$])
 e: In SI base units it's dimensionless ($1$)
 
+// @id 01M843ZDGQ7HES9TG429XCTHE9 model=basic-example
 q: Angular velocity (radian per second [$\frac{rad}{s}$]) is equal to..
 a: Change in angle over time (radian per second [$\frac{rad}{s}$])
 e: In SI base units it's equal to $\frac{1}{s}$, since the radian is dimensionless
