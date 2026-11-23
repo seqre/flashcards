@@ -29,3 +29,8 @@ sync-media dir:
 	opts=(-rtuOm --exclude=.git --include='*/' --include='media/**' --exclude='*')
 	rsync "${opts[@]}" --out-format='-> %n' -- "$repo/" "$dir/"
 	rsync "${opts[@]}" --out-format='<- %n' -- "$dir/" "$repo/"
+
+# give every SVG a white background (skips files that already have it)
+add-white-background:
+	@rg --no-ignore -0 --files-without-match -F ':root{background:white}' -g '*.svg' . \
+	| xargs -0 -r sed -i 's|</svg>|<style>:root{background:white}</style></svg>|'
