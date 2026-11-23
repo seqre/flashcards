@@ -105,7 +105,8 @@ a: $$X_L = \omega L$$
 - $L$ – inductance [H]
 
 // @id 01M6YJJG150D0V974HFMPSC8KM model=cloze
-q: The mnemonic for the phase relationship in an AC inductance is ==ELI==: the voltage (E) in an inductor (L) ==leads== the current (I) by 90°.
+q: The mnemonic for the phase relationship in an AC inductance is ==ELI==
+e: The voltage (E) in an inductor (L) ==leads== the current (I) by 90°.
 
 // @id 01M6YJJG157GT5P0HYSCCDX4Y7 model=basic-example
 q: How do inductive reactance $X_L$ and current change as frequency increases?
@@ -125,7 +126,8 @@ $$|Z| = \sqrt{R^2 + X_L^2}$$
 e: Phase angle $\phi = \tan^{-1}\frac{X_L}{R}$, with the current lagging the voltage.
 
 // @id 01M6YJJG159B8RNY2H9WN0KJ3R model=cloze
-q: The mnemonic for the phase relationship in an AC capacitance is ==ICE==: the current (I) in a capacitor (C) ==leads== the voltage (E) by 90°.
+q: The mnemonic for the phase relationship in an AC capacitance is ==ICE==
+e: The current (I) in a capacitor (C) ==leads== the voltage (E) by 90°.
 
 // @id 01M6YJJG15ATFV86K8T6A6X6NB model=basic-example
 q: The capacitive reactance $X_C$ in terms of frequency $f$ is calculated as..
